@@ -1,0 +1,10 @@
+= Pojęcie prądu elektrycznego.
+
+=== 1. Napięcie i natężenie prądu elektrycznego.
+
+* U = napięcie elektryczne = ΔEp/(W/q)
+
+* Jeżeli pomiędzy dwoma naładowanymi płytkami ładunek o wartości "q" jest przenoszony między dwoma punktami to wymaga to wykonania pracy - "W". Równej różnicy energii potencjalnej między dwoma punktami.
+
+=== Napięcie elektryczne
+* Napięciem elektrycznym nazywamy stosunek pracy jaka musi być wykonana przy przenoszeniu ładunku z jednego punktu do drugiego w polu elektrostatcznym do wartości tego ładunku.
