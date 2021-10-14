@@ -1,0 +1,10 @@
+= Elektryzowanie przez dotyk
+
+=== 1. Układ izolowany
+* W układzie izolowanym (nie mającym połączenia elektrycznego z otoczeniem) suma ładunków elektrycznych jest taka sama.
+
+=== 2. Pomiar naelektryzowania ciał
+* Do pomiaru elektryzowania ciał służy elektroskop.
+
+=== 3. Elektroskop
+* Działa na zasadzie oddziaływania ze sobą ładunków elektrycznych.
