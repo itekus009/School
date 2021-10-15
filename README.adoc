@@ -11,3 +11,4 @@
 
 . link:Matematyka/R%C3%B3wnania.html[Równania]
 
+=== Język polski
