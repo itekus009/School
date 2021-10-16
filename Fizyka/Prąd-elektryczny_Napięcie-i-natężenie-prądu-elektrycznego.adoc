@@ -20,7 +20,7 @@ stem:[U = 1V = (1J )/(1C)]
 
 == Nośniki prądu elektrycznego
 
-[cols="^2,^1,^2"]
+[%header,cols="^2,^1,^2"]
 |===
 |ciecze (elektrolity)|przewodniki|gazy
 |jony (dodatnie i ujemne)
