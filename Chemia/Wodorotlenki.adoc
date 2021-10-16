@@ -108,5 +108,3 @@ związanych.
 TIP: R - rozpuszczalne; T - trudno rozpuszczalne; N - nie rozpuszczalne
 
 NOTE: Wartość ładunku odpowiada wartościowości reszty kwasowej, albo grupy wodorotlenowej.
-
-IMPORTANT: Wszystkie zasady przewodzą prąd!
