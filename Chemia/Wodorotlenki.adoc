@@ -105,6 +105,12 @@ związanych.
 |N
 |===
 
-TIP: R - rozpuszczalne; T - trudno rozpuszczalne; N - nie rozpuszczalne
+****
+R - rozpuszczalne
+
+T - trudno rozpuszczalne
+
+N - nie rozpuszczalne
 
 NOTE: Wartość ładunku odpowiada wartościowości reszty kwasowej, albo grupy wodorotlenowej.
+****
