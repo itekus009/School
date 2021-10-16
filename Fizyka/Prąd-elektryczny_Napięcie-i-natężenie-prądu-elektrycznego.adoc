@@ -30,7 +30,7 @@ stem:[U = 1V = (1J )/(1C)]
 |===
 
 == Natężenie prądu
-* Natężenie prądu elektrycznego nazywamy stosunek wartości ładunku jaki przepłynie przez poprzeczny pokrój przewodnika.
+* Natężeniem prądu elektrycznego nazywamy stosunek wartości ładunku jaki przepłynie przez poprzeczny pokrój przewodnika.
 
 NOTE: Większe natężenie prądu będzie, gdy przepłynie więcej ładunków w określonym czasie.
 
