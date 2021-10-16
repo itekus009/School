@@ -44,7 +44,7 @@ endif::[]
 |II
 |===
 
-IMPORTANT: *Wartościowość Cynku nie podajemy w nawiasie.*
+IMPORTANT: *Wartościowości Cynku nie podajemy w nawiasie.*
 
 == Zasady
 
@@ -67,9 +67,8 @@ TIP: *Każda zasada to wodorotlenek. Przy rozpuszczaniu w wodzie występuje reak
 
 ....
       -      
-O --- H - |"-" to pary elektronów nie związanych; "---" to para elektronów 
-      -
-związanych.          
+O --- H -    | "-" to pary elektronów niezwiązanych
+      -      | "---" to para elektronów związanych.          
 ....
 
 === Sprawdź i zapamiętaj.
@@ -112,5 +111,5 @@ T - trudno rozpuszczalne
 
 N - nie rozpuszczalne
 
-NOTE: Wartość ładunku odpowiada wartościowości reszty kwasowej, albo grupy wodorotlenowej.
+NOTE: Wartość ładunku odpowiada wartościowości reszty kwasowej albo grupy wodorotlenowej.
 ****
