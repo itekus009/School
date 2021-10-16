@@ -105,11 +105,11 @@ O --- H -    | "-" to pary elektronów niezwiązanych
 |===
 
 ****
-R - rozpuszczalne
+*R* - rozpuszczalne
 
-T - trudno rozpuszczalne
+*T* - trudno rozpuszczalne
 
-N - nie rozpuszczalne
+*N* - nie rozpuszczalne
 
 NOTE: *Wartość ładunku odpowiada wartościowości reszty kwasowej albo grupy wodorotlenowej.*
 ****
