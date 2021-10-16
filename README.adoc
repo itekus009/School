@@ -14,3 +14,8 @@
 === Język polski
 
 . link:j_polski/Nazwy-osobowe-i-miejscowe.html[Nazwy osobowe i miejscowe]
+
+
+=== Chemia
+
+. link:Chemia/Wodorotlenki.html[Wodorotlenki]
