@@ -1,6 +1,8 @@
 = Pojęcie prądu elektrycznego.
-:stem:
+:toc:
+:toc-title: Spis treści
 :sectnums:
+:icons: font
 
 == Napięcie i natężenie prądu elektrycznego.
 
