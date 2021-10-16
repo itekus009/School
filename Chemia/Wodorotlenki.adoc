@@ -44,7 +44,7 @@ endif::[]
 |II
 |===
 
-IMPORTANT: *Wartościowości Cynku nie podajemy w nawiasie.*
+IMPORTANT: *Przy pisaniu nazwy wartościowości Cynku nie podajemy w nawiasie.*
 
 == Zasady
 
