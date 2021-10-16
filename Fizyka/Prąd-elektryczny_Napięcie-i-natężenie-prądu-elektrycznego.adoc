@@ -1,6 +1,7 @@
 = Prąd elektryczny. Napięcie i natężenie prądu elektrycznego.
 :stem:
 :sectnums:
+:icons: font
 
 == Napięcie elektryczne.
 
