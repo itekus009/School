@@ -19,10 +19,13 @@ stem:[U = 1V = (1J )/(1C)]
 
 == Nośniki prądu elektrycznego
 
-[cols="1,1"]
+[cols="1,1,1"]
 |===
-|ciecze (elektrolity)       |przewodniki    |gazy
-|jony (dodatnie i ujemne)   |elektrony      |jony (dodatnie i ujemne) oraz elektrony
+|ciecze (elektrolity)|przewodniki|gazy
+
+|jony (dodatnie i ujemne)
+|elektrony
+|jony (dodatnie i ujemne) oraz elektrony
 |===
 
 == Natężenie prądu
