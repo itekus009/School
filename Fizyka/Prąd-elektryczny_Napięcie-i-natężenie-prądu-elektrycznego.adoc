@@ -1,0 +1,39 @@
+= Prąd elektryczny. Napięcie i natężenie prądu elektrycznego.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+
+== Napięcie elektryczne.
+
+stem:[Delta E = W]
+
+stem:[U = Delta E_p = (W/q)]
+
+* Jednostką napięcia jest 1V
+
+stem:[U = 1V = (1J )/(1C)]
+
+== Ruch uporządkowany
+* Ruch ten wstępuje, gdy wszystkie elektrony poruszają się w jednym kierunku.
+* Uporządkowany ruch elektronów to prąd elektryczny.
+* Warunkiem jest wytworzenie napięcia.
+
+== Nośniki prądu elektrycznego
+
+[%header,cols="^2,^1,^2"]
+|===
+|ciecze (elektrolity)|przewodniki|gazy
+|jony (dodatnie i ujemne)
+|elektrony
+|jony (dodatnie i ujemne) oraz elektrony
+|===
+
+== Natężenie prądu
+* Natężenie prądu elektrycznego nazywamy stosunek wartości ładunku jaki przepłynie przez poprzeczny pokrój przewodnika.
+
+NOTE: Większe natężenie prądu będzie, gdy przepłynie więcej ładunków w określonym czasie.
+
+stem:[J = (q/t)]
+
+stem:[J = 1A = (1C)/(1s)]
