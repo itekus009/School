@@ -15,12 +15,12 @@
   ** trzęsienia ziemi
   ** zjawiska wulkaniczne
 
-== Ukształtowanie powierzchnii:
+== Ukształtowanie powierzchni:
 
-* Jest silnie rozmaicona.
-* Najwysze łańcuchy górskie znajdują się w południowej częsci Azji:
+* Jest silnie urozmaicona.
+* Najwyższe łańcuchy górskie znajdują się w południowej części Azji:
   ** Himalaje
-  ** Karakurum
+  ** Karakorum
   ** Hindukusz
   
 * Największe wyspy:
@@ -30,7 +30,7 @@
   ** Borneo
   ** Celebes
   ** Honsiu
-* Największe półwysy:
+* Największe półwyspy:
 
   ** Arabski
   ** Indochiński
@@ -55,8 +55,8 @@
   ** Turańska
 
 == Klimat Azji:
-* Duża odległość wnętrza lądu lub wybrzeży powoduje występowanie róznych typów klimatów (kontynentalny/morski).
-* W Azji występują wszystkie strefy klimatyczne na Ziemii.
+* Duża odległość wnętrza lądu lub wybrzeży powoduje występowanie różnych typów klimatów (kontynentalny/morski).
+* W Azji występują wszystkie strefy klimatyczne na Ziemi.
 * W Azji południowo-wsch występują opady monsunowe.
 * Najbardziej znana jest cyrkulacja monsunowa, która występuje w:
   ** w Indiach - 11000 m.
@@ -65,5 +65,5 @@
 == Sieć rzeczna:
 * Promieniste rozmieszczenie rzek jest spowodowane ich wypływaniem z gór w środkowej części Azji.
 * Regiony o największej sieci rzecznej: południe, płd-wsch i wsch.
-* Ze względu na deszcze monsunowe w Syberii topnieje śnieg, a na Nizinie Mezopotamskiej występiją opady w górach Taurus.
+* Ze względu na deszcze monsunowe w Syberii topnieje śnieg, a na Nizinie Mezopotamskiej występują opady w górach Taurus.
 * Największe jezioro to Morze Kaspijskie, a najgłębsze: Bajkał (1642m głębokości)
