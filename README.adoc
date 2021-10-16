@@ -1,4 +1,14 @@
 = Notatki szkolne
+:toc:
+:toc-title: Spis treści
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
 == Przedmioty
 
