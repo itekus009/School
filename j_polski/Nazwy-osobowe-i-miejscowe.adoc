@@ -14,7 +14,7 @@ endif::[]
 
 === Nazwy osobowe
 * Nazwy konkretnych osób
-  - przydomki, imiona, nazwiska, pseudominy itd.
+  - przydomki, imiona, nazwiska, pseudonimy itd.
 
 === Nazwy miejscowe
 * Nazwy miejscowości
@@ -24,11 +24,11 @@ endif::[]
 
 == Nazwiska
 === Nazwiska męskie
-* Zazwyczaj odmieniamy jak podobnie zakończone rzeczowniki pospolire.
+* Zazwyczaj odmieniamy jak podobnie zakończone rzeczowniki pospolite.
 * Zakończone na -o, np. Kościuszko odmienia się jak mąka
 * Jedynie nazwiska zakończone na -u są nie odmienne
   - Jeśli jednak -u oznacza -ł (Turnau) nazwisko można odmienić.
-  - W mijscowniku nazwisko pozostaje nie odmiene (Opowiadać o panu Turnau).
+  - W miejscowniku nazwisko pozostaje nie odmienne (Opowiadać o panu Turnau).
   
 === Nazwiska żeńskie
 * Odmieniają się tylko te nazwiska, które są zakończone na -a
