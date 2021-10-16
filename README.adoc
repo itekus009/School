@@ -12,3 +12,5 @@
 . link:Matematyka/R%C3%B3wnania.html[Równania]
 
 === Język polski
+
+. link:j_polski/Nazwy-osobowe-i-miejscowe.html[Nazwy osobowe i miejscowe]
