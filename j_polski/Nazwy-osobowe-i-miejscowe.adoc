@@ -1,6 +1,4 @@
 = Nazwy osobowe i miejscowe
-:author: Wiktor Grabowski
-:email: torgrbi@gmail.com
 :toc:
 :toc-title: Spis treści
 :sectnums:
