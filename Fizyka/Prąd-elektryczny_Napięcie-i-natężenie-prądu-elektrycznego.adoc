@@ -1,5 +1,6 @@
 = Prąd elektryczny. Napięcie i natężenie prądu elektrycznego.
-:stem:
+:toc:
+:toc-title: Spis treści
 :sectnums:
 :icons: font
 
