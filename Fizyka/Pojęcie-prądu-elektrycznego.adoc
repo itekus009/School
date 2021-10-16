@@ -10,7 +10,7 @@
 
 === Napięcie elektryczne
 
-* Napięciem elektrycznym nazywamy stosunek pracy jaka musi być wykonana przy przenoszeniu ładunku z jednego punktu do drugiego w polu elektrostatcznym do wartości tego ładunku.
+* Napięciem elektrycznym nazywamy stosunek pracy jaka musi być wykonana przy przenoszeniu ładunku z jednego punktu do drugiego w polu elektrostatycznym do wartości tego ładunku.
 
 * U = napięcie elektryczne = ΔEp =(W/q)
 

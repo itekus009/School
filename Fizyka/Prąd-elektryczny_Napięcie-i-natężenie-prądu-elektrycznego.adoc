@@ -15,8 +15,8 @@ stem:[U = Delta E_p = (W/q)]
 stem:[U = 1V = (1J )/(1C)]
 
 == Ruch uporządkowany
-* Ruch ten wstępuje, gdy wszystkie elektrony poruszają się wiednum kiernunku.
-* Uporządkownany ruch eletrycznych to prąd elektryczny.
+* Ruch ten wstępuje, gdy wszystkie elektrony poruszają się w jednym kierunku.
+* Uporządkowany ruch elektronów to prąd elektryczny.
 * Warunkiem jest wytworzenie napięcia.
 
 == Nośniki prądu elektrycznego
