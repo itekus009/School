@@ -12,5 +12,4 @@
 
 * U = napięcie elektryczne = ΔEp =(W/q)
 
-stem:[U = Delta E_p = (W/q)]
-
+stem:[U = ((Delta E_p)/q) = (W/q)]
