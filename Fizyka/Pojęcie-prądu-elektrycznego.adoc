@@ -3,6 +3,7 @@
 :toc-title: Spis treści
 :sectnums:
 :icons: font
+:stem:
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
