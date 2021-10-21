@@ -1,0 +1,73 @@
+= Budowa DNA
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== DNA, kwas deoksyrybonukleinowy
+* To zapis wszystkich cech dziedzicznych organizmów.
+* Gen to odcinek DNA zawierający informacje o budowie białka.
+
+NOTE: Nośnikiem informacji genetycznych jest *DNA*.
+
+IMPORTANT: DNA to *Kwas deoksyrybonukleinowy*.
+
+=== Budowa DNA oraz nukleotydu.
+* DNA składa się z wielu połączonych ze sobą nukleotydów.
+* Budowa Nukleotydu:
+** cukier (deoksyryboza)
+** reszta kwasu fosforowego
+** jedna z zasad azotowych (A, T, C lub G)
+
+== Zasady azotowe - informacje.
+
+====
+*Zasady azotowe*
+
+. Nukleotydy poszczególnych nici są wobec siebie komplementarne.
+
+[cols="3*^"]
+|===
+|*Symbol zasady azotowej*
+|*Nazwa zasady azotowej*
+|*Z czym się łączy*
+|A
+|adenina
+|tymina [T]
+|T
+|tymina
+|adenina [A]
+|C
+|cytozyna
+|guanina [G]
+|G
+|guanina
+|cytozyna [C]
+|===
+====
+
+== Chromosom
+. To najbardziej upakowana postać DNA.
+. Człowiek ma *46 chromosomów*.
+
+IMPORTANT: *Kariotyp* to charakterystyczny dla danego gatunku zestaw chromosomów. Np. *Dla człowieka - 46* chromosomów; *dla psa - 78*.
+
+== Replikacja DNA
+. To proces tworzenia kopii.
+. *Zachodzi przed podziałem komórkowym*.
+
+== RNA
+. W procesie syntezy białek *kwas rybonukleinowy* bierze udział.
+
+=== Budowa RNA
+* Budowa nukleotydu RNA:
+** cukier (ryboza)
+** reszta kwasu fosforowego
+** zasada azotowa
