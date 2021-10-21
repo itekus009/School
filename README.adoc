@@ -35,3 +35,4 @@ endif::[]
 === Biologia
 
 . link:Biologia/Czym-zajmuje-się-genetyka[Czym zajmuje się genetyka?]
+. link:Biologia/Budowa-DNA.html[Budowa DNA]
