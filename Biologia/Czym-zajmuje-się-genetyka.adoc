@@ -1,0 +1,28 @@
+= Czym zajmuje się genetyka?
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Genetyka
+* To nauka zajmująca się:
+
+** dziedziczeniem cech
+
+** zmiennością organizmów
+
+== Organizmy i ich cechy
+* Cechy organizmów:
+
+** dziedziczne
+
+** niedziedziczne
+
+TIP: Cechy dziedziczne, to takie które przekazujemy potomstwu. Cechy niedziedziczne są wyjątkiem wpływu środowiska (Tych cech ni przekazujemy potomstwu). 

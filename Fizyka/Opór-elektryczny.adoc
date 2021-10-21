@@ -17,7 +17,7 @@ endif::[]
 
 == Opór elektryczny i jednostka oporu elektrycznego.
 
-=== R (opór elektrycczny) - wzór
+=== R (opór elektryczny) - wzór
 
 ====
 R - opór elektryczny
