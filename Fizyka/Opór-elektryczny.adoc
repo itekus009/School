@@ -34,14 +34,12 @@ stem:[|R| = (1V)/A = 1 Omega]
  stem:[R ~ 1/s] | stem:[R = (rho*l)/s]
 |=== 
 
-IMPORTANT: Symbol "ρ" - Rho, oznacza opór właściwy.
-
-=== ρ (rho) - wzór
+=== ρ (opór właściwy) - wzór
 
 ====
-*ρ - wzór*
+ρ - opór właściwy
 
-stem:[R = (rho*l)/s /:s]
+stem:[R = (rho*l)/s /*s]
 
 stem:[R*s = rho*l //:l]
 
