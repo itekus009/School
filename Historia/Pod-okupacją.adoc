@@ -44,7 +44,7 @@ IMPORTANT: *Czerwiec 1940 r. Niemcy przywieźli pierwszy transport żydów do ob
 [cols="2*<"]
 |====
 |*Irena Sendler*
-|*Jan i Antonina Żabińscy*
+|*Jan* i *Antonina Żabińscy*
 |- Zorganizowała w stolicy siatkę ludzi zajmujących się przemycaniem żydowskich dzieci poza *getto*.
 
 - Uratowali około 2,5 tysiąca dzieci
@@ -54,4 +54,4 @@ IMPORTANT: *Czerwiec 1940 r. Niemcy przywieźli pierwszy transport żydów do ob
 |====
 
 == Miejsce, w które wysyłano Polaków z rdzennych terenów Sowietów
-IMPORTANT: Kazachstan i Syberia
+IMPORTANT: *Kazachstan* i *Syberia*
