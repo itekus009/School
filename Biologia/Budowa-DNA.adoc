@@ -64,7 +64,7 @@ IMPORTANT: *Kariotyp* to charakterystyczny dla danego gatunku zestaw chromosomó
 . *Zachodzi przed podziałem komórkowym*.
 
 == RNA
-. W procesie syntezy białek *kwas rybonukleinowy* bierze udział.
+. W procesie syntezy białek bierze udział *kwas rybonukleinowy*.
 
 === Budowa RNA
 * Budowa nukleotydu RNA:
