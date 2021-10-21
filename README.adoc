@@ -31,3 +31,7 @@ endif::[]
 === Chemia
 
 . link:Chemia/Wodorotlenki.html[Wodorotlenki]
+
+=== Biologia
+
+. link:Biologia/Czym-zajmuje-się-genetyka[Czym zajmuje się genetyka?]
