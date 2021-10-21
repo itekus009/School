@@ -1,1 +1,67 @@
+= Decyzja wielkich mocarstw.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
+== Spotkania wielkiej trójki
+. Odbyło się w Poczdamie w lipcu-sierpniu 1945 r.
+
+[cols="4*^"]
+|====
+|*Które spotkanie*
+|*Kto*
+|*Miejsce*
+|*Data*
+|Pierwsze
+|Churchill, Roosevelt, Stalin
+|w Teheranie
+|listopad-grudzień 1943 rok
+|Drugie
+|Churchill, Roosevelt, Stalin
+|na Jałcie
+|luty 1945 rok
+|Trzecie
+|---
+|w Poczdamie
+|lipiec-sierpień 1945 roku
+|====
+
+=== Do czego dążyli przywódcy?
+
+[cols="2*<"]
+|====
+|*Przywódca*
+|*Cele*
+|Franklin D.Roosevelt (prezydent USA)
+|- Zdobyć poparcie Stalina do utworzenia ONZ.
+
+- Nakłonić Stalina do jak najszybszej wojny z Japonią.
+|Winston Churchill (premier GB)
+|- Otrzymać gwarancję niezawisłości dla państw Europy (głównie Polski), by przywrócić równowagę sił i uniknąć radzieckiej dominacji w Europie.
+|Józef Stalin
+|- Uzyskać zgodę sojuszników na podporządkowanie Związkowi Radzieckiemu państw zajętych przez Armię Czerwoną.
+|====
+
+== Karta Atlantycka
+. Uchwalona została przez *Churchilla* i *Roosevelta*.
+. To dokument  określający cele polityki obu państw w czasie wojny i po jej zakończeniu (bez nabytków terytorialnych, samostanowienie narodów i ich prawo do wyboru ustroju).
+. We wrześniu *Kartę Atlantycką* podmisali m.in. ZSRR oraz polski rząd emigracyjny.
+
+IMPORTANT: *1941* rok
+
+== Podział ziem polskich po kampanii wrześniowej:
+* *Niemcy*: Śląsk, Wielkopolska, Pomorze
+* Te tereny uznali za rdzenne i włączyli je do III Rzeszy.
+* Z reszty ziem polskich niemcy utworzyli *Generalną Gubernię*.
+* *Sowieci* większość ziem polskich włączyli do ZSRR.
+* *Wileńszczyzna* została oddana Litwinom.
+
+NOTE: *Generalna Gubernia*, to Jednostka administracyjno-terytorialna utworzona na podstawie dekretu Adolfa Hitlera z 12 października 1939, obejmująca część okupowanego przez wojska niemieckie terytorium II Rzeczypospolitej, która nie została wcielona bezpośrednio do III Rzeszy; Generalne Gubernatorstwo
