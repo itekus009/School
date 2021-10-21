@@ -14,7 +14,7 @@ endif::[]
 
 === Fizyka
 
-. link:Fizyka/Poj%C4%99cie-pr%C4%85du-elektrycznego.html[Pojęcie prądu elektrycznego]
+. link:Fizyka/Poj%C4%99cie-pr%C4%85du-elektrycznego.html[Pojęcie prądu elektrycznego.]
 . link:Fizyka/Pr%C4%85d-elektryczny_Napi%C4%99cie-i-nat%C4%99%C5%BCenie-pr%C4%85du-elektrycznego.html[Napięcie i natężenie prądu]
 . link:Fizyka/Pojęcie-prądu-elektrycznego.html[Pojęie prądu elektrycznego]
 . link:Fizyka/Opór-elektryczny.html[Opór elektryczny]
@@ -25,7 +25,7 @@ endif::[]
 
 === Język polski
 
-. link:j_polski/Nazwy-osobowe-i-miejscowe.html[Nazwy osobowe i miejscowe]
+. link:j_polski/Nazwy-osobowe-i-miejscowe.html[Nazwy osobowe i miejscowe.]
 
 
 === Chemia
@@ -36,3 +36,8 @@ endif::[]
 
 . link:Biologia/Czym-zajmuje-się-genetyka[Czym zajmuje się genetyka?]
 . link:Biologia/Budowa-DNA.html[Budowa DNA]
+
+=== Historia
+
+. link:Historia/Decyzje-wielkich-mocarstw.html[Decyzje wielkich mocarstw.]
+. link:Historia/Pod-okupacją.html[Pod okupacją wielkich mocarstw.]
