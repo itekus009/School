@@ -1,0 +1,57 @@
+= Pod okupacją
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Podział ziem polskich po kampanii wrześniowej:
+
+=== Zajęte tereny przez Niemcy
+* *Niemcy*: Śląsk, Wielkopolska, Pomorze
+* Te tereny uznali za rdzenne i włączyli je do III Rzeszy.
+* Z reszty ziem polskich niemcy utworzyli *Generalną Gubernię*.
+
+=== Co zrobili Sowieci oraz Litwini
+* *Sowieci* większość ziem polskich włączyli do ZSRR.
+* *Wileńszczyzna* została oddana Litwinom.
+
+NOTE: *Generalna Gubernia*, to Jednostka administracyjno-terytorialna utworzona na podstawie dekretu Adolfa Hitlera z 12 października 1939, obejmująca część okupowanego przez wojska niemieckie terytorium II Rzeczypospolitej, która nie została wcielona bezpośrednio do III Rzeszy; Generalne Gubernatorstwo
+
+== Obozy koncentracyjne / zagłady
+
+=== Poznań, Fort 7
+IMPORTANT: *To był pierwszy obóz koncentracyjny na terenach Polski*.
+
+=== Auschwitz-Birkenau
+IMPORTANT: *Czerwiec 1940 r. Niemcy przywieźli pierwszy transport żydów do obozu (Obóz w Oświęcimiu był największym)*.
+
+== Polacy wobec zagłady żydów
+
+=== *Żegota*
+. W *1942* r. została założona przez *Polskie Państwo Podziemmne* Rada Pomocy Żydom - *Żegota*.
+. Zaopatrywała Żydów w fałszywe dokumenty.
+. Ukrywała kilka tys. żydowskich dzieci w klasztorach i domach prywatnych.
+
+=== Członkowie Żegoty
+
+[cols="2*<"]
+|====
+|*Irena Sendler*
+|*Jan i Antonina Żabińscy*
+|- Zorganizowała w stolicy siatkę ludzi zajmujących się przemycaniem żydowskich dzieci poza *getto*.
+
+- Uratowali około 2,5 tysiąca dzieci
+|- Ukrywali uciekinierów z getta na terenie zoo.
+
+- Z około 3,5 miliona polskich Żydów pod niemiecką okupacją przeżyło 60-100 tysięcy. Ok. 300 tys. uratowało się w ZSRR.
+|====
+
+== Miejsce, w które wysyłano Polaków z rdzennych terenów Sowietów
+IMPORTANT: Kazachstan i Syberia

@@ -56,12 +56,3 @@ endif::[]
 . We wrześniu *Kartę Atlantycką* podmisali m.in. ZSRR oraz polski rząd emigracyjny.
 
 IMPORTANT: *1941* rok
-
-== Podział ziem polskich po kampanii wrześniowej:
-* *Niemcy*: Śląsk, Wielkopolska, Pomorze
-* Te tereny uznali za rdzenne i włączyli je do III Rzeszy.
-* Z reszty ziem polskich niemcy utworzyli *Generalną Gubernię*.
-* *Sowieci* większość ziem polskich włączyli do ZSRR.
-* *Wileńszczyzna* została oddana Litwinom.
-
-NOTE: *Generalna Gubernia*, to Jednostka administracyjno-terytorialna utworzona na podstawie dekretu Adolfa Hitlera z 12 października 1939, obejmująca część okupowanego przez wojska niemieckie terytorium II Rzeczypospolitej, która nie została wcielona bezpośrednio do III Rzeszy; Generalne Gubernatorstwo
