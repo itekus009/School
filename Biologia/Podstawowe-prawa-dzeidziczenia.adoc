@@ -39,9 +39,9 @@ endif::[]
 |*homozygota*
 |Osobnik posiadający 2 *identyczne* allele warunkujące daną cechę:
 
-1) AA - homozygota dominująca
+1) *AA* - homozygota dominująca
 
-2)aa - homozygota recesywna
+2) *aa* - homozygota recesywna
 |*heterozygota*
 |Osobnik z 2 *różnymi* allelami warunkującymi daną cechę: Aa lub aA
 |*genotyp*

@@ -15,4 +15,10 @@ endif::[]
 == Komórki.
 
 === Komórki mogą być:
-* Diploidalne, mają podwójny zestaw chromosomów (2n). Są to komórki budujące organizm człowieka
+* Diploidalne, mają podwójny zestaw chromosomów (2n). Są to komórki budujące organizm człowieka.
+
+* Haploidalne (n), mają pojedynczy zestaw chromosomów.
+
+NOTE: U człowieka są to komórki rozrodcze.
+
+== Mitoza
