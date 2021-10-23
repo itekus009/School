@@ -3,6 +3,7 @@
 :toc-title: Spis treści
 :sectnums:
 :icons: font
+:imagesdir: obrazki
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -84,6 +85,10 @@ TIP: W komórce rozrodczej może znajdować się tylko jeden allel odpowiadając
 
 *P* - czerwone X białe
 
+image::krzyzowanie.jpg[Krzyżowanie,400]
 
 NOTE: "X" oznacza skrzyżowane (z czymś).
 =====
+
+
+
