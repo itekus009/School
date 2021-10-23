@@ -22,3 +22,22 @@ endif::[]
 NOTE: U człowieka są to komórki rozrodcze.
 
 == Mitoza
+====
+NOTE: *Mitoza*, to podział prowadzący do powstania dwóch identycznych komórek.
+
+image::Mitoza.jpg[Mitoza,500]
+====
+
+== Mejoza
+
+=== Definicja
+====
+NOTE: *Mejoza*, to podział jednej komórki na 4. Komórki potomne mają zredukowaną liczbę chromosomów o połowę
+
+image::Mejoza.jpg[Mejoza,500]
+
+* Liczba *46 chromosomów* występuje u ludzi.
+====
+
+=== Komórki rozrodcze.
+* Podczas mejozy powstają komórki rozrodcze, *gamety*.
