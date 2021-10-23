@@ -22,6 +22,8 @@ endif::[]
 NOTE: U człowieka są to komórki rozrodcze.
 
 == Mitoza
+
+=== Definicja
 ====
 NOTE: *Mitoza*, to podział prowadzący do powstania dwóch identycznych komórek.
 
