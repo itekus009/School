@@ -36,6 +36,7 @@ endif::[]
 
 . link:Biologia/Czym-zajmuje-się-genetyka[Czym zajmuje się genetyka?]
 . link:Biologia/Budowa-DNA.html[Budowa DNA]
+. link:Biologia/Podziały-komórkowe.html[Podziały komórkowe.]
 . link:Biologia/Podstawowe-prawa-dzeidziczenia.html[Podstawowe prawa dziedziczenia.]
 
 === Historia
