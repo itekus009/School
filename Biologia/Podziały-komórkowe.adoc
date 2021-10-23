@@ -19,7 +19,7 @@ endif::[]
 
 * Haploidalne (n), mają pojedynczy zestaw chromosomów.
 
-NOTE: Komórki haploidalne, to  u człowieka komórki rozrodcze.
+TIP: Komórki haploidalne, to  u człowieka komórki rozrodcze.
 
 == Mitoza
 
