@@ -21,6 +21,8 @@ endif::[]
 
 ====
 R - opór elektryczny
+U - napięcie elektryczne
+I - natężenie prądu
 
 stem:[R = U/I]
 
