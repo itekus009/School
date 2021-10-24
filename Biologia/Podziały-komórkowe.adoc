@@ -14,25 +14,50 @@ endif::[]
 
 == Komórki.
 
-=== Komórki mogą być:
-* Diploidalne, mają podwójny zestaw chromosomów (2n). Są to komórki budujące organizm człowieka.
+=== Komórka macierzysta i potomna.
+* *Macierzysta*, to komórka ulegająca podziałowi.
+* *Potomna*, powstające komórki z komórki macierzystej.
 
-* Haploidalne (n), mają pojedynczy zestaw chromosomów.
+=== Komórki somatyczne
+* *Komórki somatyczne* to wszystkie z wyjątkiem rozrodczych.
+
+=== Komórki rozrodcze.
+* Podczas mejozy powstają komórki rozrodcze, *gamety*.
+
+=== Komórki diploidalne i haploidalne.
+* *Diploidalne*, mają podwójny zestaw chromosomów (2n). Są to komórki budujące organizm człowieka.
+
+* *Haploidalne* (n), mają pojedynczy zestaw chromosomów.
 
 TIP: Komórki haploidalne, to  u człowieka komórki rozrodcze.
 
-== Mitoza
+== Chromosomy
 
-=== Definicja
+=== Chromosomy homologiczne.
+* To takie chromosomy, w których jeden został odziedziczony po ojcu, a drugi po matce. Są one takiej samej wielkości i mają ten sam kształt.
+
+
+== Podział komórki.
+IMPORTANT: *Obejmuje dwa etapy*: podział jądra komórkowego i podział cytoplazmy.
+
+=== Podział jądra komórkowego.
+. Poprzedza go replikacja DNA.
+. Prowadzi do rozdzielenia materiału genetycznego między komórki.
+
+=== Podział cytoplazmy.
+. Umożliwia rozdzielenie komórki na 2 komórki potomne.
+. Występują dwa rodzaje podziałów: *mitoza* i *mejoza*.
+
+=== Mitoza.
 ====
 NOTE: *Mitoza*, to podział prowadzący do powstania dwóch identycznych komórek.
 
 image::Mitoza.jpg[Mitoza,500]
+
+* Liczba *46 chromosomów* występuje u ludzi.
 ====
 
-== Mejoza
-
-=== Definicja
+=== Mejoza.
 ====
 NOTE: *Mejoza*, to podział jednej komórki na 4. Komórki potomne mają zredukowaną liczbę chromosomów o połowę
 
@@ -41,5 +66,26 @@ image::Mejoza.jpg[Mejoza,500]
 * Liczba *46 chromosomów* występuje u ludzi.
 ====
 
-=== Komórki rozrodcze.
-* Podczas mejozy powstają komórki rozrodcze, *gamety*.
+=== Porównanie mitozy i mejozy.
+
+====
+[cols="<1,<1"]
+|===
+|*Mitoza*
+|*Mejoza*
+|1) Przed podziałem następuje replikacja.
+
+2) Podczas mitozy dochodzi do jednego podziału.
+
+3) Komórki potomne mają taką samą liczbę chromosomów, jak komórka macierzysta.
+
+4) Służy do wytwarzania komórek somatycznych.
+|1) Przep podziałem następuje replikacja.
+
+2) Podczas mejozy dochodzi do dwóch podziałów.
+
+3) Komórki potomne mają o połowę mniejszą liczbę chromosomów, niż macierzysta.
+
+4) Służy do wytwarzania gamet.
+|===
+====
