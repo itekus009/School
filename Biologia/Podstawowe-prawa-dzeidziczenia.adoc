@@ -15,9 +15,12 @@ endif::[]
 == Gregor Mendel
 
 === Dokonania.
-. Podstawowe prawa dziedziczenia sformułował *Gregor Mendel* w XIX w. 
+. Podstawowe prawo dziedziczenia sformułował *Gregor Mendel* w XIX w. 
 . Jest on uważany za *ojca genetyki*.
 . Prowadził doświadczenia nad *odmianami grochu jadalnego*.
+
+=== Podstawowe prawo dziedziczenia.
+IMPORTANT: *W każdej gamecie organizmu diploidalnego* (komórce jajowej i plemniku) znajduje się *tylko jeden* allel danego genu.
 
 == Symbole i pojęcia stosowane w krzyżówkach genetycznych.
 
