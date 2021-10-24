@@ -46,7 +46,7 @@ IMPORTANT: *W każdej gamecie organizmu diploidalnego* (komórce jajowej i plemn
 
 2) *aa* - homozygota recesywna
 |*heterozygota*
-|Osobnik z 2 *różnymi* allelami warunkującymi daną cechę: Aa lub aA
+|Osobnik z 2 *różnymi* allelami warunkującymi daną cechę: Aa.
 |*genotyp*
 |Zespół wszystkich genów organizmu
 |*fenotyp*
