@@ -21,6 +21,8 @@ IMPORTANT: DNA to *Kwas deoksyrybonukleinowy*.
 
 == DNA oraz nukleotyd.
 
+NOTE: DNA znajduje się w jądrze komórkowym.
+
 === Budowa
 * DNA składa się z wielu połączonych ze sobą nukleotydów.
 * Budowa Nukleotydu:
