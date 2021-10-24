@@ -19,12 +19,22 @@ NOTE: Nośnikiem informacji genetycznych jest *DNA*.
 
 IMPORTANT: DNA to *Kwas deoksyrybonukleinowy*.
 
-=== Budowa DNA oraz nukleotydu.
+== DNA oraz nukleotyd.
+
+=== Budowa
 * DNA składa się z wielu połączonych ze sobą nukleotydów.
 * Budowa Nukleotydu:
 ** cukier (deoksyryboza)
 ** reszta kwasu fosforowego
 ** jedna z zasad azotowych (A, T, C lub G)
+
+=== Gen
+. To *odcinek DNA*, który zawiera informacje o budowie białka.
+. Geny stanowią jedynie *2%* całości DNA. Pozostałe *98%* to odcinki, które nie kodują żadnych cech.
+
+=== Melaniny
+. To barwniki nadające kolor włosom, skórze i tęczówkom.
+. W genach jest zapisana informacja dotycząca budowy enzymów odpowiedzialnych za ich wytworzenie.
 
 == Zasady azotowe - informacje.
 
