@@ -42,3 +42,15 @@ stem:[|P| = 1V*A= 1*(J/C)*(C/s) = 1*J/s = 1W]
 
 TIP: W - wat; czyli praca jednego dżula wykonana w 1 sekundę.
 ====
+
+
+
+stem:[|W| = 1V*A*s = 1J]
+
+stem:[P = W/t]
+
+stem:[P = (U*I*t)/t]
+
+stem:[P = U*I]
+
+stem:[|P| = 1V*A = 1*(J/C)*(C/s) = 1*J/s = 1W]
