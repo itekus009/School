@@ -15,13 +15,14 @@ endif::[]
 === Fizyka
 
 . link:Fizyka/Poj%C4%99cie-pr%C4%85du-elektrycznego.html[Pojęcie prądu elektrycznego.]
-. link:Fizyka/Pr%C4%85d-elektryczny_Napi%C4%99cie-i-nat%C4%99%C5%BCenie-pr%C4%85du-elektrycznego.html[Napięcie i natężenie prądu]
-. link:Fizyka/Pojęcie-prądu-elektrycznego.html[Pojęie prądu elektrycznego]
-. link:Fizyka/Opór-elektryczny.html[Opór elektryczny]
+. link:Fizyka/Pr%C4%85d-elektryczny_Napi%C4%99cie-i-nat%C4%99%C5%BCenie-pr%C4%85du-elektrycznego.html[Napięcie i natężenie prądu.]
+. link:Fizyka/Pojęcie-prądu-elektrycznego.html[Pojęie prądu elektrycznego.]
+. link:Fizyka/Opór-elektryczny.html[Opór elektryczny.]
+. link:Fizyka/Praca_moc-prądu-elektrycznego.html[Praca i moc prądu elektrycznego.]
 
 === Matematyka
 
-. link:Matematyka/R%C3%B3wnania.html[Równania]
+. link:Matematyka/R%C3%B3wnania.html[Równania.]
 
 === Język polski
 
@@ -30,12 +31,12 @@ endif::[]
 
 === Chemia
 
-. link:Chemia/Wodorotlenki.html[Wodorotlenki]
+. link:Chemia/Wodorotlenki.html[Wodorotlenki.]
 
 === Biologia
 
 . link:Biologia/Czym-zajmuje-się-genetyka[Czym zajmuje się genetyka?]
-. link:Biologia/Budowa-DNA.html[Budowa DNA]
+. link:Biologia/Budowa-DNA.html[Budowa DNA.]
 . link:Biologia/Podziały-komórkowe.html[Podziały komórkowe.]
 . link:Biologia/Podstawowe-prawa-dzeidziczenia.html[Podstawowe prawa dziedziczenia.]
 
