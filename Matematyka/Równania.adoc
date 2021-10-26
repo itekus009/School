@@ -12,8 +12,6 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-
-
-=== Równania dzielimy na:
+== Równania dzielimy na:
   * Sprzeczne (ma 0 rozwiązań)
   * tożsamościowe (posiada nieskończenie wiele rozwiązań)
