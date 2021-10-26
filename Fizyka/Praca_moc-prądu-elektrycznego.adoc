@@ -1,1 +1,44 @@
 = Praca i moc prądu elektrycznego.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Praca i moc - podstawowe informacje.
+
+=== Ogólnie na temat.
+* *Ubytek energii* jest równy pracy.
+* *Świecenie się żarówki*, to zmiana energii elektrycznej w energię ciepłą i energię świetlną.
+* *Silnik elektryczny*, to praca prądu elektrycznego.
+
+=== Praca i moc, wzór.
+====
+Przepływ prądu elektrycznego wiąże się ze zmianą energii ładunków będących nośnikami prądu. Mówimy więc, że prąd elektryczny wykonuje pracę. Wartość pracy wykonanej przez prąd jest równa:
+
+stem:[W = U*I*t]
+
+*Praca jest równa*: iloczynowi napięcia, natężenia i czasu.
+U - napięcie
+I - natężenie
+t- czas
+
+stem:[|W| = 1V*A*s = 1J]
+
+stem:[P = W/t]
+
+stem:[P = (U*I*t)/t]
+
+stem:[P = U*I]
+
+stem:[|P| = 1V*A= 1*(J/C)*(C/s) = 1*J/s = 1W]
+
+TIP: W - wat; czyli praca jednego dżula wykonana w 1 sekundę.
+====
