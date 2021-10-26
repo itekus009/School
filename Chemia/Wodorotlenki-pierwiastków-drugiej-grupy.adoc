@@ -12,4 +12,19 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
+image::Układ okresowy.jpg[Krzyżowanie,700]
+
 == Reakcje otrzymywania
+====
+Metal (drugiej grupy) + woda -> Wodorotlenek metalu (drugiej grupy) + wodór↑
+
+Me + 2H~2~O -> Mg(OH)~2~ + H~2~↑
+====
+
+====
+Tlenek metalu (drugiej grupy) + woda -> wodorotlenek metalu (drugiej grupy)
+
+MeO + 2H~2~O -> Mg(OH)~2~
+====
+
+== Wzory i Nazwy.
