@@ -75,7 +75,7 @@ I = ?
 
 stem:[P = U*I//:U]
 
-stem:[(P/U) = I]
+stem:[P/U = I]
 
 *Podstawiamy do wzoru:*
 
