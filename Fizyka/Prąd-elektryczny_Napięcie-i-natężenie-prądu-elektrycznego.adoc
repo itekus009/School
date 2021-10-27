@@ -17,7 +17,7 @@ endif::[]
 
 stem:[Delta E = W]
 
-stem:[U = Delta E_p = (W/q)]
+stem:[U = Delta E_p = W/q]
 
 * Jednostką napięcia jest 1V
 
@@ -43,6 +43,6 @@ stem:[U = 1V = (1J )/(1C)]
 
 NOTE: Większe natężenie prądu będzie, gdy przepłynie więcej ładunków w określonym czasie.
 
-stem:[I = (q/t)]
+stem:[I = q/t]
 
 stem:[I = 1A = (1C)/(1s)]
