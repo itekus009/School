@@ -123,7 +123,7 @@ stem:[E = P*t]
 
 *Podstawiamy do wzoru:*
 
-stem:[8h*2kW = 16kW]
+stem:[8h*2kW = 16kWh]
 
 stem:[16*55gr = 8.80zł]
 
