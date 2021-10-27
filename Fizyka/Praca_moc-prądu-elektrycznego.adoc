@@ -54,3 +54,58 @@ stem:[P = (U*I*t)/t]
 stem:[P = U*I]
 
 stem:[|P| = 1V*A = 1*(J/C)*(C/s) = 1*J/s = 1W]
+
+== Zadania
+
+=== Moc grzałki piekarnika wynosi 2000 W. Piekarnik podłączony jest do napięcia 230 V.
+
+a) Oblicz natężenie prądu płynącego przez spiralę piekarnika.
+
+====
+*dane:*
+
+P = 2000 W
+U = 230 V
+
+*szukane:*
+
+I = ?
+
+*wzór:*
+
+stem:[P = U*I//:U]
+
+stem:[(P/U) = I]
+
+*Podstawiamy do wzoru:*
+
+stem:[I = (2000 W)/(230 V) ≈ 8,7]
+====
+
+b) Oblicz, ile energii w kilowatogodzinach oraz w dżulach zużyje piekarnik w ciągu 1,5 godziny pracy.
+
+====
+*dane:*
+
+t = 1,5 h
+
+P = 2000 W
+
+*szukane:*
+
+E~1~ = ?  |Wynik w kilowatogodzinach (kWh).
+
+E~2~ = ?  |Wynik w dżulach (J).
+
+*wzór:*
+
+stem:[E = P*t]
+
+*Podstawiamy do wzoru:*
+
+stem:[E~1~ = 1,5h * 2000W = 3000 Wh = 3 kWh]
+
+stem:[3000 Wh = 3000J/s*h = 3000J/s*3600s = 3000 J * 3600 = 10.800.000 ]
+====
+
+c)
