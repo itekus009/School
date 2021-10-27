@@ -3,7 +3,7 @@
 :toc-title: Spis treści
 :sectnums:
 :icons: font
-:imagesdir: obrazki
+:stem:
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -23,7 +23,7 @@ endif::[]
 ====
 Przepływ prądu elektrycznego wiąże się ze zmianą energii ładunków będących nośnikami prądu. Mówimy więc, że prąd elektryczny wykonuje pracę. Wartość pracy wykonanej przez prąd jest równa:
 
-stem:[W = U*I*t]
+stem:[ W = U*I*t]
 
 *Praca jest równa*: iloczynowi napięcia, natężenia i czasu.
 U - napięcie
@@ -93,9 +93,7 @@ P = 2000 W
 
 *szukane:*
 
-E~1~ = ?  |Wynik w kilowatogodzinach (kWh).
-
-E~2~ = ?  |Wynik w dżulach (J).
+E = ?
 
 *wzór:*
 
@@ -103,9 +101,65 @@ stem:[E = P*t]
 
 *Podstawiamy do wzoru:*
 
-stem:[E~1~ = 1,5h * 2000W = 3000 Wh = 3 kWh]
+stem:[E = 1,5h * 2000W = 3000 Wh = 3 kWh]
 
 stem:[3000 Wh = 3000J/s*h = 3000J/s*3600s = 3000 J * 3600 = 10.800.000 ]
+
+NOTE: Jedna kilowatogodzina to 3 600 000 dżuli.
 ====
 
-c)
+c) Ile zapłacimy za energię zużytą przez piekarnik w ciągu tygodnia, jeżeli pracuje on średnio 8 godzin w tygodniu, a koszt 1 kWh energii elektrycznej wynosi 55 groszy?
+
+====
+*dane:*
+
+t = 8 h (w tygodniu)
+
+P = 2000 W = 2 kW
+
+*wzór:*
+
+stem:[E = P*t]
+
+*Podstawiamy do wzoru:*
+
+stem:[8h*2kW = 16kW]
+
+stem:[16*55gr = 8.80zł]
+
+*Odpowiedź:* Za energię zużytą przez piekarnik w ciągu tygodnia zapłacimy 8.80 złotych.
+====
+
+=== Przez żarówkę o mocy 55 W płynie prąd o natężeniu 4.6 A. Jest to żarówka...
+
+*A.* małej kieszonkowej latarki zasilana jedną baterią - paluszkiem 1,5 V.
+
+*B.* latarki zasilanej dwoma bateriami - paluszkami (łącznie 3 V).
+
+*C.* samochodowa zasilana napięciem z akumulatora (12 V).
+
+*D.* dostosowana do napięcia sieciowego (230 V).
+
+====
+*dane:*
+
+P = 55 W
+
+I = 4.6 A
+
+*szukane:*
+
+U = ?
+
+*wzór:*
+
+stem:[P = U*I//:I]
+
+stem:[P/I = U]
+
+*Podstawiamy do wzoru:*
+
+stem:[(55W)/(4.6A) ~~ 11.96V ~~ 12V]
+
+*Odpowiedź:* Prawidłową odpowiedzią do tego zadania jest: *C*.
+====
