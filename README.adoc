@@ -32,7 +32,7 @@ endif::[]
 === Chemia
 
 . link:Chemia/Wodorotlenki.html[Wodorotlenki.]
-. link:Wodorotlenki-pierwiastków-drugiej-grupy.html[Wodorotlenki pierwiastków drugiej grupy.]
+. link:Chemia/Wodorotlenki-pierwiastków-drugiej-grupy.html[Wodorotlenki pierwiastków drugiej grupy.]
 
 === Biologia
 
