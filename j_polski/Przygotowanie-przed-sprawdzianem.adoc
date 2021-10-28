@@ -26,7 +26,7 @@ endif::[]
 . eufemizmy
 . ortografia
 ** -ą, -ę, -em, -bym, -byś
-** nazwy geograficzne (mała i wielka litera)
+** mała i wielka litera
 ** przedrostki -ś, -s lub -z
 ====
 
@@ -80,3 +80,68 @@ endif::[]
 *Np.* Żelazny sen, zamiast śmierć.
 
 == Ortografia.
+
+=== Wielka i mała litera.
+. *Wielką literą* piszemy:
+.. imiona i nazwiska
+.. imiona zwierząt
+.. planety, kontynenty, państwa, regiony, miejscowości i dzielnice
+.. nazwy mieszkańców:
+** planet
+** kontynentów
+** państw
+** regionów
+.. nazwy geograficzne:
+** Ocean Atlantycki
+** ocean Atlantyk, góra Giewont
+.. nazwy świąt i dni świątecznych (ale nie walentynek i mikołajków)
+.. wszystkie wyrazy w tytułach czasopism
+.. pierwszy wyraz w tytułach książek, wierszy, filmów, artykułów, piosenek i filmów
+.. nazwy ulic, alej, placów:
+** ulica Mickiewicza
+
+. *Małą literą* piszemy:
+.. przymiotniki utworzone od nazw geograficznych (polski, poznański)
+.. nazwy powiatów i województw
+.. nazwy zabaw i zwyczajów
+** andrzejki
+** walentynki
+** sylwester
+.. przymiotniki powstałe od nazw własnych (poznańskie koziołki)
+
+IMPORTANT: *Wielką literą nie piszemy nazwy mieszkańców miast i wsi!*
+
+=== Tę, czy tą?
+Forma "tę" powinna być używana w bierniku, np. „Daj mi tę książkę”, forma tą – w narzędniku, np. „Wszędzie chodzę z tą książką”. W piśmie należy przestrzegać różnicy między tę i tą.
+
+=== Cząstki "by".
+. *Cząstki "by"* (partykuły) *piszemy razem* z formami osobowymi czasowników.
+. *Cząstki "by" piszemy osobno* po wyrazach o funkcji czasownikowej np. można by, warto by.
+
+=== Przedrostki.
+. *Piszemy literę z, gdy:*
+
+* kolejna litera oznacza samogłoskę, np.
+zaktualizować, zidentyfikować, zogniskować, zubożeć;
+
+* kolejna litera oznacza spółgłoskę dźwięczną, np.
+zbankrutować, zdrętwieć, zgęstnieć, zlepić, złapać, zmajstrować, zniweczyć, zrabować, zwozić;
+
+* kolejna litera to h, np.
+zhardzieć, zhumanizować;
+
+* kolejne litery to s, si lub sz, np.
+zsumować, zsypać, zsiadać, zsinieć, zszargać, zszyć;
+
+* kolejne litery to dzi, np.
+zdziałać, zdziwić.
+
+. *Piszemy literę s, gdy:*
+
+* kolejna litera oznacza spółgłoskę bezdźwięczną c, cz, ch, f, k, p lub t, np.
+scementować, sczepić, schłodzić, sfrunąć, skopać, spuścić, stworzyć.
+
+. *Piszemy literę ś, gdy:*
+
+* kolejne litery to ci, ć,
+np. ściąć, ściosać, śćmić.
