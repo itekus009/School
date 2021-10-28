@@ -33,7 +33,7 @@ endif::[]
 == Homonimy.
 
 === Homografy.
-*Definicja:* Homografy to wyrazy, które mają jednakową pisownię, ale różną wymowę (a także pochodzenie i znaczenie).
+*Definicja:* Homografy to wyrazy, które mają jednakową pisownię, ale różną wymowę (a także pochodzeniem i znaczeniem).
 
 *Np.* rozmarzać (pobudzać do marzenia) i rozmarzać (roztapiać się).
 
@@ -65,9 +65,9 @@ endif::[]
 *Np.* "dyjabeł", wcześniejszy diabeł.
 
 == Neologizmy.
-*Definicja:* Nowe słowo utworzone na potrzeby wiersza, często niezwykłe, banalne
+*Definicja:* Nowe słowo utworzone na potrzeby wiersza, często niezwykłe, banalne. Również to wyraz lub wyrażenie, którego nie było dotychczas w języku, nowo utworzone lub zapożyczone z innego języka.
 
-*Np.* zanieszumieć, zmrocze, niedobłysk
+*Np.* jesienina - to dziewczyna, która uwielbia jesień; niedziela handlowa
 
 == Zapożyczenia.
 *Definicja:* Wyraz, związek wyrazowy lub struktura składniowa przejęte z języka obcego lub na nim wzorowane
