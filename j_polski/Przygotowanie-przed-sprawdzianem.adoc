@@ -1,0 +1,82 @@
+= Przygotowanie przed sprawdzianem.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+
+====
+*Zagadnienia:*
+
+. homonimy 
+. synonimy 
+. antonimy
+. wyrazy wieloznaczne
+. archaizmy
+. neologizmy
+. zapożyczenia
+. eufemizmy
+. ortografia
+** -ą, -ę, -em, -bym, -byś
+** nazwy geograficzne (mała i wielka litera)
+** przedrostki -ś, -s lub -z
+====
+
+== Homonimy.
+
+=== Homografy.
+*Definicja:* Homografy to wyrazy, które mają jednakową pisownię, ale różną wymowę (a także pochodzenie i znaczenie).
+
+*Np.* rozmarzać (pobudzać do marzenia) i rozmarzać (roztapiać się).
+
+=== Homofony.
+*Definicja:* Homofon to wyraz dźwiękowo identyczny z innym wyrazem, lecz różniący się pisownią, pochodzeniem i znaczeniem.
+
+*Np.* lud, lód i lut
+
+== Synonimy i antonimy.
+
+=== Synonimy.
+*Definicja:* Wyraz mający takie samo lub podobne znaczenie co inny wyraz, np. auto i samochód; bliskoznacznik, wyraz bliskoznaczny.
+
+*Np.* piękny i śliczny
+
+=== Antonimy.
+*Definicja:* Jeden z pary wyrazów mających znaczenie przeciwstawne.
+
+*Np.* piękny i brzydki
+
+== Wyrazy wieloznaczne.
+*Definicja:* Wyraz, który ma więcej niż jedno znaczenie.
+
+*Np.* zamek, budynek, do drzwi
+
+== Archaizmy.
+*Definicja:* Wyraz, zwrot bądź konstrukcja składniowa, które już wyszły z użycia.
+
+*Np.* "dyjabeł", wcześniejszy diabeł.
+
+== Neologizmy.
+*Definicja:* Nowe słowo utworzone na potrzeby wiersza, często niezwykłe, banalne
+
+*Np.* zanieszumieć, zmrocze, niedobłysk
+
+== Zapożyczenia.
+*Definicja:* Wyraz, związek wyrazowy lub struktura składniowa przejęte z języka obcego lub na nim wzorowane
+
+*Np.* hot-dog, gorąca parówka podawana w długiej, rozciętej bułce.
+
+== Eufemizmy.
+*Definicja:* Słowo lub wyrażenie użyte zastępczo w celu złagodzenia wyrażeń drastycznych, dosadnych lub nieprzyzwoitych.
+
+*Np.* Żelazny sen, zamiast śmierć.
+
+== Ortografia.

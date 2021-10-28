@@ -91,7 +91,9 @@ stem:[E = P*t]
 
 stem:[E = 1,5h * 2000W = 3000 Wh = 3 kWh]
 
-stem:[3000 Wh = 3000J/s*h = 3000J/s*3600s = 3000 J * 3600 = 10.800.000 ]
+stem:[3000 Wh = 3000J/s*h = 3000J/s*3600s = ]
+
+stem:[= 3000 J * 3600 = 10.800.000]
 
 NOTE: Jedna kilowatogodzina to 3 600 000 dżuli.
 ====
