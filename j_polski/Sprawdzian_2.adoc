@@ -1,0 +1,141 @@
+= Sprawdzian (nr 2).
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+====
+*Zagadnienia:*
+
+. środki poetyckie
+
+. rodzaje literackie
+
+. gatunki literackie
+
+. przypadki
+====
+
+== Rodzaje literackie.
+
+=== Epika.
+*Fikcja literacka:*
+
+- świat przedstawiony
+- miejsce akcji
+- czas akcji
+- bohaterowie
+- wydarzenia
+- Narrator:
+** pierwszoosobowy
+** trzecioosobowy
+
+=== Liryka.
+. Uczucia, emocje, refleksji.
+. Liryka rodzaje:
+** *Liryka bezpośrednia* - podmiot mówi o sobie, używa czasowników w 1 osobie.
+** *Liryka pośrednia* - podmiot jest ukryty za opisem, wypowiada się w 3 osobie.
+** *Zwrotu do adresata* - inwokacyjna (2 os.).
+. Zawiera podmiot liryczny i adresata lirycznego.
+. Zawiera:
+** strofa - zwrotka
+** wers
+** wiersz stroficzny
+** wiersz stychiczny (ciągły)
+** rymy (aa bb - parzyste; ab ab - krzyżowe; abba - okalające)
+. Środki stylistyczne:
+** epitet (wyraz określający)
+** porównanie (zestawienie dwóch zjawisk, jedno służy określeniu drugiego)
+** metafora
+** ożywienie
+** uosobienie
+. Wiersz (np. "Pan Tadeusz").
+. Proza (np. "Opowieść wigilijna").
+
+=== Dramat.
+. Podział na akty i sceny.
+. *Tekst poboczny* (didaskalia).
+. *Tekst główny* (dialogi i monologi).
+. *Tekst dramatu* = tekst główny + tekst poboczny
+. Utwór przeznaczony do przedstawienia na scenie.
+. Przykłady:
+** Tragedia ("Balladyna").
+** Komedia ("Zemsta").
+** Dramat romantyczny ("Dziady").
+
+== Gatunki literackie.
+
+=== Epika.
+Najbardziej znane gatunki epickie:
+. mit
+. legenda
+. baśń
+. przypowieść
+. bajka
+. pamiętnik
+. dziennik
+. nowela
+. opowiadanie
+. powieść
+
+=== Liryka.
+Najbardziej znane gatunki liryczne:
+
+- Fraszka
+- Oda
+- Pieśń
+- Sonet
+- Tren
+- Hymn
+- Elegia
+
+=== Dramat.
+. Komedia
+. Tragedia
+. Ballada
+. Satyra
+
+== Przypadki.
+[cols="8*<"]
+|===
+|*Przypadek:*
+|Mianownik
+|Dopełniacz
+|Celownik
+|Biernik
+|Narzędnik
+|Miejscownik
+|Wołacz
+|*Pytania:*
+|kto?/co? idzie
+|kogo?/czego? nie ma
+|komu?/czemu? się przyglądam
+|kogo?/co? widzę
+|z kim/z czym idę
+|o kim/o czym mówię
+|o!
+|*Liczba pojedyncza*:
+|mama
+|mamy
+|mamie
+|mamę
+|mamą
+|mamie
+|mamo
+|*Liczba mnoga*:
+|mamy
+|mam
+|mamom
+|mamy
+|mamami
+|mamach
+|mamy
+|===
