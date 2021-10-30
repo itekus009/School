@@ -1,4 +1,4 @@
-= Przygotowanie przed sprawdzianem.
+= Sprawdzian (nr 1).
 :toc:
 :toc-title: Spis treści
 :sectnums:
