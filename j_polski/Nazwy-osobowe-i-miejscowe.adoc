@@ -12,12 +12,13 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
+== Nazwy osobowe.
 
-=== Nazwy osobowe
 * Nazwy konkretnych osób
   - przydomki, imiona, nazwiska, pseudonimy itd.
 
-=== Nazwy miejscowe
+== Nazwy miejscowe.
+
 * Nazwy miejscowości
   - rzeki, wsie, góry itp.
   
