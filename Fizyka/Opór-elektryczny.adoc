@@ -57,5 +57,5 @@ stem:[R*S = rho*l //:l]
 
 stem:[(R*S)/l = rho]
 
-stem:[|rho| = 1(1 Omega*m^2)/m = Omega*m]
+stem:[|rho| = (1 Omega*m^2)/m = Omega*m]
 ====
