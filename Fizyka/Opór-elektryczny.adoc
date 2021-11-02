@@ -31,11 +31,16 @@ stem:[R = U/I]
 stem:[|R| = (1V)/A = 1 Omega]
 ====
 
+R - opór elektryczny
+U - napięcie elektryczne
+l - długość
+S - pole przekroju poprzecznego
+
 [cols="1,.^2"]
 |===
 |stem:[R ~ rho] +
  stem:[R ~ U/l] + 
- stem:[R ~ 1/s] | stem:[R = (rho*l)/s]
+ stem:[R ~ 1/S] | stem:[R = (rho*l)/S]
 |=== 
 
 === ρ (opór właściwy) - wzór
@@ -49,5 +54,5 @@ stem:[R*s = rho*l //:l]
 
 stem:[(R*s)/l = rho]
 
-stem:[|rho| = 1(1 Omega*m^2)/m = 1 Omega*m]
+stem:[|rho| = 1(1 Omega*m^2)/m = Omega*m]
 ====
