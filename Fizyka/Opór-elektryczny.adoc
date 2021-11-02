@@ -53,9 +53,9 @@ S - pole przekroju poprzecznego
 
 stem:[R = (rho*l)/s /*s]
 
-stem:[R*s = rho*l //:l]
+stem:[R*S = rho*l //:l]
 
-stem:[(R*s)/l = rho]
+stem:[(R*S)/l = rho]
 
 stem:[|rho| = 1(1 Omega*m^2)/m = Omega*m]
 ====
