@@ -27,6 +27,7 @@ endif::[]
 
 . link:j_polski/Nazwy-osobowe-i-miejscowe.html[Nazwy osobowe i miejscowe.]
 . link:j_polski/Przygotowanie-przed-sprawdzianem.html[Przygotowanie do sprawdzianu nr 1.]
+. link:j_polski/Sprawdzian_2.html[Przygotowanie do sprawdzianu nr 2.]
 
 === Chemia
 
