@@ -43,7 +43,7 @@ S - pole przekroju poprzecznego
 |===
 |stem:[R ~ rho] +
  stem:[R ~ U/l] + 
- stem:[R ~ 1/S] | stem:[R = (rho*l)/S]
+ stem:[R ~ l/S] | stem:[R = (rho*l)/S]
 |=== 
 
 === ρ (opór właściwy) - wzór
