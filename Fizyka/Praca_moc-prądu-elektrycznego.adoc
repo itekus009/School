@@ -26,9 +26,14 @@ Przepływ prądu elektrycznego wiąże się ze zmianą energii ładunków będą
 stem:[ W = U*I*t]
 
 *Praca jest równa*: iloczynowi napięcia, natężenia i czasu.
+
 U - napięcie
+
 I - natężenie
+
 t- czas
+
+---
 
 stem:[|W| = 1V*A*s = 1J]
 
