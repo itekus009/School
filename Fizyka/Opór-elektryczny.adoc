@@ -32,8 +32,11 @@ stem:[|R| = (1V)/A = 1 Omega]
 ====
 
 R - opór elektryczny
+
 U - napięcie elektryczne
+
 l - długość
+
 S - pole przekroju poprzecznego
 
 [cols="1,.^2"]
