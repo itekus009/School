@@ -14,8 +14,11 @@ endif::[]
 
 == Przekroczenie granic.
 
-=== Data.
+=== Władze RP.
 W nocy z *17* na *18* *września 1939* r. władze Rzeczpospolitej przekroczyły granicę Rumunii. Liczyły na to, że przedostaną się do Francji, by kontynuować wojnę z Niemcami. Tak się nie stało.
+
+=== Armia Czerwona.
+W *styczniu 1944* r. Armia Czerwona przekroczyła przedwojenne granice RP.
 
 === Kto przekroczył.
 *Prezydent Ignacy Mościcki*, *członkowie rządu*, *naczelny wódz* oraz liczni żołnierze zostali internowani przez Rumunów.
@@ -57,6 +60,8 @@ TIP: Iwan Majski był radzieckim ambasadorem w Londynie.
 === Armia Polska w ZSRR.
 . Jej dowódcą został *generał Władysław Anders*, wcześniej więziony w Moskwie.
 . Okazało się, ze wśród zwolnionych brakuje ok. 14 tysięcy oficerów wziętych do niewoli w 1939 r. (i zamordowanych m.in. w Katyniu). Stalin tłumaczył, że zapewne uciekli do Mandżurii i tam się odnajdą.
+. *Sielce nad Oką* - miejsce formowania armii
+. Pierwszą jednostką była I Dywizja Piechoty imienia Tadeusza Kościuszki.
 
 == Siły zbrojne.
 
@@ -82,4 +87,4 @@ NOTE: Mały sabotaż prowadziła przede wszystkim młodzież z konspiracyjnego h
 Zdobywał między innymi informacje o planowanym ataku Niemiec na ZSRR (Stalin je zlekceważył), dostarczył też na Zachód niewybuch rakiety V-2. Dzięki danym zdobytych przez wywiad AK lotnictwo alianckie zbombardowało fabrykę tych rakiet.
 
 === Działalność dywersyjna.
-Pod *koniec 1942 roku* AK nosiła *działalność dywersyjną*: wykolejała transporty wojskowe przeznaczone na front wschodni, wysadzała mosty, odbijała więźniów. Straty zadane Niemcom były bardzo duże - wśród nich ponad 730 wykolejonych pociągów i przeszło 4 tysiące zniszczonych pojazdów wojskowych. Jednak w akcjach AK zginęło ponad 60 tysięcy jej żołnierzy.
+Pod *koniec 1942 roku*, *AK* nosiła *działalność dywersyjną*: wykolejała transporty wojskowe przeznaczone na front wschodni, wysadzała mosty, odbijała więźniów. Straty zadane Niemcom były bardzo duże - wśród nich ponad 730 wykolejonych pociągów i przeszło 4 tysiące zniszczonych pojazdów wojskowych. Jednak w akcjach AK zginęło ponad 60 tysięcy jej żołnierzy.

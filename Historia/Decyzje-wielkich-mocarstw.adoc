@@ -35,6 +35,16 @@ endif::[]
 |lipiec-sierpień 1945 roku
 |====
 
+NOTE: *Pierwsze spotkanie:* Do obrad nie dopuszczono opinii publicznej, ani nie przekazano wyniku.
+
+=== Na konferencji Jałtańskiej.
+* Przywódcy zapowiedzieli wolne wybory i demokrację w wyzwolonych krajach Europy.
+* Ogłoszono podział Niemiec na cztery strefy okupacyjne:
+** radziecką
+** amerykańską
+** brytyjską
+** francuską
+
 === Do czego dążyli przywódcy?
 
 [cols="2*<"]
@@ -54,6 +64,6 @@ endif::[]
 == Karta Atlantycka
 . Uchwalona została przez *Churchilla* i *Roosevelta* (sierpień 1941 r.).
 . To dokument  określający cele polityki obu państw w czasie wojny i po jej zakończeniu (bez nabytków terytorialnych, samostanowienie narodów i ich prawo do wyboru ustroju).
-. We wrześniu *Kartę Atlantycką* podmisali m.in. ZSRR oraz polski rząd emigracyjny.
+. We wrześniu *Kartę Atlantycką* podpisali m.in. ZSRR oraz polski rząd emigracyjny.
 
-IMPORTANT: *1941* rok
+IMPORTANT: *1941* rok.

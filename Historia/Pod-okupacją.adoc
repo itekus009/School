@@ -14,24 +14,38 @@ endif::[]
 
 == Podział ziem polskich po kampanii wrześniowej:
 
-=== Zajęte tereny przez Niemcy
+=== Zajęte tereny przez Niemcy.
 * *Niemcy*: Śląsk, Wielkopolska, Pomorze
 * Te tereny uznali za rdzenne i włączyli je do III Rzeszy.
 * Z reszty ziem polskich niemcy utworzyli *Generalną Gubernię*.
 
-=== Co zrobili Sowieci oraz Litwini
+=== Kogo mordowali Hitlerowcy.
+* Mordowali:
+** inteligencję
+** polityków
+** wybitnych sportowców
+
+TIP: W kwietniu 1940 r. ok. 14,5 tysiąca polskich oficerów zostało zamordowanych przez NKWD w lesie pod Katyniem, w Charakowie i w Twerze. Wiosną 7 tys. Polaków zostało zamordowanych na Białorusi i Ukrainie.
+
+=== Co zrobili Sowieci oraz Litwini.
 * *Sowieci* większość ziem polskich włączyli do ZSRR.
 * *Wileńszczyzna* została oddana Litwinom.
 
-NOTE: *Generalna Gubernia*, to Jednostka administracyjno-terytorialna utworzona na podstawie dekretu Adolfa Hitlera z 12 października 1939, obejmująca część okupowanego przez wojska niemieckie terytorium II Rzeczypospolitej, która nie została wcielona bezpośrednio do III Rzeszy; Generalne Gubernatorstwo
+NOTE: *Generalna Gubernia*, to Jednostka administracyjno-terytorialna utworzona na podstawie dekretu Adolfa Hitlera z 12 października 1939, obejmująca część okupowanego przez wojska niemieckie terytorium II Rzeczypospolitej, która nie została wcielona bezpośrednio do III Rzeszy; Generalne Gubernatorstwo. Zarządzana przez *Hansa Franka*, *Kraków* był jej stolicą. GG "przytułkiem" dla Polaków. Polacy mieli stać się prymitywną siłą roboczą bez własnej kultury.
 
-== Obozy koncentracyjne / zagłady
+=== Generalny plan wschodni.
+Przewidywał zabicie lub wysiedlenie 85% Polaków. Pozostali mieli był niewolnikami, albo zgermanizowani.
+
+== Obozy koncentracyjne / zagłady.
+
+=== Stutthof
+Wywozili tam Polaków i żydów.
 
 === Poznań, Fort 7
 IMPORTANT: *To był pierwszy obóz koncentracyjny na terenach Polski*.
 
 === Auschwitz-Birkenau
-IMPORTANT: *Czerwiec 1940 r. Niemcy przywieźli pierwszy transport żydów do obozu (Obóz w Oświęcimiu był największym)*.
+IMPORTANT: *Czerwiec 1940 r. Niemcy przywieźli pierwszy transport żydów do obozu (Obóz w Oświęcimiu był największym obozem)*.
 
 == Polacy wobec zagłady żydów
 
@@ -54,5 +68,7 @@ IMPORTANT: *Czerwiec 1940 r. Niemcy przywieźli pierwszy transport żydów do ob
 - Z około 3,5 miliona polskich Żydów pod niemiecką okupacją przeżyło 60-100 tysięcy. Ok. 300 tys. uratowało się w ZSRR.
 |====
 
+NOTE: Instytut Pamięci Narodowej Yad Vashem nadał Irenie Sendler i państwu Żabińskim oraz Ulmom tytuł *Sprawiedliwy wśród Narodów Świata*.
+
 == Miejsce, w które wysyłano Polaków z rdzennych terenów Sowietów
-IMPORTANT: *Kazachstan* i *Syberia*
+IMPORTANT: *Kazachstan* i *Syberia*.
