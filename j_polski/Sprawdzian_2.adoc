@@ -146,6 +146,7 @@ Najbardziej znane gatunki liryczne:
 |===
 
 === Sonetyczne środki wyrazu (tropy).
+
 [cols="3*<"]
 |===
 |*Rodzaj środka*
@@ -190,6 +191,7 @@ Najbardziej znane gatunki liryczne:
 |===
 
 === Składnikowe środki wyrazu.
+
 [cols="3*<"]
 |===
 |*Rodzaj środka*
@@ -234,6 +236,7 @@ Najbardziej znane gatunki liryczne:
 |===
 
 === Przypadki.
+
 [cols="8*<"]
 |===
 |*Przypadek:*
