@@ -46,6 +46,15 @@ IMPORTANT: DNA to *Kwas deoksyrybonukleinowy*.
 . To barwniki nadające kolor włosom, skórze i tęczówkom.
 . W genach jest zapisana informacja dotycząca budowy enzymów odpowiedzialnych za ich wytworzenie.
 
+== RNA
+. W procesie syntezy białek bierze udział *kwas rybonukleinowy*.
+
+=== Budowa RNA
+* Budowa nukleotydu RNA:
+** cukier (ryboza)
+** reszta kwasu fosforowego
+** zasada azotowa
+
 == Zasady azotowe - informacje.
 
 ====
@@ -79,15 +88,3 @@ IMPORTANT: DNA to *Kwas deoksyrybonukleinowy*.
 
 IMPORTANT: *Kariotyp* to charakterystyczny dla danego gatunku zestaw chromosomów. Np. *Dla człowieka - 46* chromosomów; *dla psa - 78*.
 
-== Replikacja DNA
-. To proces tworzenia kopii.
-. *Zachodzi przed podziałem komórkowym*.
-
-== RNA
-. W procesie syntezy białek bierze udział *kwas rybonukleinowy*.
-
-=== Budowa RNA
-* Budowa nukleotydu RNA:
-** cukier (ryboza)
-** reszta kwasu fosforowego
-** zasada azotowa
