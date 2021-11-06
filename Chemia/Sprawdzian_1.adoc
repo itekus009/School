@@ -1,0 +1,108 @@
+= Chemia - przygotowanie do sprawdzianu (nr 1).
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+====
+*Zagadnienia:*
+
+. Wzory i nazwy wodorotlenków.
+. Wodorotlenki pierwiastków I grupy.
+. Wodorotlenki pierwiastków II grupy.
+
+**Na 6:*
+
+. Stężenie procentowe roztworu.
+. Rozbijanie substancji rozpuszczalnych na jony.
+====
+
+== Wzory i nazwy wodorotlenków.
+=== Wodorotlenki.
+*To związki  o budowie jonowej*, w których skład wchodzą kationy metalu i aniony wodorotlenkowe.
+
+TIP: Wodorotlenki to *substancje stałe* w temperaturze pokojowej.
+
+=== Jak ustalić nazwę wodorotlenku, znając jego wzór sumaryczny?
+IMPORTANT: Dla wodorotlenków I i II grupy oraz glinu i cynku *nie podajemy* wartościowości w nazwach.
+
+====
+*KOH* -> Ma tylko jedną wartościowość.
+
+*nazwa:* wodorotlenek potasu
+
+---
+
+*Fe(OH)~2~* -> Żelazo może mieć inną wartościowość, lecz z "2" wiadomo, że w tym przykładzie ma "2".
+
+*nazwa:* wodorotlenek żelaza (II)
+====
+
+=== Zasady.
+==== Cechy zasad.
+. Przewodzą prąd.
+. Zmieniają barwę fenoloftaleiny na *malinowy*.
+. Ulegają dysocjacji jonowej.
+. Rozpuszczają się w wodzie.
+
+==== Przykładowe zasady.
+* NaOH
+* KOH
+* Ca(OH)~2~
+
+NOTE: Nie każdy wodorotlenek jest zasadą.
+
+== Wodorotlenki pierwiastków I grupy.
+=== Ładunek jonu metalu.
+. Ładunek jonu metalu pierwszej grupy zawsze wynosi +1
+(oznacza to, że metale pierwszej grupy mają wartościowość równą I).
+
+TIP: Pierwszą grupę pierwiastków, w układzie okresowym, można nazwać grupą *litowców*.
+
+=== Metody otrzymywania wodorotlenków:
+. reakcja metalu I lub II grupy z wodą (oprócz berylu).
+. reakcja tlenku metalu I lub II grupy z wodą (oprócz berylu).
+. reakcja wymiany, w której otrzymywany produkt jest osadem, metoda ta dotyczy wodorotlenków trudno rozpuszczalnych w wodzie.
+
+=== Reakcja metalu (I grupy) z wodą.
+metal + woda -> wodorotlenek metalu + wodór
+
+2Na + 2H~2~O -> 2NaOH + H~2~↑
+
+=== Reakcja tlenku metalu (I grupy) z wodą.
+tlenek metalu + woda -> wodorotlenek metalu
+
+Na~2~O + H~2~O -> 2NaOH
+
+=== Właściwości wodorotlenków metali I grupy.
+-> Są higroskopijne (pochłaniają wilgoć).
+-> Są żrące.
+-> Rozpuszczają się w wodzie wydzielając ciepło (reakcja egzotermiczna).
+
+=== Zastosowanie wodorotlenków metali I grupy układu okresowego pierwiastków.
+
+[cols="2*<"]
+|===
+|*KOH*
+|*NaOH*
+|- produkcja mydeł
+
+- wyrób detergentów
+
+- ważne odczynniki laboratoryjne
+|- produkcja mydeł
+
+- wyrób detergentów
+
+- ważne odczynniki laboratoryjne
+| Elektrolit w bakteriach niklowo-kadmowych.
+|Główny składnik środków do udrażniania rur.
+|===
