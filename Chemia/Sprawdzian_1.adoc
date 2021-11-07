@@ -201,5 +201,3 @@ TIP: Gaszenie wapna palonego to rozpuszczanie tlenku wapnia (wapna palonego) w w
 
 === Wodorotlenek w postaci osadu.
 NOTE: Osad, *to substancja stała wydzielana z roztworu*, np. w wyniku reakcji strącenia. *W równaniu reakcji zaznaczamy osad symbolem "↓"*, zaraz za wzorem sumarycznym.
-
-=== Dobór odpowiednich roztworów.
