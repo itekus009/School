@@ -194,5 +194,27 @@ Zawsze na początku reklamy poinformuj, jakiego produktu ona dotyczy.
 === Gatunki filmowe.
 . *Dramat* - czyli „działanie, akcja”) – jeden z trzech rodzajów literackich (obok liryki i epiki). Jest to właściwie rodzaj sztuki na granicy teatru i literatury. ... Jako utwór literacki dramat charakteryzuje się przede wszystkim tym, że jest tworzony w celu realizacji scenicznej.
 
-. *Komedie* cechuje pogodny nastrój, komizm, najczęściej żywa akcja i szczęśliwe dla bohaterów zakończenie.
+. *Komedię* cechuje pogodny nastrój, komizm, najczęściej żywa akcja i szczęśliwe dla bohaterów zakończenie.
 
+. *Fantastyka naukowa, SF*, odmiana literatury fantastycznej; termin określający literaturę (także film) fantastyczną, w której konstrukcję świata przedstawionego uzasadniają wyjaśnienia o charakterze naukowym lub przynajmniej mające pozory naukowości.
+
+. *Fantasy* – gatunek literacki lub filmowy używający magicznych i innych nadprzyrodzonych form, motywów, jako pierwszorzędnego składnika fabuły, myśli przewodniej, czasu, miejsca akcji, postaci i okoliczności zdarzeń.
+
+. *Kryminałem* określa się potocznie powieść kryminalną, której fabuła bazuje na zagadkowym przestępstwie. Bohaterami fabuły są sprawcy przestępstwa, osoby, które starają się rozwikłać zagadkę oraz osoby postronne.
+
+. *Western* – gatunek filmu fabularnego, powieści awanturniczej albo sztuki scenicznej, obejmujący utwory, których akcja rozgrywa się w okresie kolonizacji i stabilizowania się życia na terenach zachodnich stanów USA, zwanych Dzikim Zachodem.
+
+. *Film sensacyjny* – swoista odmiana rodzajowa (nie gatunek filmowy) filmu fabularnego, typ struktury dzieła filmowego rozwijanej i uzupełnianej przez różne gatunki filmowe, które można traktować jako odmiany filmu sensacyjnego; wyznacznikiem rodzajowym nie jest więc treść filmu, lecz sposób przedstawiania wydarzeń.
+
+. *Film przygodowy* – film o akcji skonstruowanej z ciągu przygód protagonisty, charakteryzujący się szybkim tempem akcji, brawurowymi rozwiązaniami fabularnymi oraz licznymi przeszkodami pokonywanymi przez bohaterów.
+
+. *Film kostiumowy* – gatunek filmów odwzorowujących daną epokę historyczną poprzez użycie charakterystycznych dla niej dekoracji i strojów; termin „film kostiumowy” odnosi się głównie do produkcji zawierających fikcyjnych bohaterów.
+
+. *Filmy dla młodzieży* - rodzaj produkcji filmowych przeznaczonych dla widzów w okresie dorastania. Tematami przewodnimi tego typu produkcji są zazwyczaj przyjaźń, pierwsza miłość, problemy w szkole, inicjacja seksualna oraz różnego rodzaju uzależnienia.
+
+== Cechy filmu literackiego.
+. fikcja 
+. przedmiot estetyczny 
+. integracja języka 
+. twór intertekstualny 
+. twór autoteliczny
