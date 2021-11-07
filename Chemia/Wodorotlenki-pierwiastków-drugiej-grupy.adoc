@@ -3,7 +3,7 @@
 :toc-title: Spis treści
 :sectnums:
 :icons: font
-:imagesdir: obrazki
+:stem:
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
@@ -51,7 +51,7 @@ MeO + 2H~2~O -> Mg(OH)~2~
 === Dlaczego Beryl jest inny?
 Wodorotlenek Berylu *nie jest rozpuszczalny*, a jego charakter chemiczny to *amfoteryczny*.
 
-IMPORTANT: *Amfoteryczny* to taki, który: *rozpuszcza się w kwasach*,*rozpuszcza się w zasadach*, *nie rozpuszcza się w wodzie* !!!
+IMPORTANT: *Amfoteryczny* to taki, który: *rozpuszcza się w kwasach*, *rozpuszcza się w zasadach*, *nie rozpuszcza się w wodzie* !!!
 
 == Wodorotlenek wapnia.
 
