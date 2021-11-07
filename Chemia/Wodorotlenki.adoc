@@ -45,7 +45,7 @@ endif::[]
 |II
 |===
 
-IMPORTANT: *Przy pisaniu nazwy wartościowości Cynku nie podajemy w nawiasie.*
+IMPORTANT:  Dla wodorotlenków I i II grupy oraz glinu i cynku *nie podajemy* wartościowości w nazwach.
 
 == Zasady
 
