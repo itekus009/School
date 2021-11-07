@@ -34,6 +34,7 @@ endif::[]
 
 . link:Chemia/Wodorotlenki.html[Wodorotlenki.]
 . link:Chemia/Wodorotlenki-pierwiastków-drugiej-grupy.html[Wodorotlenki pierwiastków drugiej grupy.]
+. link:Chemia/Sprawdzian_1.html[Przygotowanie do sprawdzianu nr 1.]
 
 === Biologia
 
