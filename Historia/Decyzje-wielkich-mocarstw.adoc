@@ -13,8 +13,6 @@ ifdef::env-github[]
 endif::[]
 
 == Spotkania wielkiej trójki
-. Odbyło się w Poczdamie w lipcu-sierpniu 1945 r.
-
 [cols="4*^"]
 |====
 |*Które spotkanie*
