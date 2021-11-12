@@ -33,7 +33,7 @@ endif::[]
 .. bawełny
 
 === Dwie różne odmiany ryżu:
-NOTE: Na świecie jest ponad 20 gatunków ryżu.
+NOTE: Na świecie jest *ponad 20 gatunków* ryżu.
 
 . *Ryż mokry* - jest uprawiany na polach pokrytych kilkunastu centymetrową warstwą wody, te tereny często są zalewane sztucznie.
 . *Ryż suchy* - ma mniejsze wymagania klimatyczne i nie musi być uprawiany na terenach zalewanych wodą. Jednak potrzebuje dużej wilgotności powietrza.
