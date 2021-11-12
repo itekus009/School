@@ -23,6 +23,8 @@ endif::[]
 .. Dolina Tygrysu
 .. Dolina Eufratu
 
+TIP: Nowoczesne rolnictwo występuje między innymi w *Japonii i Izraelu*.
+
 == Rośliny uprawne i zwierzęta hodowlane.
 === Główne rośliny uprawne:
 .. ryż
