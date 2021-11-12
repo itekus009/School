@@ -28,7 +28,7 @@ endif::[]
 * tsunami
 * obecność wulkanów
 
-NOTE: Aby ograniczyć straty wywołane przez trzęsienia ziemii wykorzystuje się nowoczesne technologie.
+NOTE: Aby ograniczyć straty wywołane przez trzęsienia ziemi wykorzystuje się nowoczesne technologie.
 
 == Źrudła gospodarczego rozwoju.
 . *Ożywienie gospodarcze* nastąpiło po II wojnie światowej. Japonia otrzymała *pomoc finansową*. Rozpoczęły się wtedy duże inwestycje.
