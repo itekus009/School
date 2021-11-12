@@ -39,8 +39,7 @@ NOTE: Na świecie jest *ponad 20 gatunków* ryżu.
 . *Ryż suchy* - ma mniejsze wymagania klimatyczne i nie musi być uprawiany na terenach zalewanych wodą. Jednak potrzebuje dużej wilgotności powietrza.
 
 === Główne zwierzęta hodowlane:
-.. trzoda
-.. chlewna
+.. trzoda chlewna
 .. owce
 .. bydło
 .. kozy
