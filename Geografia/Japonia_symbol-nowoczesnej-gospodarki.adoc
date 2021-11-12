@@ -1,1 +1,49 @@
 = Japonia - symbol nowoczesnej gospodarki.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Japonia, informacje.
+=== Jeden z największych na świecie eksporterów.
+. Eksportuje sprzęt elektroniczny oraz samochody i części samochodowe.
+. Pod względem gospodarczym ten kraj należy do najlepiej rozwiniętych państw świata, mimo że na jego obszarze panują niekorzystne warunki przyrodnicze.
+
+== Środowisko Japonii.
+=== Nieprzyjazne środowisko.
+* wyspiarskie położenie tego kraju
+* górzystość i jej względnie mała powierzchnia
+* niedobór surowców mineralnych
+
+=== Zagrożenia naturalne.
+* trzęsienia ziemii
+* tsunami
+* obecność wulkanów
+
+NOTE: Aby ograniczyć straty wywołane przez trzęsienia ziemii wykorzystuje się nowoczesne technologie.
+
+== Źrudła gospodarczego rozwoju.
+. *Ożywienie gospodarcze* nastąpiło po II wojnie światowej. Japonia otrzymała *pomoc finansową*. Rozpoczęły się wtedy duże inwestycje.
+. Wzrost gospodarczy był możliwy również dzięki dużym nakładom na oświatę i badania naukowe.
+. Ogromny wpływ na rozkwit gospodarczy Japonii miał też sposób myślenia jej mieszkańców.
+
+TIP: Dyscyplina, wytrwałość, lojalność, humor oraz pracowitość. To *narodowe cechy Japończyków*.
+
+== Nowoczesna gospodarka.
+=== Niedobór surowców mineralnych.
+* Sprawia, że Japonia musi importować. Dominującą rolę w gospodarce Japonii odgrywa *przetwórstwo przemysłowe*.
+* Szczególne znaczenie w gospodarce ma również przemysł zaawansowanych technologii. Znany jako *high-tech*.
+
+== Japońskie rolnictwo.
+. Jest bardzo wydajne i nowoczesne.
+. Dzięki sztucznemu nawadnianiu zyskuje się wysokie plony.
+. Upeawia się przede wszystkim ryż, pszenicę i jęczmieć, owoce cytrusowe.
+. Ważną część gospodarki stanowi *rybołóstwo*.
