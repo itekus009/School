@@ -47,5 +47,5 @@ NOTE: Na świecie jest *ponad 20 gatunków* ryżu.
 
 == Monsun letni i zimowy.
 * Wiatr monsunowy występuje w Azji południowej i południowo-wschodniej. Zmieniają swój kierunek w ciągu roku:
-** *Monsun Letni* wieje z morza na lond i przynosi obfite deszcze.
-** *Monsun Zimowy* wieje z londu w kierunku morza i przynosi suche powietrze.
+** *Monsun Letni* wieje z morza na ląd i przynosi obfite deszcze.
+** *Monsun Zimowy* wieje z lądu w kierunku morza i przynosi suche powietrze.
