@@ -1,0 +1,36 @@
+= Położenie Bliskiego Wschodu.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+TIP: Południowo-zachodnią Azję nazywamy *Bliskim Wschodem*.
+
+== Bliski Wschud.
+=== Przykładowe państwa zaliczających się do Bliskego Wschodu.
+. Arabie Saudyjską
+. Bahrajn
+. Cypr
+. Egipt
+. Iran
+. Irak
+. Izrael
+. Palestynę
+. Jemen
+. Jordanię
+
+=== Informacje na temat Bliskiego Wschodu.
+. *powierzchnia:* ok 9,7 mln km^2^
+. Odbywa duże znaczenie gospodarcze i strategiczne.
+. *Leży na styku trzech kontynentów:* Europy, Azji i Afryki.
+. Przechodzą tędy ważne szlaki komunalne z Europy, Azji na Daleki Wschód.
+
+IMPORTANT: *Kraje Arabskie* to kraje naftowe. Kraj, który ma dostęp do ropy naftowej jest krajem bogatym.
