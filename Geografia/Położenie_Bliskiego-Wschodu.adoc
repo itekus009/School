@@ -16,7 +16,7 @@ TIP: Południowo-zachodnią Azję nazywamy *Bliskim Wschodem*.
 
 == Bliski Wschud.
 === Przykładowe państwa zaliczających się do Bliskego Wschodu.
-. Arabie Saudyjską
+. Arabię Saudyjską
 . Bahrajn
 . Cypr
 . Egipt
@@ -40,16 +40,16 @@ TIP: Południowo-zachodnią Azję nazywamy *Bliskim Wschodem*.
 * Żółta
 * Czarna
 
-== Kraje Arabskie.
+== Kraje arabskie.
 === Definicja.
-*Kraje Arabskie* to kraje naftowe. Kraj, który ma dostęp do ropy naftowej jest krajem bogatym.
+*Kraje arabskie* to kraje naftowe. Kraj, który ma dostęp do ropy naftowej jest krajem bogatym.
 
-=== Państwa Niearabskie.
-. Do krajów Niearabskich należą:
+=== Państwa niearabskie.
+. Do krajów niearabskich należą:
 * Iran
 * Turcja
 * Izrael
-. Nie należą one do państw Arabskich, ponieważ nie są krajami bogatymi i nie mają dostępu do ropy naftowej.
+. Nie należą one do państw arabskich, ponieważ nie są krajami bogatymi i nie mają dostępu do ropy naftowej.
 . Ropę naftową wydobywa się w Azji, w rejonie Zatoki Perskiej, basenie Morza Kaspijskiego oraz na Syberii.
 
 NOTE: Te państwa są na Bliskim Wschodzie.
