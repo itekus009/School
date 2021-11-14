@@ -51,4 +51,5 @@ endif::[]
 
 === Geografia
 . link:Geografia/%C5%9Arodowisko-przyrodnicze-Azji.html[Środowisko przyrodnicze Azji.]
-. link:Geografia/Wulkanizm-i-trz%C4%99sienia-ziemi-w-Azji.html
+. link:Geografia/Wulkanizm-i-trz%C4%99sienia-ziemi-w-Azji.html[Wulkanizm i trzęsienia ziemi w Azji.]
+. link:Geografia/Rolnictwo_Azji.html[Rolnictwo Azji.]
