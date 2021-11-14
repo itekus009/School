@@ -50,4 +50,5 @@ endif::[]
 . link:Historia/Rząd-londyński_Polskie-Państwo-Podziemne.html[Rząd Londyński i Polskie Państwo Podziemne.]
 
 === Geografia
-. link:https:Geografia/%C5%9Arodowisko-przyrodnicze-Azji.html[Środowisko przyrodnicze Azji.]
+. link:Geografia/%C5%9Arodowisko-przyrodnicze-Azji.html[Środowisko przyrodnicze Azji.]
+. link:Geografia/Wulkanizm-i-trz%C4%99sienia-ziemi-w-Azji.html
