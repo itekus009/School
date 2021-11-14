@@ -19,7 +19,7 @@ endif::[]
 * Leży na półkuli północnej i wschodniej.
 * Ma silnie rozwiniętą linię brzegową.
 * Leży na 8 płytach tektonicznych.
-* W Azji występują (Pacyficzny Pierścień Ognia)
+* W Azji występują (Pacyficzny Pierścień Ognia):
   ** trzęsienia ziemi
   ** zjawiska wulkaniczne
 
