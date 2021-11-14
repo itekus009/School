@@ -1,4 +1,16 @@
 = Indie, państwo kontrastów społecznych i gospodarczych.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
 == Problemy demograficzne..
 . Pod względem ludności Indie są drugim (po Chinach) państwem świata. W tym kraju żyje 18% mieszkańców Ziemi. Wskaźnik przyrostu naturalnego od wielu lat utrzymuje się powyżej 10‰. Liczba ludności szybko wzrasta. O 150 mln osób w każdej kolejnej dekadzie.
