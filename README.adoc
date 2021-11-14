@@ -48,3 +48,6 @@ endif::[]
 . link:Historia/Decyzje-wielkich-mocarstw.html[Decyzje wielkich mocarstw.]
 . link:Historia/Pod-okupacją.html[Pod okupacją wielkich mocarstw.]
 . link:Historia/Rząd-londyński_Polskie-Państwo-Podziemne.html[Rząd Londyński i Polskie Państwo Podziemne.]
+
+=== Geografia
+. link:https:Geografia/%C5%9Arodowisko-przyrodnicze-Azji.html[Środowisko przyrodnicze Azji.]
