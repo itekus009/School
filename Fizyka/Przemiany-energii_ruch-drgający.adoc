@@ -1,0 +1,7 @@
+. Przemiany energii w ruchu drgającym.
+
+.. Rozpatrujemy drgania układu ciała połączonego ze sprężyną odbywającej się w płaszczyźnie poziomej.
+
+NOTE: Przyjmujemy, że drgania odbywają się w układzie zachowawczym, to znaczy bez strat energii (doskonale sprężysta sprężyna, brak tarcia i oporu powietrza).
+
+.. *Położenie pierwsze* - położenie równowagi. W tym położeniu sprężyna jest nienaciągnięta (ciężarek jest w spoczynku, a energia układu = 0)
