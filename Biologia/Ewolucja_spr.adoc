@@ -82,7 +82,7 @@ IMPORTANT: Teoria ewolucji zakłada, że *nawet duże grupy organizmów*, takie 
 
 *** Łączył on w sobie cechy dwóch gromad kręgowców - gadów i ptaków. Miał skrzydła, jego ciało było pokryte piórami. Posiadał on szczęki uzbrojone w zęby, długi ogon i pazury na przednich kończynach.
 
-image::archeopteryks.jpg[archeopteryks,500]
+image::archeopteryks.jfif[archeopteryks,500]
 
 === Żywe skamieniałości.
 . *Definicja:* Żywe skamieniałości to pojedyncze gatunki, które przetrwały do dziś, mimo że inni ich bliscy krewni już dawno wymarli.
@@ -93,7 +93,7 @@ image::archeopteryks.jpg[archeopteryks,500]
 
 .. *Kolczatka i dziobak* należą do stekowców. Ssaki te mają wiele cech gadzich, np. ich młode wykluwają się z jaj.  Później jednak, tak jak ssaki, żywią się mlekiem matki.
 
-image::Stekowce.png[Kolczatka i dziobak,500]
+image::Kolczatka_dziobak.png[Kolczatka i dziobak,500]
 
 .. *Latimeria* należy do ryb trzonopłetwych których większość przedstawicieli wymarła miliony lat temu. Cechą różniącą latimerię od większości są płetwy osadzone na umięśnionych trzonach.
 
@@ -101,7 +101,7 @@ image::Latimeria.jpg[Latimeria,500]
 
 .. *Łodzik* to jedyny współcześnie żyjący głowonóg z muszlą zewnętrzną.
 
-image::Łodzik.jpg[Łodzik,500]
+image::łodzik.jfif[Łodzik,500]
 
 === Jedność planu budowy.
 
@@ -139,4 +139,16 @@ image::Łodzik.jpg[Łodzik,500]
 .. Takie narządy są określane *strukturami analogicznymi*.
 
 NOTE: Upodabnianie się do siebie organizmów, które nie są ze sobą blisko spokrewnione, pod wpływem podobnych czynników środowiska nazywamy *konwergencją*. Np. opływowy kształt ciała rekina i delfina.
+
+== Mechanizmy ewolucji.
+. W jaki sposób z jednego gatunku mogą powstawać inne?
+. Odpowiedź na to pytanie znalazł *Karol Darwin*.
+. W 1831 r. udał się na okręcie Beagle w podróż dookoła świata. W trakcie tej wyprawy odwiedził wiele zakątków kli ziemskiej między innymi wyspy Galapagos. Zebrane podczas podróży dane umożliwiły mu sformułowanie teorii ewolucji.
+
+image::Darwin.jfif[Karol Darwin,250]
+
+* Główne założenia teorii ewolucji:
+** Darwin stwierdził, iż jeżeli część osobników jakiegoś gatunku przeniesie sie na inny obszar to nie będą miały możliwości krzyżowania się z pozostałymi przedstawicielami gatunku.
+** To oznacza, że powstaną dwie grupy osobników między którymi wytworzy się *izolacja geograficzna*.
+** Z czasem różnice pomiędzy przedstawicielami gatunków będą tak duże, że osobniki nawet po ponownym spotkaniu nie będą mogły się krzyżować i wydawać na świat potomstwa. W ten sposób powstanie *nowy gatunek*.
 
