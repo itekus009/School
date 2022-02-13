@@ -82,7 +82,7 @@ IMPORTANT: Teoria ewolucji zakłada, że *nawet duże grupy organizmów*, takie 
 
 *** Łączył on w sobie cechy dwóch gromad kręgowców - gadów i ptaków. Miał skrzydła, jego ciało było pokryte piórami. Posiadał on szczęki uzbrojone w zęby, długi ogon i pazury na przednich kończynach.
 
-image::archeopteryks.jfif[archeopteryks,500]
+image::archeopteryks.jfif[archeopteryks,250]
 
 === Żywe skamieniałości.
 . *Definicja:* Żywe skamieniałości to pojedyncze gatunki, które przetrwały do dziś, mimo że inni ich bliscy krewni już dawno wymarli.
@@ -93,24 +93,24 @@ image::archeopteryks.jfif[archeopteryks,500]
 
 .. *Kolczatka i dziobak* należą do stekowców. Ssaki te mają wiele cech gadzich, np. ich młode wykluwają się z jaj.  Później jednak, tak jak ssaki, żywią się mlekiem matki.
 
-image::Kolczatka_dziobak.png[Kolczatka i dziobak,500]
+image::Kolczatka_dziobak.png[Kolczatka i dziobak,250]
 
 .. *Latimeria* należy do ryb trzonopłetwych których większość przedstawicieli wymarła miliony lat temu. Cechą różniącą latimerię od większości są płetwy osadzone na umięśnionych trzonach.
 
-image::Latimeria.jpg[Latimeria,500]
+image::Latimeria.jpg[Latimeria,250]
 
 .. *Łodzik* to jedyny współcześnie żyjący głowonóg z muszlą zewnętrzną.
 
-image::łodzik.jfif[Łodzik,500]
+image::łodzik.jfif[Łodzik,250]
 
 === Jedność planu budowy.
 
 . Wszystkie organizmy zbudowane są zbudowane z komórek, które składają się z takich samych związków chemicznych. Komórki te tworzą podobne typy tkanek, narządy i układy. Nazywamy to *jednością plany budowy*.
 . Organizmy wykazują także  takie same czynności życiowe.
 .. Wszystkie:
-... oddychają
-... odżywiają się
-... wydalają
+... oddychają;
+... odżywiają się;
+... wydalają.
 
 === Narządy szczątkowe.
 . Niestety po ewolucyjnych przodkach pozostają ślady w postaci *narządów szczątkowych*, które nie odgrywają żadnej istotnej roli u współcześnie żyjących organizmów.
@@ -175,3 +175,71 @@ IMPORTANT: Gatunki, które żyją tylko na ograniczonym obszarze nazywamy *endem
 . Hodowcy roślin i zwierząt już od dawna naśladowali działanie doboru naturalnego.
 . Wybierali z każdego pokolenia osobniki o odpowiadających im cechach i tylko te przeznaczali do dalszego rozrodu.
 .. Takie działania nazywamy *doborem sztucznym*.
+. Gdy mamy do dyspozycji różne rasy zwierząt, możemy je ze sobą krzyżować. W ten sposób uzyskuje się rasy potomne, zwykle odmienne of gatunku wyjściowego.
+
+TIP:  Tak hodowcy uzyskali odmiany roślin odpornych na choroby czy rasy krów dających więcej mleka.
+
+image::rasa.jfif[Pies,250]
+
+== Pochodzenie człowieka.
+
+=== Homo sapiens
+
+NOTE: Homo sapiens, czyli *człowiek rozumny*.
+
+=== Człekokształtne - ewolucyjni krewni człowieka.
+
+* Do cech wyróżniających przedstawicieli nadrodziny człekokształtnych zaliczamy między innymi: 
+** długi okres dzieciństwa;
+** szczególne możliwości uczenia się;
+** wysoli stopień rozwoju psychicznego.
+
+=== Człekokształtne (przykłady).
+
+* *Goryle:* 
+.. Chodzą, podpierając się podwiniętymi palcami kończyn górnych.
+.. Nocują na drzewach lub na ziemi.
+
+image::goryl.jpg[Goryl,250]
+
+* *Szympansy:*
+.. Prowadzą głównie nadziemny tryb życia.
+.. Żyją w grupach rodzinnych.
+.. Używają prostych narzędzi.
+
+image::szympans.jpg[Szympans,250]
+
+* *Gibony:*
+.. Prowadzą nadrzewny tryb życia.
+.. Żyją w parach.
+.. W obronie swojego terytorium wydają śpiewne dźwięki.
+
+image::gibony.jpg[Gibon,250]
+
+* *Orangutany:*
+.. Prowadzą nadrzewny tryb życia.
+.. W przeciwieństwie do innych człekokształtnych są samotnikami.
+
+image::orangutan.jpg[Orangutan,250]
+
+=== Człowiek, a inne człekokształtne (podobieństwa i różnice).
+
+* *Do cech wspólnych człowieka oraz innych człekokształtnych należą:*
+** obuoczne widzenie;
+** rozróżnianie barw;
+** długie kończyny z obrotowymi stawami pozwalającymi na wykonanie ruchów w każdym kierunku;
+** chwytne dłonie z przeciwstawnym kciukiem (korzystanie z narzędzi);
+** rozbudowane mięśnie mimiczne (umożliwiają komunikowanie się);
+** długi okres dzieciństwa.
+
+* *Do cech odróżniających człowieka od innych człekokształtnych należą:*
+** dwunożność i wyprostowana postawa ciała oraz związane z nimi zmiany w budowie szkieletu;
+** duży mózg i związana z nim zmiana w budowie czaszki;
+** zredukowana owłosienie ciała;
+** wysoko rozwinięte zdolności manualne;
+** umiejętność mowy;
+** wysoko rozwinięta inteligencja;
+** tworzenie dóbr kultury;
+** rozbudowany system wartości.
+
+=== Rozwój rewolucyjny człowieka.
