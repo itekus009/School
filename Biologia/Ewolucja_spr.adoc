@@ -117,3 +117,9 @@ image::Łodzik.jpg[Łodzik,500]
 . W wypadku człowieka są to zęby mądrości, mięśnie poruszające małżowiną uszną i kość ogonowa.
 . Okazuje się, że informacja o cechach nawet odległych przodków jest ciągle zapisywana w DNA. Jej część pozostaje jednak nieaktywna lub jest tylko aktywna w czasie rozwoju zarodkowego
 .. Np. podczas rozwoju zarodkowego człowieka pojawiają się związki łuków skrzelowych, podobne do tych, które występują u ryb.
+
+=== Rozmieszczenie organizmów.
+
+. O wspólnym pochodzeniu organizmów świadczy fakt, że blisko spokrewnione gatunki zazwyczaj zamieszkują sąsiednie rejony, a daleko spokrewnione - występują najczęściej na różnych kontynentach.
+. Czasami duże grupy organizmów na jednym obszarze wymierają, a na innym udaje im się przetrwać.
+.. Przykładem są liczne gatunki torbaczy żyjące tylko w Austrii.
