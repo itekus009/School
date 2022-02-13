@@ -243,3 +243,39 @@ image::orangutan.jpg[Orangutan,250]
 ** rozbudowany system wartości.
 
 === Rozwój rewolucyjny człowieka.
+TIP: Badaniem pochodzenia człowieka oraz związanych z nim procesów ewolucyjnych zajmują się przedstawiciele z różnych nauk: *antropologii, planetologii i archeologii*.
+
+. Według najnowszej wiedzy  człowiek rozumny powstał *300 tysięcy lat temu w Afryce*.
+
+. Opanowanie *dwunożności:*
+.. Wiązało się ze zmianą sposobu poruszania się i stanowiło przystosowanie do zmieniających się waounków środowiska.
+.. Na otwartej przestrzeni korzystne było przyjęcie wyprostowanej postawy ciała, co wiązało się z uniesieniem głowy, wyższym umiejscowieniem narządów wzroku i uwolnieniem rąk.
+.. *Umożliwiło to:*
+... skuteczniejsze polowanie;
+... szybsze dostrzeganie niebezpieczeństwa i odpowiednią reakcję.
+
+IMPORTANT: Za *pierwszą istotę przedludzką*, która prawdopodobnie była dwunożna, uznaje się *sahelantropa*.
+
+image::sahelantrop.jpg[Sahelantrop,250]
+
+* Ważnym momentem w ewolucji człowieka było pojawienie się *ardipiteka*.
+** Sprawnie wspinał się na drzewa, a chodził wyprostowany.
+* Kolejną formą przedludzką był *australopitek*, który żył na otwartych przestrzeniach sawanny.
+
+. *Wytwarzanie narzędzi:*
+.. Pierwszym znanym gatunkiem, który to potrafił był *człowiek zręczny*, uznawany również za *pierwszy gatunek człowieka*.
+
+* *Rozpalenie ognia:*
+** Ok. 2 mln lat temu wraz z pojawieniem się *człowieka wyprostowanego*.
+** Potrafił on wytwarzać bardziej skomplikowane narzędzia oraz rozpalać ogień.
+** Podczas długo trwałego chodu lub biegu jego organizm wytwarzał duże ilości ciepła. *Chłodzenie ciała umożliwiły gruczoły potowe oraz utrata owłosienia*.
+
+* *Rozwój mowy:*
+** Pierwszy gatunek: *neandertalczyk*.
+** Był dobrze przystosowany do surowych warunków klimatycznych panujących w Europie.
+** Polował na durze zwierzęta.
+** Tworzył grupy rodzinne, jako pierwszy grzebał zmarłych
+
+* *Rozwój kultury i sztuki:*
+** Człowiek rozumny, dzięki rozwojowi inteligencji i umiejętności abstrakcyjnego myślenia zaczął rozwijać kulturę i tworzyć sztukę.
+** Na początku prowadził koczowniczy tryb życia.
