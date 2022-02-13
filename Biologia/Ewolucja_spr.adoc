@@ -82,6 +82,8 @@ IMPORTANT: Teoria ewolucji zakłada, że *nawet duże grupy organizmów*, takie 
 
 *** Łączył on w sobie cechy dwóch gromad kręgowców - gadów i ptaków. Miał skrzydła, jego ciało było pokryte piórami. Posiadał on szczęki uzbrojone w zęby, długi ogon i pazury na przednich kończynach.
 
+image::archeopteryks.jpg[archeopteryks,500]
+
 === Żywe skamieniałości.
 . *Definicja:* Żywe skamieniałości to pojedyncze gatunki, które przetrwały do dziś, mimo że inni ich bliscy krewni już dawno wymarli.
 
@@ -100,3 +102,18 @@ image::Latimeria.jpg[Latimeria,500]
 .. *Łodzik* to jedyny współcześnie żyjący głowonóg z muszlą zewnętrzną.
 
 image::Łodzik.jpg[Łodzik,500]
+
+=== Jedność planu budowy.
+
+. Wszystkie organizmy zbudowane są zbudowane z komórek, które składają się z takich samych związków chemicznych. Komórki te tworzą podobne typy tkanek, narządy i układy. Nazywamy to *jednością plany budowy*.
+. Organizmy wykazują także  takie same czynności życiowe.
+.. Wszystkie:
+... oddychają
+... odżywiają się
+... wydalają
+
+=== Narządy szczątkowe.
+. Niestety po ewolucyjnych przodkach pozostają ślady w postaci *narządów szczątkowych*, które nie odgrywają żadnej istotnej roli u współcześnie żyjących organizmów.
+. W wypadku człowieka są to zęby mądrości, mięśnie poruszające małżowiną uszną i kość ogonowa.
+. Okazuje się, że informacja o cechach nawet odległych przodków jest ciągle zapisywana w DNA. Jej część pozostaje jednak nieaktywna lub jest tylko aktywna w czasie rozwoju zarodkowego
+.. Np. podczas rozwoju zarodkowego człowieka pojawiają się związki łuków skrzelowych, podobne do tych, które występują u ryb.
