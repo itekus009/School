@@ -123,3 +123,20 @@ image::Łodzik.jpg[Łodzik,500]
 . O wspólnym pochodzeniu organizmów świadczy fakt, że blisko spokrewnione gatunki zazwyczaj zamieszkują sąsiednie rejony, a daleko spokrewnione - występują najczęściej na różnych kontynentach.
 . Czasami duże grupy organizmów na jednym obszarze wymierają, a na innym udaje im się przetrwać.
 .. Przykładem są liczne gatunki torbaczy żyjące tylko w Austrii.
+
+=== Struktury homologiczne i analogiczne.
+
+==== Struktury homologiczne.
+
+. U organizmów blisko spokrewnionych narządy mają podobną budowę wewnętrzną i pochodzenie.
+.. Takie narządy określane są jako *struktury homologiczne*.
+. Pomimo wspólnego pochodzenia i wspólnej budowie, często zwierzęta różnią się wyglądem, ponieważ podczas rozwoju ewolucyjnego zostały przystosowane do pełnienia innych funkcji.
+.. Kończyna konia jest doskonale przystosowana do biegu, a skrzydło nietoperza - do lotu. Różnią się one wyglądem, jednak składają się z tych samych kości, mają więc wspólne pochodzenie ewolucyjne.
+
+==== Struktury analogiczne.
+
+. U organizmów daleko spokrewnionych narządy mają odmienną budowę wewnętrzną i pochodzenie. Zwierzęta mają jednak podobny, do siebie, wygląd (wykształciły się pod wpływem zbliżonych warunków środowiska).
+.. Takie narządy są określane *strukturami analogicznymi*.
+
+NOTE: Upodabnianie się do siebie organizmów, które nie są ze sobą blisko spokrewnione, pod wpływem podobnych czynników środowiska nazywamy *konwergencją*. Np. opływowy kształt ciała rekina i delfina.
+
