@@ -141,6 +141,8 @@ image::łodzik.jfif[Łodzik,500]
 NOTE: Upodabnianie się do siebie organizmów, które nie są ze sobą blisko spokrewnione, pod wpływem podobnych czynników środowiska nazywamy *konwergencją*. Np. opływowy kształt ciała rekina i delfina.
 
 == Mechanizmy ewolucji.
+
+=== Główne założenia teorii ewolucji.
 . W jaki sposób z jednego gatunku mogą powstawać inne?
 . Odpowiedź na to pytanie znalazł *Karol Darwin*.
 . W 1831 r. udał się na okręcie Beagle w podróż dookoła świata. W trakcie tej wyprawy odwiedził wiele zakątków kli ziemskiej między innymi wyspy Galapagos. Zebrane podczas podróży dane umożliwiły mu sformułowanie teorii ewolucji.
@@ -152,3 +154,22 @@ image::Darwin.jfif[Karol Darwin,250]
 ** To oznacza, że powstaną dwie grupy osobników między którymi wytworzy się *izolacja geograficzna*.
 ** Z czasem różnice pomiędzy przedstawicielami gatunków będą tak duże, że osobniki nawet po ponownym spotkaniu nie będą mogły się krzyżować i wydawać na świat potomstwa. W ten sposób powstanie *nowy gatunek*.
 
+IMPORTANT: Gatunki, które żyją tylko na ograniczonym obszarze nazywamy *endemitami*. Przykłady: Żółw słoniowy, Legwan morski, Pingwin równikowy.
+
+=== Ewolucja na przykładzie Darwinek.
+
+. Mają wspólnego przodka z Ameryki Południowej.
+. Osiedliły się one na różnych wyspach, musiały przystosować się do odmiennych warunków środowiska.
+. Zmienił się między innymi rodzaj pokarmu, co wpłynęło na zmianę kształtu dziobu.
+. W ten sposób z jednego gatunku powstało wiele innych gatunków.
+
+=== Dobór naturalny i sztuczny.
+
+==== Dobór naturalny.
+. Darwin zauważył, że większość zwierząt wydaje na świat więcej potomstwa, niż jest to konieczne.
+.. Ryby składają co roku tysiące jaj.
+. Organizmy konkurują o dostęp do pokarmu, wody i miejsca dożycia czy partnera do rozrodu. Tę konkurencję Darwin nazwał *walką o byt*, którą wygrywają osobniki najbardziej przystosowane do środowiska lub najsilniejsze.
+.. Mechanizm sprawiający, że przeżywają osobniki najlepiej przystosowane do środowiska, nazwano *doborem naturalnym*.
+
+==== Dobór sztuczny.
+. Hodowcy roślin i zwierząt już od dawna naśladowali działanie doboru naturalnego.
