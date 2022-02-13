@@ -173,3 +173,5 @@ IMPORTANT: Gatunki, które żyją tylko na ograniczonym obszarze nazywamy *endem
 
 ==== Dobór sztuczny.
 . Hodowcy roślin i zwierząt już od dawna naśladowali działanie doboru naturalnego.
+. Wybierali z każdego pokolenia osobniki o odpowiadających im cechach i tylko te przeznaczali do dalszego rozrodu.
+.. Takie działania nazywamy *doborem sztucznym*.
