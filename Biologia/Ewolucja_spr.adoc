@@ -1,0 +1,102 @@
+= Ewolucja życia - przygotowanie do sprawdzianu.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Źródła wiedzy o ewolucji.
+
+=== Definicja ewolucji.
+
+NOTE: Wszystkie organizmy podlegają *ewolucji*. Jest to proces stopniowych zmian budowy ciała, sposobu życia, upodobań pokarmowych lub innych cech gatunkowych, *prowadzący do powstania nowego gatunku*.
+
+* Z czasem, z gatunku wyjściowego (przodka) powstaje kilka gatunków potomnych. Następstwem tych procesów jest ogromna różnorodność istot żywych.
+
+=== Bezpośrednie i pośrednie dowody.
+
+* Ewolucję potwierdzają *bezpośrednie* i *pośrednie* *dowody*, dostarczone przez różne dziedziny nauki, między innymi planetologię, anatomię oraz genetykę.
+
+[cols="2*<"]
+|===
+|*Dowody bezpośrednie*
+|*Dowody pośrednie*
+|Pozwalają śledzić kolejność pojawiania się poszczególnych form organizmów.
+|Opierają się na analizie podobieństw oraz różnic w budowie i sposobie funkcjonowania.
+|1) skamieniałości
+
+2) formy pośrednie
+
+3) żywe skamieniałości
+|1) jedność budowy i funkcjonowania
+
+2) narządy szczątkowe
+
+3) rozmieszczenie organizmów na kuli ziemskiej
+
+4) struktury homologiczne i analogiczne
+|===
+
+=== Skamieniałości.
+
+TIP: *Skamieniałości* to szczątki i ślady działalności organizmów zachowane w osadach skorupy ziemskiej. Stanowią one ważne źródło wiedzy o przeszłości.
+
+* *Skamieniałe szczątki organizmów*.
+
+** W skałach osadowych kuli ziemskiej znajdują się skamieniałe szczątki organizmów, między innymi fragmenty roślin, kości i zęby. Pozwalają one odtworzyć przypuszczalny wygląd nieżyjących od dawna organizmów.
+
+*** W skałach zachowały się fragmenty wymarłych roślin, np. paproci.
+
+*** Skamieniałe muszle amonitów z grupy głowonogów zachowały się, mimo że pochodzą sprzed wielu milionów lat.
+
+* *Zmumifikowane ciała organizmów*.
+
+** Zmumifikowane zwłoki całych organizmów zachowuję się do naszych czasów niezwykle rzadko. Stanowią cenny materiał, ponieważ umożliwiają dokładną analizę budowy ciała, zwłaszcza jego miękkich części.
+
+*** Zachowane w całości mamucie niemowlę odkryto w wiecznej zmarzlinie na Syberii.
+
+*** Owady uwięzione w żywicy przed wieloma milionami lat przetrwały do dziś dzięki konserwującym właścicielom bursztynu.
+
+* *Ślady działalności organizmów.*
+
+** Szczególnym rodzajem skamieniałości są ślady działalności organizmów, np. gniazda, nory, skamieniałe odchody i trupy. Pozwalają one poznać tryb życia wymarłych zwierząt.
+
+*** W skamieniałym gnieździe dinozaura można m.in. sprawdzić liczbę składanych jaj. Czasem zachowują się w nich szczątki embrionów.
+
+*** W rejonie Gór Świętokrzyskich zachowały się tropy najstarszego znanego czworonoga, który mógł poruszać się poza środowiskiem wodnym.
+
+=== Formy pośrednie.
+
+IMPORTANT: Teoria ewolucji zakłada, że *nawet duże grupy organizmów*, takie jak ryby, płazy, gady, ptaki i ssaki, *są ze sobą spokrewnione*.
+
+* Założenie to potwierdzają szczątki form pośrednich, czyli organizmów łączących w sobie ceny dwóch różnych grup systematycznych.
+
+** Przykładem takiego zwierzęcia, które uznaje się za formę przejściową jest *archeopteryks*.
+
+*** Łączył on w sobie cechy dwóch gromad kręgowców - gadów i ptaków. Miał skrzydła, jego ciało było pokryte piórami. Posiadał on szczęki uzbrojone w zęby, długi ogon i pazury na przednich kończynach.
+
+=== Żywe skamieniałości.
+. *Definicja:* Żywe skamieniałości to pojedyncze gatunki, które przetrwały do dziś, mimo że inni ich bliscy krewni już dawno wymarli.
+
+. Dzięki temu, że ewolucja tych gatunków przebiegała bardzo powoli mogą nam wiele powiedzieć o życiu i wyglądzie organizmów z przeszłości.
+
+. Przykłady:
+
+.. *Kolczatka i dziobak* należą do stekowców. Ssaki te mają wiele cech gadzich, np. ich młode wykluwają się z jaj.  Później jednak, tak jak ssaki, żywią się mlekiem matki.
+
+image::Stekowce.png[Kolczatka i dziobak,500]
+
+.. *Latimeria* należy do ryb trzonopłetwych których większość przedstawicieli wymarła miliony lat temu. Cechą różniącą latimerię od większości są płetwy osadzone na umięśnionych trzonach.
+
+image::Latimeria.jpg[Latimeria,500]
+
+.. *Łodzik* to jedyny współcześnie żyjący głowonóg z muszlą zewnętrzną.
+
+image::Łodzik.jpg[Łodzik,500]

@@ -80,7 +80,7 @@ image::Mejoza.jpg[Mejoza,500]
 3) Komórki potomne mają taką samą liczbę chromosomów, jak komórka macierzysta.
 
 4) Służy do wytwarzania komórek somatycznych.
-|1) Przep podziałem następuje replikacja.
+|1) Przed podziałem następuje replikacja.
 
 2) Podczas mejozy dochodzi do dwóch podziałów.
 
