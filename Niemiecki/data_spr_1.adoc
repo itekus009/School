@@ -1,0 +1,197 @@
+= Przygotowanie do sprawdzianu.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Die Jahreszeiten.
+
+[cols="2*<"]
+|===
+|*Die Jahreszeiten:*
+|*Pory roku:*
+|der Frühling
+|Wiosna
+|der Sommer
+|Lato
+|der Herbst
+|Jesień
+|der Winter
+|Zima
+|===
+
+== Miesiące.
+
+[cols="2*<"]
+|===
+|*Der Monat:*
+|*Miesiąc:*
+|Januar
+|Styczeń
+|Februar
+|Luty
+|März
+|Marzec
+|April
+|Kwiecień
+|Mai
+|Maj
+|Juni
+|Czerwiec
+|Juli
+|Lipiec
+|August
+|Sierpień
+|September
+|Wrzesień
+|Oktober
+|Październik
+|November
+|Listopad
+|Dezember
+|Grudzień
+|===
+
+IMPORTANT: *Jak podajemy datę np. 2 maja - 2. März!*
+
+== Ich freue mich [gramatyka].
+
+====
+*Czasowniki zwrotne - gramatyka.*
+
+[cols="4*^"]
+|===
+|ich
+|freue *mich*
+|wir
+|freuen *uns*
+|du
+|freust *dich*
+|ihr
+|freut *euch*
+|er/sie/es
+|freut *sich*
+|sie/Sie
+|freuen *sich*
+|===
+
+. *sich interessieren* - interesować się
+. *sich fühlen* - uczyć się
+. *sich langweilen* - nudzić się
+. *sich treffen* - spotykać się
+====
+
+== Liczebniki porządkowe.
+
+====
+*Liczebniki porządkowe - gramatyka.*
+
+[cols="2*<"]
+|===
+|der 1. - der *erste*
+|der 20. - der zwanzig *ste*
+|der 2. - der zwei *te*
+|der 30. - der dreißig *ste*
+|der 3. - der *dritte*
+|der 40. - der vierzig *ste*
+|der 4. - der vier *te*
+|der 21. - der einundzwanzig *ste*
+|der 10. - der zehn *te*
+|der 22. - der zweiundzwanzig *ste*
+|der 23. - der dreiundzwansig *ste*
+|der 14. - der vierzehn *te*
+|===
+
+====
+IMPORTANT: *Der 7. - der siebte (znika „en”)!*
+
+== Zaimek „man”.
+
+=== Przykłady.
+
+* *Man bekommt viele Geshenke.* - Dostaje się wiele prezentów.
+* *Man kann draußes feiern.* - Można świętować na dworze.
+* *Man trinkt in Deutschland viel Kaffee.* - W Niemczech pije się dużo kawy.
+
+TIP: Zaimek *man* występuje zawsze z czasownikiem w 3. osobie liczby pojedynczej.
+
+== Wann?
+
+=== Miesiące i pory roku.
+. *im* Jamuar / Debruar / März
+. *im* Drühling / Sommer / Herbst / Winter
+
+=== Którego dnia?
+. *am* zweiten Juni / dritten Mai
+
+== Das Wetter.
+
+=== Zaimek  „es”- gramatyka.
+
+* *Es ist* kalt. - Jest zimno.
+====
+* *Es sind* 30 Grad. - Jest 30 stopni.
+* *Schneit es* - Czy pada śnieg?
+====
+
+== Słówka.
+
+=== Czasowniki i zwroty.
+
+[cols="2*<"]
+|===
+| *sich freuen*
+| cieszyć się
+| *sich fühlen* 
+| czuć się
+| *sich interessieren*
+| interesować się
+| *sich langweilen*
+| nudzić się
+| *sich treffen (du triffst dich)*
+| spotykać się
+| *fahren*
+| jechać
+| *eine Reise machen*
+| odbywać podróż
+| *eine Klassenfahrt machen*
+| odbywać wycieczkę klasową
+| *einen Pass haben*
+| posiadać paszport
+| *viele Probleme haben*
+| mieć wiele problemów
+| *krank sein*
+| być chorym
+| *den Koffer packen*
+| pakować walizkę
+| *Was ist los?*
+| Co się dzieje?
+| *Wir sind schon da.*
+| Jesteśmy już na miejscu.
+|===
+
+=== Wydarzenia.
+
+[cols="2*<"]
+|===
+| *der Geburtstag*, -e
+| urodziny
+| *der Namenstag*, -e
+| imieniny
+| *der Schulbeginn*
+| początek szkoły
+| *die Party*, -s
+| przyjęcie, impreza
+| *das Klassenfest*, -e
+| impreza klasowa
+| *das Ostern*
+| Wielkanoc
+|===
