@@ -134,6 +134,42 @@ TIP: Zaimek *man* występuje zawsze z czasownikiem w 3. osobie liczby pojedyncze
 
 == Das Wetter.
 
+=== Podawanie temperatury.
+
+NOTE: *Die Temperatur beträgt:* Null Grad / zwei Grad Kälte; zwei Grad unter Null / zwei Grad Wärme; zwei Grad uber Null.
+
+=== Słówka.
+
+[cols="2*<"]
+|===
+| *schön*
+| schlecht
+| *unbeständig*
+| zmienna
+| *kühl*
+| chłodno
+| *frostig*
+| mroźno
+| *das Gewitter*
+| burza
+| *es schneit*
+| pada śnieg
+| *es scheint*
+| słońce świeci
+| *es blitzt*
+| błyska się
+| *es donnert*
+| grzmi
+| *der Blitzt*
+| błyskawica
+| *der Donner*
+| grzmot
+| *unangenehm*
+| nieprzyjemne
+| *es nieselt*
+| mrzawkowo
+|===
+
 === Zaimek  „es”- gramatyka.
 
 * *Es ist* kalt. - Jest zimno.
@@ -195,3 +231,35 @@ TIP: Zaimek *man* występuje zawsze z czasownikiem w 3. osobie liczby pojedyncze
 | *das Ostern*
 | Wielkanoc
 |===
+
+=== Fragen zum Thema: „Die Geburtstagsparty”.
+
+====
+[cols="2*<"]
+|===
+| *Wann hast du Geburtstag?*
+| im 21. September
+| *Wann machst du die Party?*
+| am Wochenende
+| *Wo Veranstaltest du deine Part?*
+| bei mir zu House
+| *Wen lädst du ein?*
+| meine Freunde; meine Familie
+| *Was musst du vor der Party machen?*
+| einkäufe machen; Gäste einladen
+| *Um wie viel Uhr kommen die Gäste?*
+| um 5 Uhr dreißig
+| *Was gibt es zum Essen?*
+| die Geburtstagtorte; Eis; Pizza
+| *Was macht ihr auf der Party?*
+| tanzen; singen; spielen auf Computer
+| *Welche Geshenke bekommst du meistens?*
+| LEGO; Gelb
+| *Wie lange dauert die Party?*
+| 2 Stunden
+| *Was muss man nach der Party machen?*
+| aufräumen
+|===
+
+TIP: **Veranstalten* - organizować.
+====
