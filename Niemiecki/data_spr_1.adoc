@@ -106,8 +106,8 @@ IMPORTANT: *Jak podajemy datę np. 2 maja - 2. März!*
 |der 21. - der einundzwanzig *ste*
 |der 10. - der zehn *te*
 |der 22. - der zweiundzwanzig *ste*
-|der 23. - der dreiundzwansig *ste*
 |der 14. - der vierzehn *te*
+|der 23. - der dreiundzwansig *ste*
 |===
 
 ====
