@@ -193,6 +193,18 @@ image::rasa.jfif[Pies,250]
 
 NOTE: Homo sapiens, czyli *człowiek rozumny*.
 
+==== *Zapis określający miejsce człowieka w systematyce:*
+** *Królestwo:* zwierzęta
+** *Typ:* strunowce
+** *Podtyp:* kręgowce
+** *Gromada:* ssaki
+** *Podgromada:* ssaki łożyskowe
+** *Rząd:* naczelne
+** *Nadrodzina:* człekokształtne
+** *Rodzina:* człowiekowate
+** *Rodzaj:* człowiek
+** *Gatunek:* człowiek rozumny
+
 === Człekokształtne - ewolucyjni krewni człowieka.
 
 * Do cech wyróżniających przedstawicieli nadrodziny człekokształtnych zaliczamy między innymi: 
