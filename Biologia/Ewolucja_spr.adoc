@@ -191,7 +191,7 @@ image::rasa.jfif[Pies,250]
 
 === Homo sapiens
 
-NOTE: Homo sapiens, czyli *człowiek rozumny*.
+NOTE: Homo sapiens, czyli *człowiek rozumny*. Powstał ok. *300 lat temu* w Afryce.
 
 ==== *Zapis określający miejsce człowieka w systematyce:*
 ** *Królestwo:* zwierzęta
