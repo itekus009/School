@@ -112,6 +112,12 @@ image::łodzik.jfif[Łodzik,250]
 ... odżywiają się;
 ... wydalają.
 
+=== Relikty.
+* *Definicja:*
+** Żyjący do dziś gatunek bardzo przypominający organizmy znane z opisu kopalnego.
+* *Przykłady:*
+** Łodzik, latimeria, miłorząb, hoacyn
+
 === Narządy szczątkowe.
 . Niestety po ewolucyjnych przodkach pozostają ślady w postaci *narządów szczątkowych*, które nie odgrywają żadnej istotnej roli u współcześnie żyjących organizmów.
 . W wypadku człowieka są to zęby mądrości, mięśnie poruszające małżowiną uszną i kość ogonowa.
