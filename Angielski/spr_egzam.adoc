@@ -1,1 +1,37 @@
+= Passive voice.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
 
+== Budowa.
+
+=== Czasy
+[cols="2*<"]
+|===
+| *Czas:*
+| *Przykład zdania:*
+| *Present Simple:*
+| MP3 players are sold here.
+| *Past Simple:*
+| The light bulb was invented by Thomas Edison.
+| *Present Perfect:*
+| Many operations have been performed by robots.
+| *Future Simple:*
+| Astronauts will be sent to Mars one day.
+|===
+
+=== Dopełnienie i podmiot.
+. Dopełnienie w zdaniu w stronie czynnej staje się podmiotem w zdaniu w stronie biernej.
+.. Millions of people use *mobile phones*.
+.. *Mobile phones* are used by millions of people.
+
+NOTE: W pierwszym zdaniu: *mobile phones* - dopełnienie; w drugim staje się podmiotem.
