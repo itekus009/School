@@ -13,3 +13,6 @@ ifdef::env-github[]
 endif::[]
 
 == Użycie
+* Strony biernej używamy kiedy:
+** nie wiemy, kto wykonał daną czynność 
+** kiedy informacja o tej czynności jest ważniejsza od informacji o jej wykonawcy
