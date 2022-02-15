@@ -254,7 +254,7 @@ NOTE: *Die Temperatur beträgt:* Null Grad / zwei Grad Kälte; zwei Grad unter N
 | *Was macht ihr auf der Party?*
 | tanzen; singen; spielen auf Computer
 | *Welche Geshenke bekommst du meistens?*
-| LEGO; Gelb
+| LEGO; Geld
 | *Wie lange dauert die Party?*
 | 2 Stunden
 | *Was muss man nach der Party machen?*
