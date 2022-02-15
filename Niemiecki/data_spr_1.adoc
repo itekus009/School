@@ -134,6 +134,10 @@ TIP: Zaimek *man* występuje zawsze z czasownikiem w 3. osobie liczby pojedyncze
 === Którego dnia?
 . *am* zweiten Juni / dritten Mai
 
+=== Dzisiejsza data.
+
+*Welches datum ist Heute?* - Jaki dzisiaj dzień (data)?
+
 == Das Wetter.
 
 === Podawanie temperatury powyżej / poniżej 0^o^C.
