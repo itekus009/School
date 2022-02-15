@@ -14,5 +14,6 @@ endif::[]
 
 == Użycie
 * Strony biernej używamy kiedy:
-** nie wiemy, kto wykonał daną czynność 
-** kiedy informacja o tej czynności jest ważniejsza od informacji o jej wykonawcy
+** nie wiemy, kto wykonał daną czynność.
+** kiedy informacja o tej czynności jest ważniejsza od informacji o jej wykonawcy.
+* Aby utworzyć zdanie w stronie biernej, używamy właściwej formy czasownika _be_ w odpowiednim czasie oraz formy _past participle_.
