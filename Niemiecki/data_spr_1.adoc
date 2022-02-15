@@ -113,6 +113,8 @@ IMPORTANT: *Jak podajemy datę np. 2 maja - 2. März!*
 ====
 IMPORTANT: *Der 7. - der siebte (znika „en”)!*
 
+TIP: 1 - 19 + „te”; 20...-> + „ste”!
+
 == Zaimek „man”.
 
 === Przykłady.
