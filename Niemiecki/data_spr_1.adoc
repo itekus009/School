@@ -138,6 +138,8 @@ TIP: Zaimek *man* występuje zawsze z czasownikiem w 3. osobie liczby pojedyncze
 
 *Welches datum ist Heute?* - Jaki dzisiaj dzień (data)?
 
+*Heute ist das 15. Februar.* - Dzisiaj jest 15 lutego.
+
 == Das Wetter.
 
 === Podawanie temperatury powyżej / poniżej 0^o^C.
@@ -177,7 +179,7 @@ NOTE: *Die Temperatur beträgt:* Null Grad / zwei Grad Kälte; zwei Grad unter N
 |===
 
 *Wie ist das Wetter Heute?* - Jaka jest dzisiaj pogoda?
-*Heute ist das 15. Februar.*
+
 
 === Zaimek  „es”- gramatyka.
 
