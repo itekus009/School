@@ -238,6 +238,10 @@ NOTE: *Die Temperatur beträgt:* Null Grad / zwei Grad Kälte; zwei Grad unter N
 
 === Fragen zum Thema: „Die Geburtstagsparty”.
 
+*Życzenia urodzinowe:* Herzlichen Glückwunsch zum Geburtstag!;
+
+*Przykro mi, ale nie mogę przyjść:* Ich kann nicht kommen denn Ich bin krank und ich muss lernen.
+
 ====
 [cols="2*<"]
 |===
