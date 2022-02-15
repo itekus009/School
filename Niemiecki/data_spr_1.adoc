@@ -172,6 +172,8 @@ NOTE: *Die Temperatur beträgt:* Null Grad / zwei Grad Kälte; zwei Grad unter N
 | mrzawkowo
 |===
 
+*Wie ist das Wetter Heute?* - Jaka jest dzisiaj pogoda
+
 === Zaimek  „es”- gramatyka.
 
 * *Es ist* kalt. - Jest zimno.
