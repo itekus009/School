@@ -21,6 +21,9 @@ endif::[]
 == Budowa.
 
 === Czasy
+
+====
+
 [cols="3*<"]
 |===
 | *Czas:*
@@ -57,6 +60,7 @@ endif::[]
 | He *must deliver* the letters.
 | The letters *must be delivered*.
 |===
+====
 
 === Dopełnienie i podmiot.
 . Dopełnienie w zdaniu w stronie czynnej staje się podmiotem w zdaniu w stronie biernej.
