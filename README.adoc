@@ -36,7 +36,7 @@ endif::[]
 
 === Język angielski
 
-. link:Angielski/bierna.adoc[Strona bierna.]
+. link:Angielski/bierna.html[Strona bierna.]
 
 === Chemia
 
