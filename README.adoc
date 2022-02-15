@@ -34,6 +34,9 @@ endif::[]
 
 . link:Niemiecki/data_spr_1.html[Sprawdzian (daty, pogoda, urodziny).]
 
+=== Język angielski
+. link:Angielski/spr_egzam.adoc[Strona bierna.]
+
 === Chemia
 
 . link:Chemia/Wodorotlenki.html[Wodorotlenki.]
