@@ -35,7 +35,8 @@ endif::[]
 . link:Niemiecki/data_spr_1.html[Sprawdzian (daty, pogoda, urodziny).]
 
 === Język angielski
-. link:Angielski/spr_egzam.adoc[Strona bierna.]
+
+. link:Angielski/bierna.adoc[Strona bierna.]
 
 === Chemia
 
