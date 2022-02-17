@@ -1,0 +1,54 @@
+= Słówka
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+- Słówka
+. ambition - ambicja
+. application - aplikacja(np. na studia)
+. bank account  - konto bankowe
+. boss - szef,kierownik,dyrektor
+. career - kariera
+. colleague - kolega, koleżanka z pracy
+. company - spółka
+. contarct - kontrakt
+. department - dział( np. sprzedaży)
+. deserve - zasługiwać
+. earn - zarabiac
+. fame - sława
+. goal - cel
+. impress - imponować
+. income - zarobki
+. industry - przemysł
+. interview - wywiad, rozmowa telefoniczna
+. leader - lider
+. manager - menadżer
+. pension - pieniądze z emerytury
+. poverty - bieda
+. pressure - zawód
+. previous - poprzednia
+. proffesion - poprzedni
+. retire - odejść na emeryture
+. salary - wypłata
+. staff - obsługa
+. strike - strajk
+. tax - podatek
+. wealthy - bogaty
+. in chrge - u władzy
+- Frazy
+. call of - cancel
+. give back - return something you have taken
+. go on - happen
+. put off - delay to a later time
+. set up - start(a business)
+. stay up - go to bad late
+. take over - take control of (a business)
