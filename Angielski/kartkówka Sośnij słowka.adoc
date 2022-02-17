@@ -44,6 +44,9 @@ endif::[]
 . tax - podatek
 . wealthy - bogaty
 . in chrge - u władzy
+. on business - w interesach
+. on stike - strajkować
+.
 - Frazy
 . call of - cancel
 . give back - return something you have taken
