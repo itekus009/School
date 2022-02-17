@@ -20,10 +20,10 @@ endif::[]
 . career - kariera
 . colleague - kolega, koleżanka z pracy
 . company - spółka
-. contarct - kontrakt
-. department - dział( np. sprzedaży)
+. contract - kontrakt
+. department - dział (np. sprzedaży)
 . deserve - zasługiwać
-. earn - zarabiac
+. earn - zarabiać
 . fame - sława
 . goal - cel
 . impress - imponować
@@ -34,24 +34,23 @@ endif::[]
 . manager - menadżer
 . pension - pieniądze z emerytury
 . poverty - bieda
-. pressure - zawód
-. previous - poprzednia
-. proffesion - poprzedni
-. retire - odejść na emeryture
+. profession - zawód
+. previous - poprzedni
+. retire - odejść na emeryturę
 . salary - wypłata
 . staff - obsługa
 . strike - strajk
 . tax - podatek
 . wealthy - bogaty
-. in chrge - u władzy
+. in charge - u władzy
 . on business - w interesach
-. on stike - strajkować
+. on strike - strajkować
 . on time - na czas
 .
 
 == Frazy
 . call of - cancel
-. give back - return something you have taken
+. give back - return something that you have taken
 . go on - happen
 . put off - delay to a later time
 . set up - start(a business)
