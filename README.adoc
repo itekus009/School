@@ -37,6 +37,7 @@ endif::[]
 === Język angielski
 
 . link:Angielski/bierna.html[Strona bierna.]
+. link:Angielski/kartkowka_Sosnij_slowka.html[Słownictwo kartkówka (18.02.2022).]
 
 === Chemia
 
