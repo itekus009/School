@@ -46,7 +46,19 @@ endif::[]
 . on business - w interesach
 . on strike - strajkować
 . on time - na czas
-.
+. on/off duty - na służbie
+. employ - zatrudnić
+. vet - weterynarz
+. au pair - opikunka do dziecka
+. nanny - opikunka
+. chauffeur - szofer
+. lorry driver - kierowca ciężarówki
+. sailor - marynarz
+. servant - sługa
+. linguist - językoznwca
+. tour guide - przewodnik wycieczki
+. bank clerck - urzędnik bankowy
+. off sick - chory
 
 == Frazy
 . call of - cancel
