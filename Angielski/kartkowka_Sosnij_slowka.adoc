@@ -14,6 +14,7 @@ endif::[]
 
 == Słówka
 . ambition - ambicja
+. archaeologist - archeolog
 . application - aplikacja(np. na studia)
 . bank account  - konto bankowe
 . boss - szef,kierownik,dyrektor
@@ -23,6 +24,7 @@ endif::[]
 . contract - kontrakt
 . department - dział (np. sprzedaży)
 . deserve - zasługiwać
+. diplomat - dyplomata
 . earn - zarabiać
 . fame - sława
 . goal - cel
@@ -33,6 +35,8 @@ endif::[]
 . leader - lider
 . manager - menadżer
 . pension - pieniądze z emerytury
+. lawyer - prawnik
+. scientist - naukowiec
 . poverty - bieda
 . profession - zawód
 . previous - poprzedni
@@ -40,24 +44,42 @@ endif::[]
 . salary - wypłata
 . staff - obsługa
 . strike - strajk
+. magician - na urodzinach (sztuczki)
+. newsreader - czytnik
+. director - menadżer (osoba zarządzająca)
+. engineer - inżynier
+. part time - praca na pół etatu
+. full time - praca na cały etat
+. temporary job - praca tymczasowa
+. permanent work - stała (nietymczasowa) praca
+. master of ceremonies - organizator ceremonii
 . tax - podatek
 . wealthy - bogaty
-. in charge - u władzy
-. on business - w interesach
-. on strike - strajkować
-. on time - na czas
-. on/off duty - na służbie
+. businessman - biznesmen
+. surgeon - chirurg
 . employ - zatrudnić
 . vet - weterynarz
-. au pair - opikunka do dziecka
-. nanny - opikunka
+. economist - ekonomista
+. babysitter - opiekunka dziecięca
+. au pair - opiekunka do dziecka, pochodzi z innego kraju
+. nanny - opiekunka
+. mathematician - matematyk
+. banker - bankier
+. doctor - doktor
+. taxi driver - taksówkarz
+. historian - historyk
+. secretary - sekretarz
+. social services - usługi społeczne
+. heavy equipment - ciężkie wyposażenie
+. manage - zarządzać
 . chauffeur - szofer
+. judge - sędzia
 . lorry driver - kierowca ciężarówki
 . sailor - marynarz
 . servant - sługa
-. linguist - językoznwca
+. linguist - językoznawca
 . tour guide - przewodnik wycieczki
-. bank clerck - urzędnik bankowy
+. bank clerk - urzędnik bankowy
 . off sick - chory
 
 == Frazy
@@ -68,3 +90,8 @@ endif::[]
 . set up - start(a business)
 . stay up - go to bad late
 . take over - take control of (a business)
+. in charge - u władzy
+. on business - w interesach
+. on strike - strajkować
+. on time - na czas
+. on/off duty - na służbie
