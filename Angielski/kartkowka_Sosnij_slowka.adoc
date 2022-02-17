@@ -1,5 +1,4 @@
 = Kartkówka 18.02.2022 - słówka.
-
 :toc:
 :toc-title: Spis treści
 :sectnums:
