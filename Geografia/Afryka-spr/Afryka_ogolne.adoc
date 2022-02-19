@@ -12,4 +12,4 @@ endif::[]
 
 == Tematy przygotowujące do sprawdzianu:
 
-=== link:Geografia/Afryka-spr/Środowisko_Afryki.html[Środowisko przyrodnicze Afryki.]
+=== link:School/Geografia/Afryka-spr/Środowisko_Afryki.html[Środowisko przyrodnicze Afryki.]
