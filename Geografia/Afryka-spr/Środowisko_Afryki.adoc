@@ -29,10 +29,6 @@ NOTE: *Opracowujący temat:* Wiktor
 
 TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
-=== Podział polityczny Afryki.
-
-image::polityka_Afryki.png[Podział-polityczny-Afryki,250]
-
 == Ukształtowanie powierzchni Afryki.
 
 . Ukształtowanie terenu uznać za wyjątkowe.
@@ -46,3 +42,8 @@ image::polityka_Afryki.png[Podział-polityczny-Afryki,250]
 . Wzdłuż wybrzeży kontynentu ciągnie się wąski pas nizin.
 
 == Wielkie Rowy Afrykańskie.
+
+* W Afryce Wschodniej, od rzeki Zambezi po morze Czerwone, ciągnie sięsystem głębokich rowów tektonicznych zwanych *Wielkimi Rowami Afrykańskimi*.
+** Tworzą go rozległe, dochodzące nawet do 1000 km szerokości, doliny ograniczone uskokami.
+** W odrębie tych rowów występuje wiele aktywnych i wygasłych wulkanów oraz duże jeziora tektoniczne.
+** Wielkie rowy afrykańskie powstały na skutek
