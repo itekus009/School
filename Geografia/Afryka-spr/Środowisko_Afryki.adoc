@@ -34,7 +34,8 @@ TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 image::polityka_Afryki.png[Podział-polityczny-Afryki,250]
 
 == Ukształtowanie powierzchni Afryki.
-. Można je uznać za wyjątkowe.
+
+. Ukształtowanie terenu uznać za wyjątkowe.
 . To kontynent typowo *wyżynny*.
 .. ponad 75% jego powierzchni znajduje się na wyskokości od 300 m n.p.m. do 2000 m n.p.m., a średnia wysokość wynosi 658 m n.p.m.
 . *Największe wyżyny:* Abisyńska i Wschodnio-afrykańska (znajdują się one na wschodzie.).
@@ -43,3 +44,5 @@ image::polityka_Afryki.png[Podział-polityczny-Afryki,250]
 . Najwyższe pasma górskie występują w północnej części Afryki (góry Atlas) oraz na południu (Góry Smocze i Przylądkowe).
 . *Najwyższy szczyt:* Kibo (5895 m n.p.m.), położony w masywie wulkanicznym *Kilimandżaro*.
 . Wzdłuż wybrzeży kontynentu ciągnie się wąski pas nizin.
+
+== Wielkie Rowy Afrykańskie.
