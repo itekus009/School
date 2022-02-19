@@ -21,7 +21,7 @@ NOTE: *Opracowujący temat:* Wiktor
 . Powierzchnia Afryki wynosi 30,3 mln km^2^.
 . Pod względem wielkości terytorium jest to drugi (po Azji) kontynent na świecie.
 . W Afryce znajduje się największa pustynia świata - Sahara.
-. Na kontynęcie Afrykańskim mieszka ponad miliard ludzi.
+. Na kontynencie Afrykańskim mieszka ponad miliard ludzi.
 . Poziom rozwoju gospodarczego większości leżących tam państw jest niski.
 . Leży na wszystkich czterech półkulach.
 . Przez jej obszar przebiega południk 0^o^ oraz równik.
@@ -29,12 +29,16 @@ NOTE: *Opracowujący temat:* Wiktor
 
 TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
+=== Podział polityczny Afryki.
+
+image::polityka_Afryki.png[Mapa polityczna Afryki,1000]
+
 == Ukształtowanie powierzchni Afryki.
 
 . Ukształtowanie terenu uznać za wyjątkowe.
 . To kontynent typowo *wyżynny*.
-.. ponad 75% jego powierzchni znajduje się na wyskokości od 300 m n.p.m. do 2000 m n.p.m., a średnia wysokość wynosi 658 m n.p.m.
-. *Największe wyżyny:* Abisyńska i Wschodnio-afrykańska (znajdują się one na wschodzie.).
+.. ponad 75% jego powierzchni znajduje się na wysokości od 300 m n.p.m. do 2000 m n.p.m., a średnia wysokość wynosi 658 m n.p.m.
+. *Największe wyżyny:* Abisyńska i Wychodnio-afrykańska (znajdują się one na wschodzie.).
 . Wyżyny są poprzecinane *rozległymi kotlinami*, czyli obniżeniami terenu otoczonymi ze wszystkich stron przez wzniesienia.
 . *Do największych kotlin należą:* Konga, Czadu oraz Kalahari.
 . Najwyższe pasma górskie występują w północnej części Afryki (góry Atlas) oraz na południu (Góry Smocze i Przylądkowe).
@@ -43,12 +47,30 @@ TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
 == Wielkie Rowy Afrykańskie.
 
-* W Afryce Wschodniej, od rzeki Zambezi po morze Czerwone, ciągnie sięsystem głębokich rowów tektonicznych zwanych *Wielkimi Rowami Afrykańskimi*.
+* W Afryce Wschodniej, od rzeki Zambezi po morze Czerwone, ciągnie się system głębokich rowów tektonicznych zwanych *Wielkimi Rowami Afrykańskimi*.
 ** Tworzą go rozległe, dochodzące nawet do 1000 km szerokości, doliny ograniczone uskokami.
 ** W odrębie tych rowów występuje wiele aktywnych i wygasłych wulkanów oraz duże jeziora tektoniczne.
 ** Wielkie rowy afrykańskie powstały na skutek pęknięcia płyty litosfery (na której jest położona Afryka) na dwie części. Ten proces rozpoczął się kilkadziesiąt milionów lat temu.
 
 == Czynniki wpływające na klimat Afryki.
 
+=== Położenie geograficzne.
+
 * Na klimat Afryki największy wpływ ma *położenie geograficzne*.
-* *Kontyneny ten leży po obu stronach równika*, dzięki czemu strefy klimatyczne *układają się symetrycznie*.
+* *Kontynent ten leży po obu stronach równika*, dzięki czemu strefy klimatyczne *układają się symetrycznie*.
+* Środkowa część Afryki znajduje się w strefie klimatów równikowych. Na północ oraz na południe od niej rozciągają się strefy klimatów zwrotnikowych.
+* Północne i południowe krańce kontynentu leżą w strefach klimatów podzwrotnikowych.
+
+=== Prądy morskie.
+
+* Kolejnym czynnikiem wpływającym na klimat Afryki są *prądy morskie*.
+** Na przykład zimny *Prąd Benguelski*
+*** Powoduje on obniżenie temperatury powietrza i zmniejszenie ilości opadów na południowo-zachodnim wybrzeżu kontynentu.
+*** Jego oddziaływanie przyczyniło się do powstania *pustyni Namib*.
+* Z kolei ciepły *Prąd Mozambicki*:
+** Zwiększa ilość opadów atmosferycznych na południowo-wschodnim wybrzeżu.
+
+=== Wysokość nad poziomem morza.
+
+*  We wszystkich strefach klimatycznych, na obszarach położonych wyżej, występuje chłodniejszy klimat.
+** Dlatego masyw Kilimandżaro, mimo że znajduje się w pobliżu równika, to w szczytowych partiach jest pokryty przez lodowce.
