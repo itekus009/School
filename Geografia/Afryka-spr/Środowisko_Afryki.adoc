@@ -13,3 +13,17 @@ ifdef::env-github[]
 endif::[]
 
 NOTE: *Opracowujący temat:* Wiktor
+
+== Afryka.
+
+=== Ogólne informacje.
+
+. Powierzchnia Afryki wynosi 30,3 mln km^2^.
+. Pod względem wielkości terytorium jest to drugi (po Azji) kontynent na świecie.
+. W Afryce znajduje się największa pustynia świata - Sahara.
+. Na kontynęcie Afrykańskim mieszka ponad miliard ludzi.
+. Poziom rozwoju gospodarczego większości leżących tam państw jest niski.
+
+TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
+
+=== Podział polityczny Afryki.
