@@ -31,7 +31,7 @@ TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
 === Podział polityczny Afryki.
 
-image::polityka_Afryki.png[Mapa polityczna Afryki,1000]
+image::polityka_Afryki.png[Mapa polityczna Afryki,600]
 
 == Ukształtowanie powierzchni Afryki.
 
@@ -74,3 +74,13 @@ image::polityka_Afryki.png[Mapa polityczna Afryki,1000]
 
 *  We wszystkich strefach klimatycznych, na obszarach położonych wyżej, występuje chłodniejszy klimat.
 ** Dlatego masyw Kilimandżaro, mimo że znajduje się w pobliżu równika, to w szczytowych partiach jest pokryty przez lodowce.
+
+== Cyrkulacja powietrza w strefie międzyzwrotnikowej.
+. W strefie międzyzwrotnikowej siłą napędową tych ruchów jest energia słoneczna, której  większa ilość dociera w okolice równika niż nad zwrotniki.
+. Ponieważ około 80% powierzchni Afryki leży pomiędzy zwrotnikami, to *cyrkulacja powietrza w tej strefie wpływa w dużej mierze na klimat kontynentu*, a zwłaszcza na wielkość opadów.
+
+TIP: *Cyrkulacja powietrza* to  układ ruchów powietrza w atmosferze.
+
+== Strefowość klimatyczno-roślinno-glebowa w Afryce.
+. Ilość opadów decyduje o typie występującej roślinności, co z kolei ma związek z rodzajem gleby.
+. W Afryce można wydzielić strefy klimatyczne
