@@ -1,4 +1,4 @@
-=== Tematy przygotowujące do sprawdzianu z Afryki:
+= Sprawdzian z Afryki.
 :toc:
 :toc-title: Spis treści
 :icons: font
@@ -10,4 +10,6 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-. link:Geografia/Afryka-spr/Środowisko_Afryki.html[Środowisko przyrodnicze Afryki.]
+== Tematy przygotowujące do sprawdzianu:
+
+=== link:Geografia/Afryka-spr/Środowisko_Afryki.html[Środowisko przyrodnicze Afryki.]
