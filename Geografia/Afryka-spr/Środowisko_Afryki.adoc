@@ -23,7 +23,23 @@ NOTE: *Opracowujący temat:* Wiktor
 . W Afryce znajduje się największa pustynia świata - Sahara.
 . Na kontynęcie Afrykańskim mieszka ponad miliard ludzi.
 . Poziom rozwoju gospodarczego większości leżących tam państw jest niski.
+. Leży na wszystkich czterech półkulach.
+. Przez jej obszar przebiega południk 0^o^ oraz równik.
+. Równik przecina Afrykę niemal w połowie.
 
 TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
 === Podział polityczny Afryki.
+
+image::polityka_Afryki.png[Podział-polityczny-Afryki,250]
+
+== Ukształtowanie powierzchni Afryki.
+. Można je uznać za wyjątkowe.
+. To kontynent typowo *wyżynny*.
+.. ponad 75% jego powierzchni znajduje się na wyskokości od 300 m n.p.m. do 2000 m n.p.m., a średnia wysokość wynosi 658 m n.p.m.
+. *Największe wyżyny:* Abisyńska i Wschodnio-afrykańska (znajdują się one na wschodzie.).
+. Wyżyny są poprzecinane *rozległymi kotlinami*, czyli obniżeniami terenu otoczonymi ze wszystkich stron przez wzniesienia.
+. *Do największych kotlin należą:* Konga, Czadu oraz Kalahari.
+. Najwyższe pasma górskie występują w północnej części Afryki (góry Atlas) oraz na południu (Góry Smocze i Przylądkowe).
+. *Najwyższy szczyt:* Kibo (5895 m n.p.m.), położony w masywie wulkanicznym *Kilimandżaro*.
+. Wzdłuż wybrzeży kontynentu ciągnie się wąski pas nizin.
