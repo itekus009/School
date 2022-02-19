@@ -31,7 +31,7 @@ TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
 === Podział polityczny Afryki.
 
-image::polityka_Afryki.png[Mapa polityczna Afryki,600]
+image::polityka_Afryki.png[Mapa polityczna Afryki,500]
 
 == Ukształtowanie powierzchni Afryki.
 
@@ -83,4 +83,6 @@ TIP: *Cyrkulacja powietrza* to  układ ruchów powietrza w atmosferze.
 
 == Strefowość klimatyczno-roślinno-glebowa w Afryce.
 . Ilość opadów decyduje o typie występującej roślinności, co z kolei ma związek z rodzajem gleby.
-. W Afryce można wydzielić strefy klimatyczne
+. W Afryce można wydzielić strefy klimatyczno-roślinno-glebowe. Te strefy układają się niemal symetrycznie względem równika.
+
+== Rzeki i jeziora w Afryce
