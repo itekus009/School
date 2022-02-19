@@ -10,4 +10,4 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-. link:/Geografia/Afryka-spr/Środowisko_Afryki.html[Środowisko przyrodnicze Afryki.]
+. link:Geografia/Afryka-spr/Środowisko_Afryki.html[Środowisko przyrodnicze Afryki.]
