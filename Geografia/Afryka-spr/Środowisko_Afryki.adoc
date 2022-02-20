@@ -31,7 +31,7 @@ TIP: Powierzchnia Sahary przekracza 8 mln km^2^.
 
 === Podział polityczny Afryki.
 
-image::polityka_Afryki.png[Mapa polityczna Afryki,500]
+image::polityka_Afryki.png[Mapa polityczna Afryki, png, 1000]
 
 == Ukształtowanie powierzchni Afryki.
 
