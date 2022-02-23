@@ -13,3 +13,9 @@ ifdef::env-github[]
 endif::[]
 
 == Świat po II Wojnie Światowej.
+
+=== Daty.
+
+=== Skutki II Wojny Światowej.
+
+. *Skutki społeczne* - te, które zmieniły życie i organizację społeczeństw.
