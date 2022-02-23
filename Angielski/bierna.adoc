@@ -68,3 +68,19 @@ endif::[]
 .. *Mobile phones* are used by millions of people.
 
 NOTE: W pierwszym zdaniu: *mobile phones* - dopełnienie; w drugim staje się podmiotem.
+
+== Sentences with an agent.
+* It's not always necessery to mention the agent.
+* There are several reasons for this:
+
+[cols="2*<"]
+|===
+| *Agent not known:*
+| Brenda's motorbike *was stolen* last night.
+| *Agent obvious:*
+| One protester *was arrested*.
+| *Agent unimportant:*
+| A lot of English grammar books *are sold* every year.
+|===
+
+TIP: _arrested_ - of course by the police (agent unimportant).
