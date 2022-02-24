@@ -26,3 +26,35 @@ endif::[]
 ====
 
 == Związki wyrazowe.
+
+NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wobec siebie równorzędne.*
+
+. W związku składniowym:
+.. człon narzędny-określany - „zadaje pytanie”.
+.. człon podrzędny-określający - „odpowiada”
+
+[cols="3*<"]
+|===
+| *Związek zgody.*
+| *Związek rządu.*
+| *Związek przynależności.*
+
+| Wyrazy są ze sobą zgodne pod względem formy gramatycznej (tj. przypadka, liczby, rodzaju).
+
+*Przykłady:*
+
+*Przymiotnik +i rzeczownik*
+(np. wiśniowy sad).
+
+*Podmiot* + *orzeczenie*
+(np. bzy zakwitły).
+
+| Wykaz nadrzędny wymaga określonej formy przypadka, czyli „rządzi” jego przypadkiem.
+
+*Przykłady:*
+
+*czasownik + rzeczownik lub wyrażenie przyimkowe* (np. przyszedł z kolegą)
+
+*rzeczownik + rzeczownik* (np. kwiaty konwali)
+|
+|===
