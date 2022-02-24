@@ -24,3 +24,5 @@ endif::[]
 *** dopełnienie
 *** przydawka
 ====
+
+== Związki wyrazowe.
