@@ -29,7 +29,7 @@ endif::[]
 . link:j_polski/Przygotowanie-przed-sprawdzianem.html[Przygotowanie do sprawdzianu nr 1.]
 . link:j_polski/Sprawdzian_2.html[Przygotowanie do sprawdzianu nr 2.]
 . link:j_polski/konkurs-kuratoryjny.html[Konkurs z j. polskiego.]
-. link:j_polski/Czesci_zdania_spr.html[Części zdania.
+. link:j_polski/Czesci_zdania_spr.html[Części zdania.]
 
 === Język niemiecki
 
