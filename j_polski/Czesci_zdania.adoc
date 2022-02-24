@@ -38,23 +38,21 @@ NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wo
 | *Związek zgody.*
 | *Związek rządu.*
 | *Związek przynależności.*
-
 | Wyrazy są ze sobą zgodne pod względem formy gramatycznej (tj. przypadka, liczby, rodzaju).
-
-*Przykłady:*
 
 *Przymiotnik +i rzeczownik*
 (np. wiśniowy sad).
 
 *Podmiot* + *orzeczenie*
 (np. bzy zakwitły).
-
 | Wykaz nadrzędny wymaga określonej formy przypadka, czyli „rządzi” jego przypadkiem.
-
-*Przykłady:*
 
 *czasownik + rzeczownik lub wyrażenie przyimkowe* (np. przyszedł z kolegą)
 
 *rzeczownik + rzeczownik* (np. kwiaty konwali)
-|
+| Wyraz podrzędny łączy się z nadrzędnym pod względem znaczenia - przynależy do niego.
+
+*czasownik + przysłówek* (np. pachną słodko)
+
+*przysłówek + przysłówek* (bardzo jasno)
 |===
