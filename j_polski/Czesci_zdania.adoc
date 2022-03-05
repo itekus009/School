@@ -1,0 +1,58 @@
+= Części zdania.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Zagadnienia.
+
+====
+* Zagadnienia:
+** związki wyrazowe
+** rozbiór logiczny zdania pojedynczego i złożonego..
+** znajomość pojęć:
+*** podmiot i orzeczenie
+*** okolicznik
+*** dopełnienie
+*** przydawka
+====
+
+== Związki wyrazowe.
+
+NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wobec siebie równorzędne.*
+
+. W związku składniowym:
+.. człon narzędny-określany - „zadaje pytanie”.
+.. człon podrzędny-określający - „odpowiada”
+
+[cols="3*<"]
+|===
+| *Związek zgody.*
+| *Związek rządu.*
+| *Związek przynależności.*
+| Wyrazy są ze sobą zgodne pod względem formy gramatycznej (tj. przypadka, liczby, rodzaju).
+
+*Przymiotnik +i rzeczownik*
+(np. wiśniowy sad).
+
+*Podmiot* + *orzeczenie*
+(np. bzy zakwitły).
+| Wykaz nadrzędny wymaga określonej formy przypadka, czyli „rządzi” jego przypadkiem.
+
+*czasownik + rzeczownik lub wyrażenie przyimkowe* (np. przyszedł z kolegą)
+
+*rzeczownik + rzeczownik* (np. kwiaty konwali)
+| Wyraz podrzędny łączy się z nadrzędnym pod względem znaczenia - przynależy do niego.
+
+*czasownik + przysłówek* (np. pachną słodko)
+
+*przysłówek + przysłówek* (bardzo jasno)
+|===
