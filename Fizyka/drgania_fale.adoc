@@ -1,4 +1,4 @@
-= Drgania i fale.
+= Dział: drgania i fale.
 :toc:
 :toc-title: Spis treści
 :sectnums:
@@ -45,4 +45,15 @@ Ciało porusza porusza się *ruchem drgającym*, jeśli przemieszcza się tam i 
 | stem:[f = 1/T]
 |===
 
+TIP: Częstotliwość, z jaką ciało wytrącone z położenia wykonuje drgania swobodne, to *częstotliwość drgań własnych*.
+
 ====
+
+=== Wahadło.
+
+====
+* Im większa długość wahadła matematycznego, tym dłuższy okres jego drgań (czyli mniejsza częstotliwość drgań)*.
+* Im większa masa wahadła sprężynowego, tym dłuższy okres jego drgań (czyli mniejsza częstotliwość drgań)*.
+====
+
+== Temat II: Wykres ruchy drgającego. Przemiany energii.
