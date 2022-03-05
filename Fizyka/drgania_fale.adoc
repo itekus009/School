@@ -42,6 +42,6 @@ Ciało porusza porusza się *ruchem drgającym*, jeśli przemieszcza się tam i 
 
 [cols="2*<"]
 |===
-| stem[częstotliwość = (liczba pełnych drgań)/(czas trwania tych drgań)]
+| stem:[częstotliwość = (liczba pełnych drgań)/(czas trwania tych drgań)]
 | 
 |===
