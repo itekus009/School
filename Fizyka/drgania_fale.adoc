@@ -1,0 +1,47 @@
+= Drgania i fale.
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:stem:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Temat I: Ruch drgający.
+=== Pojęcia.
+==== Ruch drgający.
+
+====
+Ciało porusza porusza się *ruchem drgającym*, jeśli przemieszcza się tam i z powrotem po tym samym torze i ruch powtarza się w równych odstępach czasu.
+====
+
+==== Amplituda Drgań.
+
+====
+* Największe wychylenie z położenia równowagi nazywamy *amplitudą drgań*.
+====
+
+==== Okres drgań.
+
+====
+*Okres drgań* _T_ to czas potrzebny na wykonanie jednego pełnego drgania (wahnięcia). Jednostką okresu jest *sekunda* (1s).
+====
+
+==== Częstotliwość.
+
+====
+*Częstotliwość* _f_ jest to liczba drgań wykonanych w jednostce czasu.
+====
+
+=== Wzory.
+
+[cols="2*<"]
+|===
+| stem[częstotliwość = (liczba pełnych drgań)/(czas trwania tych drgań)]
+| 
+|===
