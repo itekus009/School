@@ -57,3 +57,67 @@ TIP: Częstotliwość, z jaką ciało wytrącone z położenia wykonuje drgania 
 ====
 
 == Temat II: Wykres ruchy drgającego. Przemiany energii.
+=== Ruch drgający i wahadło.
+* Ruch drgający można przedstawić na *wykresie zależności wychylenia od czasu*. Z takiego wykresu można odczytać *okres* i *amplitudę*.
+
+=== Przemiany energii w ruchu poziomym ciężarka na sprężynie.
+. Energia potencjalna sprężystości w położeniu równowagi (sprężyna nierozciągnięta) jest równa zero, a największa jest przy maksymalnym wydłużeniu (sprężyna rozciągnięta).
+. Podczas drgań poziomych obciążnika przymocowanego do sprężyny okresowo zmienia się również jego prędkość, a więc i *energia kinetyczna*
+.. Kiedy obciążnik przechodzi przez położenie równowagi, jego prędkość jest największa, po czym stopniowo maleje i osiąga wartość zero w położeniu maksymalnego skrócenia sprężyny.
+.. Następnie obciążnik zaczyna poruszać się w stronę położenia równowagi i jego prędkość znów rośnie.
+.. Prędkość ponownie przyjmuje maksymalną wartość w położeniu równowagi.
+.. Następnie prędkość maleje i w położeniu maksymalnego wydłużenia sprężyny wynosi zero.
+. Potem cały *cykl się powtarza*.
+.. Zatem energia potencjalna rozciągniętej sprężyny zmienia się stopniowo w energię kinetyczną obciążnika, która przyjmuje  największą wartość przy przechodzeniu obciążnika przez położenie równowagi, gdzie prędkość jest maksymalna (Więc E~k~ jest maksymalna).
+.. Następnie Energia kinetyczna obciążnika stopniowo zmienia się w energię potencjalną sprężystości ściskanej sprężyny.
+.. W położeniu maksymalnego wychylenia energia kinetyczna jest równa zero, a energia potencjalna sprężystości jest maksymalna.
+.. Gdy obciążnik porusza się w stronę położenia równowagi, energia potencjalna rozciągającej się sprężyny zmienia się w energię kinetyczną obciążnika.
+.. Następnie sprężyna znów się rozciąga i uzyskuje energię potencjalną sprężystości, cały proces się powtarza.
+
+====
+* Energia kinetyczna jest równa zero przy maksymalnym wydłużeniu i maksymalnym skróceniu sprężyny, a największą wartość przyjmuje podczas przejścia przez położenie równowagi.
+
+* W poziomym ruchu drgającym obciążnika przymocowanego do sprężyny następują cykliczne zmiany *energii potencjalnej sprężystości w energię kinetyczną* obciążnika i odwrotnie.
+====
+
+== Fale mechaniczne.
+=== Jak i gdzie rozchodzi się fala mechaniczna?
+ 
+NOTE: Cząsteczki wody nie przemieszczają się razem z falą, czyli fale *nie przenoszą materii*.
+
+. Sznur, jak i woda są ośrodkami dla fali w wyniku drgania jakiegoś ciała (np. ręki) w ruch drgający wprawiane są cząsteczki ośrodka (sznur lub woda), które *przekazują energię* drgań kolejnym cząsteczkom i w ośrodku przemieszcza się zaburzenie zwane *falą mechaniczną*.
+
+====
+*Źrudłem fali* jest drgające ciało
+====
+
+=== Definicja fali mechanicznej.
+
+====
+Rozchodzące się w ośrodku zaburzenia (odkształcenie) nosi nazwę *fali mechanicznej*. Fala może rozchodzić się na duże odległości, chociaż cząsteczki ośrodka nie przemieszczają się wraz z nią, a jedynie wykonują drgania.
+====
+
+=== Definicja ośrodków sprężystych.
+* Ciała sprężyste, w których mogą rozchodzić się fale, nazywamy *ośrodkami sprężystymi*.
+** W przypadku powierzchni cieczy ta „sprężystość” polega na tym, że po odkształceniu powierzchnia cieczy wraca do pierwotnego płaskiego kształtu.
+
+=== Wielkości opisujące fale.
+. W czasie potrzebnym pierwszej cząsteczce do wykonania jednego pełnego drgania fala przemieszcza pewną odległość. Przemieszczanie to nosi nazwę *długości fali*, którą oznaczamy symbolem *λ* - lambda.
+
+=== Okres fali.
+
+====
+* Czas, w którym cząsteczka ośrodka pobudzona do drgań wykonuje jedno pełne drganie nosi nazwę *okresu fali*.
+
+* Wzory:
+** stem:[f = 1/T]
+** stem:[v = λ/T]
+** stem:[v = λ*f]
+
+*** *f* - częstotliwość fali
+*** *T* - okres fali
+*** *λ* - długość fali
+*** *v* - prędkość fali
+====
+
+== Fale dźwiękowe.
