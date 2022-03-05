@@ -13,35 +13,36 @@ ifdef::env-github[]
 endif::[]
 
 == Temat I: Ruch drgający.
-=== Pojęcia.
-==== Ruch drgający.
+
+=== Ruch drgający.
 
 ====
 Ciało porusza porusza się *ruchem drgającym*, jeśli przemieszcza się tam i z powrotem po tym samym torze i ruch powtarza się w równych odstępach czasu.
 ====
 
-==== Amplituda Drgań.
+=== Amplituda Drgań.
 
 ====
 * Największe wychylenie z położenia równowagi nazywamy *amplitudą drgań*.
 ====
 
-==== Okres drgań.
+=== Okres drgań.
 
 ====
 *Okres drgań* _T_ to czas potrzebny na wykonanie jednego pełnego drgania (wahnięcia). Jednostką okresu jest *sekunda* (1s).
 ====
 
-==== Częstotliwość.
+=== Częstotliwość.
 
 ====
 *Częstotliwość* _f_ jest to liczba drgań wykonanych w jednostce czasu.
-====
 
-=== Wzory.
-
-[cols="2*<"]
+[cols="3,.^1"]
 |===
 | *częstotliwość* = liczba pełnych drgań przez czas trwania tych drgań
 | stem:[f = 1/T]
+| *częstotliwość* = 1 przez okres
+| stem:[f = 1/T]
 |===
+
+====
