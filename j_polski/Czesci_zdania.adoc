@@ -29,9 +29,9 @@ endif::[]
 
 NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wobec siebie równorzędne.*
 
-. W związku składniowym:
-.. człon narzędny-określany - „zadaje pytanie”.
-.. człon podrzędny-określający - „odpowiada”
+* W związku składniowym:
+** człon nadrzędny-określany - „zadaje pytanie”.
+** człon podrzędny-określający - „odpowiada”
 
 [cols="3*<"]
 |===
@@ -54,5 +54,5 @@ NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wo
 
 *czasownik + przysłówek* (np. pachną słodko)
 
-*przysłówek + przysłówek* (bardzo jasno)
+*przysłówek + przysłówek* (np. bardzo jasno)
 |===
