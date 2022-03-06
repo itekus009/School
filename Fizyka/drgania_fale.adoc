@@ -171,7 +171,27 @@ stem:[I = E/(t*S)]
 
 Skoro iloraz energii i czasu to moc, zatem jednostką natężenia fali jest:
 
-stem:[J/(s*m^2^) = W/(m^2^)]
+stem:[J/(s*m^2^) = W/(m^2)]
 ====
 
 === Infradźwięki i ultradźwięki.
+* Jedną z cech dźwięku jest wysokość, bezpośrednio związana z częstotliwością drgań, bezpośrednio związana z częstotliwością drgań.
+* Im szybciej coś drga, tym wyższy wytwarza dźwięk, im wolniej drga, tym niższy.
+** Na przykład częstotliwość brzęczenia pszczoły wynosi 200 Hz, a częstotliwość drgań powietrza w organach - od 8 Hz do około 12500 Hz.
+
+====
+* Ucho ludzkie może rejestrować dźwięki tylko wtedy, gdy częstotliwość fali dźwiękowej mieści się w granicach od ok. 16 Hz do około 20 000 Hz. Dźwięki takie nazywa się *dźwiękami słyszalnymi*.
+* Dźwięki o częstotliwości niższej od 16 Hz nazywa się *infradźwiękami*, a o częstotliwości wyższej od 20 000 Hz - *ultradźwiękami*.
+====
+
+== Temat VI: Fale elektromagnetyczne.
+=== Pojęcie fali elektromagnetycznej.
+* *Fale elektromagnetyczne* - zaburzenie pola elektromagnetycznego, rozchodzące się w przestrzeni, nazywane inaczej promieniowaniem elektromagnetycznym. Istnieją różne rodzaje fal elektromagnetycznych i tylko niektóre z nich są przez nas dostrzegalne, jednak promieniowanie tego typu otacza nas zewsząd.
+* Źródłem fal elektromagnetycznych są *drgające ładunki elektryczne* oraz prąd o natężeniu zmieniającym się w czasie.
+
+====
+* Długość fali elektromagnetycznej oblicza się tak jak długość fali mechanicznej:
+
+stem:[lambda = v/f = v*T]
+
+====
