@@ -194,4 +194,10 @@ stem:[J/(s*m^2^) = W/(m^2)]
 
 stem:[lambda = v/f = v*T]
 
+*λ* - długość fali
+*v* - prędkość fali
+*f* - częstotliwość
+*T* - okres
 ====
+
+=== Rodzaje fal elektromagnetycznych i ich zastosowania.
