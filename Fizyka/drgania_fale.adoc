@@ -80,7 +80,7 @@ TIP: Częstotliwość, z jaką ciało wytrącone z położenia wykonuje drgania 
 * W poziomym ruchu drgającym obciążnika przymocowanego do sprężyny następują cykliczne zmiany *energii potencjalnej sprężystości w energię kinetyczną* obciążnika i odwrotnie.
 ====
 
-== Fale mechaniczne.
+== Temat III: Fale mechaniczne.
 === Jak i gdzie rozchodzi się fala mechaniczna?
  
 NOTE: Cząsteczki wody nie przemieszczają się razem z falą, czyli fale *nie przenoszą materii*.
@@ -88,7 +88,7 @@ NOTE: Cząsteczki wody nie przemieszczają się razem z falą, czyli fale *nie p
 . Sznur, jak i woda są ośrodkami dla fali w wyniku drgania jakiegoś ciała (np. ręki) w ruch drgający wprawiane są cząsteczki ośrodka (sznur lub woda), które *przekazują energię* drgań kolejnym cząsteczkom i w ośrodku przemieszcza się zaburzenie zwane *falą mechaniczną*.
 
 ====
-*Źrudłem fali* jest drgające ciało
+*Źródłem fali* jest drgające ciało
 ====
 
 === Definicja fali mechanicznej.
@@ -120,4 +120,58 @@ Rozchodzące się w ośrodku zaburzenia (odkształcenie) nosi nazwę *fali mecha
 *** *v* - prędkość fali
 ====
 
-== Fale dźwiękowe.
+== Temat IV: Fale dźwiękowe.
+=== Źródło dźwięku.
+
+IMPORTANT: *Źródłem dźwięku* jest drgające ciało.
+
+. Każde źródło dźwięku wywołuje drgania warstw cząsteczek otaczającego je ośrodka sprężystego (np. powietrza), które są przekazywane kolejnym cząsteczkom.
+. Powoduje to chwilowe zagęszczenia i rozchodzenia ośrodka, które rozchodzą się, tworząc *falę dźwiękową*, czyli *akustyczną*.
+
+=== Rozchodzenie się dźwięku.
+* *Rozchodzenie się fali dźwiękowej* polega na rozprzestrzenianiu się drgań warstw cząsteczek ośrodka (np. powietrza).
+* Fala dźwiękowa *nie może rozchodzić się w próżni*, ponieważ nie ma tam cząsteczek, które mogłyby przekazać energię drgań.
+* Natomiast w rozrzedzonym powietrzu (gdzie jest mniej cząsteczek) *fale dźwiękowe rozprzestrzeniają się słabiej*.
+
+TIP: Prędkość rozchodzenia się dźwięku zależy od ośrodka, w którym się rozchodzi.
+
+====
+* Fale dźwiękowe można opisać za pomocą tych samych zależności między prędkością _*v*_, długością _*λ*_ i okresem fali _*T*_, które dotyczą wszystkich fali.
+
+* Wzory:
+** stem:[v = λ/T]
+** stem:[v = v*f]
+====
+
+== Temat V: Wysokość i głośność dźwięku.
+=== Od czego zależy wysokość i głośność dźwięku.
+. Im większa częstotliwość drgań, tym *dźwięk wyższy*.
+. Im większa amplituda drgań, tym *głośniejszy dźwięk*.
+
+=== Energia fali.
+. W trakcie rozchodzenia się fali drgań zachodzą przemiany energii. 
+. Energia tych drgań zależy do amplitudy.
+. *Rozprzestrzeniające się fale przenoszą energię*.
+. *Energia fali* jest sumą energii potencjalnej sprężystości i energii kinetycznej drgającego ośrodka i jest proporcjonalna do kwadratu amplitudy: E ~ A^2^.
+
+=== Natężenie fali.
+. Energia dźwięku rozchodzi się kuliście, czyli rozkłada się na powierzchnię kuli, która jest tym większa, im dalej jest od źródła dźwięku.
+. Tę powierzchnię, która jest zawsze prostopadła do kierunku przemieszczania się fali, nazywamy *powierzchnią falową*.
+. *Natężenie fali* opisuje, jaka energia jest przenoszona przez jednostkową powierzchnię w jednostce czasu.
+
+====
+Interesuje nas natężenie dźwięku docierającego do wybranego miejsca. Jeśli określimy powierzchnię falową _S_ przechodzącą przez to miejsce, możemy obliczyć natężenie fali:
+
+stem:[I = E/(t*S)]
+
+*I* - natężenie fali
+*E* - energia fali przechodząca przez wybraną powierzchnię falową.
+*t* - czas
+*S* - pole wybranej powierzchni falowej
+
+Skoro iloraz energii i czasu to moc, zatem jednostką natężenia fali jest:
+
+stem:[J/(s*m^2^) = W/(m^2^)]
+====
+
+=== Infradźwięki i ultradźwięki.
