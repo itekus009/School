@@ -140,7 +140,7 @@ TIP: Prędkość rozchodzenia się dźwięku zależy od ośrodka, w którym się
 
 * Wzory:
 ** stem:[v = λ/T]
-** stem:[v = v*f]
+** stem:[v = λ*f]
 ====
 
 == Temat V: Wysokość i głośność dźwięku.
@@ -194,6 +194,7 @@ stem:[J/(s*m^2^) = W/(m^2)]
 
 stem:[lambda = v/f = v*T]
 
+<<<<<<< HEAD
 *λ* - długość fali
 *v* - prędkość fali
 *f* - częstotliwość
