@@ -17,7 +17,7 @@ endif::[]
 ====
 * Zagadnienia:
 ** związki wyrazowe
-** rozbiór logiczny zdania pojedynczego i złożonego..
+** rozbiór logiczny zdania pojedynczego i złożonego
 ** znajomość pojęć:
 *** podmiot i orzeczenie
 *** okolicznik
@@ -49,7 +49,7 @@ NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wo
 
 *czasownik + rzeczownik lub wyrażenie przyimkowe* (np. przyszedł z kolegą)
 
-*rzeczownik + rzeczownik* (np. kwiaty konwali)
+*rzeczownik + rzeczownik* (np. kwiaty konwalii)
 | Wyraz podrzędny łączy się z nadrzędnym pod względem znaczenia - przynależy do niego.
 
 *czasownik + przysłówek* (np. pachną słodko)
