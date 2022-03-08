@@ -167,7 +167,7 @@ IMPORTANT: Po rozdzieleniu zdania na 2 inne - *oba mogą istnieć osobno*!
 --> ... <--
 ....
 ** Wynikowe,
-*** *spójniki:*więc, toteż, zatem, dlatego.
+*** spójniki: więc, toteż, zatem, dlatego.
 ....
  1       2
 --> ... >--
