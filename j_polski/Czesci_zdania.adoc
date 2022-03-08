@@ -17,12 +17,12 @@ endif::[]
 ====
 * Zagadnienia:
 ** związki wyrazowe
-** rozbiór logiczny zdania pojedynczego i złożonego
 ** znajomość pojęć:
 *** podmiot i orzeczenie
 *** okolicznik
 *** dopełnienie
 *** przydawka
+** rozbiór logiczny zdania pojedynczego i złożonego
 ====
 
 == Związki wyrazowe.
@@ -106,13 +106,105 @@ TIP: *Okolicznik*, to informacja o okolicznościach czynności.
 | *Przykładowe zdania:*
 | okolicznik czasu
 | kiedy? odkąd? do kiedy?
-| np. Wrócimy jutro.
+| Wrócimy *jutro*.
 | okolicznik miejsca
 | gdzie? skąd? dokąd? którędy?
-| np. Poszedłem do lasu.
+| Poszedłem *do lasu*.
 | okolicznik sposobu
 | jak? w jaki sposób?
-| np. Mówiła szeptem.
+| Mówiła *szeptem*.
 | okolicznik celu
 | po co? w jakim celu?
+| Idź *na jagody*.
+| okolicznik przyczyny
+| dlaczego? z jakiego powodu?
+| Trząsł się *ze zdrenowania*
+|===
+
+=== Dopełnienie.
+* Dopełnienie uzupełnia informacje o czynności:
+** określa orzeczenie,
+** odpowiada na pytania przypadków zależnych (wszystkich poza mianownika i wołacza).
+
+NOTE: Najczęściej jest to rzeczownik lub zaimek rzeczowny.
+
+=== Przydawka.
+* Nazywa czechy i właściwości, określa rzeczownik.
+* Może być przymiotnikiem, rzeczownikiem, liczebnikiem, zaimkiem lub wyrażeniem przyimkowym.
+
+=== Zdania.
+
+==== Zdanie złożone współrzędnie.
+IMPORTANT: Po rozdzieleniu zdania na 2 inne - *oba mogą istnieć osobno*!
+
+* Rodzaje:
+** Łączne,
+*** spójniki: i, oraz, także, tudzież.
+....
+ 1       2
+--- ... ---
+....
+** Rozłączne,
+*** spójniki: albo, lub, bądź, czy.
+....
+ 1       2
+--< ... >--
+....
+** Przeciwstawne,
+*** spójniki: a, ale, lecz, zaś, natomiast, jednak.
+....
+ 1       2
+--> ... <--
+....
+** Wynikowe,
+*** *spójniki:*więc, toteż, zatem, dlatego.
+....
+ 1       2
+--> ... >--
+....
+
+==== Zdanie złożone podrzędnie.
+* Rodzaje: 
+** podmiotowe,
+** orzecznikowe,
+** przydawkowe,
+** okolicznikowe,
+** dopełnieniowe.
+
+== Przypadki.
+
+[cols="8*<"]
+|===
+|*Przypadek:*
+|Mianownik
+|Dopełniacz
+|Celownik
+|Biernik
+|Narzędnik
+|Miejscownik
+|Wołacz
+|*Pytania:*
+|kto?/co? idzie
+|kogo?/czego? nie ma
+|komu?/czemu? się przyglądam
+|kogo?/co? widzę
+|z kim/z czym idę
+|o kim/o czym mówię
+|o!
+|*Liczba pojedyncza*:
+|mama
+|mamy
+|mamie
+|mamę
+|mamą
+|mamie
+|mamo
+|*Liczba mnoga*:
+|mamy
+|mam
+|mamom
+|mamy
+|mamami
+|mamach
+|mamy
 |===
