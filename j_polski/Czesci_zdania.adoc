@@ -56,3 +56,63 @@ NOTE: *W związku składniowym jedna część zdania określa drugą, nie są wo
 
 *przysłówek + przysłówek* (np. bardzo jasno)
 |===
+
+== Pojęcia.
+=== Rodzaje podmiotu.
+
+[cols="3*<"]
+|===
+| *Rodzaj:*
+| *Pytania:*
+| *Informacje*
+| gramatyczny
+| kto? co?
+| Występuje w mianowniku (najczęstszy).
+| szeregowy
+| kto? co?
+| np. *Krowa, byk i osioł* są w kórniku.
+| logiczny
+| kogo? czego?
+| Występuje w dopełniaczu. Gdy coś: przybywa, ubywa lub czegoś brak.
+| domyślny
+| kto? co?
+| Występuje, gdy podmiot nie jest wyrażony bezpośrednio.
+| towarzyszący
+| kto? co?
+|np. *Adam z Filipem* mają głupawkę.
+|===
+
+=== Rodzaje orzeczeń.
+
+==== Orzeczenie czasownikowe.
+* *To czasownik w formie osobowej* (najczęściej spotykane).
+* Przykłady:
+** Flaga powiewała na wietrze.
+** Poszukuje tropów zwierząt.
+
+==== Orzeczenie imienne.
+* Składa się z łącznika i orzecznika.
+** *Łącznik:* być, stać się, zostać.
+** *Orzecznik* - inna część mowy.
+
+=== Okolicznik.
+
+TIP: *Okolicznik*, to informacja o okolicznościach czynności.
+
+[cols="3*<"]
+|===
+| *Rodzaj:*
+| *Pytania:*
+| *Przykładowe zdania:*
+| okolicznik czasu
+| kiedy? odkąd? do kiedy?
+| np. Wrócimy jutro.
+| okolicznik miejsca
+| gdzie? skąd? dokąd? którędy?
+| np. Poszedłem do lasu.
+| okolicznik sposobu
+| jak? w jaki sposób?
+| np. Mówiła szeptem.
+| okolicznik celu
+| po co? w jakim celu?
+|===

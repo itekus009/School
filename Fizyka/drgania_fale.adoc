@@ -199,5 +199,3 @@ stem:[lambda = v/f = v*T]
 * *f* - częstotliwość
 * *T* - okres
 ====
-
-=== Rodzaje fal elektromagnetycznych i ich zastosowania.
