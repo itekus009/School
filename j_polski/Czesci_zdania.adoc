@@ -135,12 +135,14 @@ NOTE: Najczęściej jest to rzeczownik lub zaimek rzeczowny.
 === Zdania.
 
 ==== Instrukcja - jak dobrze rozpoznać zdanie.
+====
 . Rozpoznajemy, jakie to jest zdanie - ile ma orzeczeń.
 .. 1 orzeczenie = zdanie pojedyncze
 .. 2 orzeczenia = zdanie złożone
 . Numerujemy zdania.
 . Sprawdzamy czy zdania mogą istnieć osobno, po rozdzieleniu (jak tak - współrzędne).
 . Szukamy zdania głównego, które może istnieć osobno.
+====
 
 ==== Zdanie złożone współrzędnie.
 IMPORTANT: Po rozdzieleniu zdania na 2 inne - *oba mogą istnieć osobno*!
