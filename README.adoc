@@ -18,6 +18,7 @@ endif::[]
 . link:Fizyka/Pr%C4%85d-elektryczny_Napi%C4%99cie-i-nat%C4%99%C5%BCenie-pr%C4%85du-elektrycznego.html[Napięcie i natężenie prądu.]
 . link:Fizyka/Opór-elektryczny.html[Opór elektryczny.]
 . link:Fizyka/Praca_moc-prądu-elektrycznego.html[Praca i moc prądu elektrycznego.]
+. link:Fizyka/drgania_fale.html[Drgania i fale.]
 
 === Matematyka
 
