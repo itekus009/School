@@ -147,27 +147,28 @@ NOTE: Najczęściej jest to rzeczownik lub zaimek rzeczowny.
 ==== Zdanie złożone współrzędnie.
 IMPORTANT: Po rozdzieleniu zdania na 2 inne - *oba mogą istnieć osobno*!
 
-* Rodzaje:
-** Łączne,
-*** spójniki: i, oraz, także, tudzież.
+Rodzaje zdań:
+
+* Łączne,
+** spójniki: i, oraz, także, tudzież.
 ....
  1       2
 --- ... ---
 ....
-** Rozłączne,
-*** spójniki: albo, lub, bądź, czy.
+* Rozłączne,
+** spójniki: albo, lub, bądź, czy.
 ....
  1       2
 --< ... >--
 ....
-** Przeciwstawne,
-*** spójniki: a, ale, lecz, zaś, natomiast, jednak.
+* Przeciwstawne,
+** spójniki: a, ale, lecz, zaś, natomiast, jednak.
 ....
  1       2
 --> ... <--
 ....
-** Wynikowe,
-*** spójniki: więc, toteż, zatem, dlatego.
+* Wynikowe,
+** spójniki: więc, toteż, zatem, dlatego.
 ....
  1       2
 --> ... >--
