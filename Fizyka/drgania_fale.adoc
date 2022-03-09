@@ -164,10 +164,10 @@ Interesuje nas natężenie dźwięku docierającego do wybranego miejsca. Jeśli
 
 stem:[I = E/(t*S)]
 
-*I* - natężenie fali
-*E* - energia fali przechodząca przez wybraną powierzchnię falową.
-*t* - czas
-*S* - pole wybranej powierzchni falowej
+* *I* - natężenie fali,
+* *E* - energia fali przechodząca przez wybraną powierzchnię falową,
+* *t* - czas,
+* *S* - pole wybranej powierzchni falowej,
 
 Skoro iloraz energii i czasu to moc, zatem jednostką natężenia fali jest:
 

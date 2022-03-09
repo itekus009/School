@@ -147,7 +147,11 @@ NOTE: Najczęściej jest to rzeczownik lub zaimek rzeczowny.
 ==== Zdanie złożone współrzędnie.
 IMPORTANT: Po rozdzieleniu zdania na 2 inne - *oba mogą istnieć osobno*!
 
+<<<<<<< HEAD
 *Rodzaje zdań:*
+=======
+Rodzaje zdań:
+>>>>>>> 24bee7fc60c75f0592319988af767820b0ceb99a
 
 * Łączne,
 ** spójniki: i, oraz, także, tudzież.
@@ -155,7 +159,10 @@ IMPORTANT: Po rozdzieleniu zdania na 2 inne - *oba mogą istnieć osobno*!
  1       2
 --- ... ---
 ....
+<<<<<<< HEAD
 
+=======
+>>>>>>> 24bee7fc60c75f0592319988af767820b0ceb99a
 * Rozłączne,
 ** spójniki: albo, lub, bądź, czy.
 ....
