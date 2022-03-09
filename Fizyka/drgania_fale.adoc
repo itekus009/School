@@ -136,7 +136,7 @@ IMPORTANT: *Źródłem dźwięku* jest drgające ciało.
 TIP: Prędkość rozchodzenia się dźwięku zależy od ośrodka, w którym się rozchodzi.
 
 ====
-* Fale dźwiękowe można opisać za pomocą tych samych zależności między prędkością _*v*_, długością _*λ*_ i okresem fali _*T*_, które dotyczą wszystkich fali.
+* Fale dźwiękowe można opisać za pomocą tych samych zależności między prędkością *_v_*, długością *_λ_* i okresem fali *_T_*, które dotyczą wszystkich fali.
 
 * Wzory:
 ** stem:[v = λ/T]
