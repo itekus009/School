@@ -18,4 +18,5 @@ endif::[]
 TIP: Nazwa *_Ameryka_* pochodzi od imienia włoskiego żeglarza, *_Ameriga Vespucciego_*. Badał on ziemie, na których wcześniej był Kolumb oraz wschodnie wybrzeże Ameryki Południowej.
 
 . Umowna granica przechodzi przez *Przesmyk Panamski*, wybudowano tam *Kanam Panamski*. Skrócił on drogę morską między wschodnim a zachodnim wybrzeżem Stanów Zjednoczonych.
-. Ukształtowanie terenu przebiega równikowo
+. Ukształtowanie terenu przebiega południkowo. Centralną część obu kontynętów stanowi pas równin i nizin.
+. Klimat 
