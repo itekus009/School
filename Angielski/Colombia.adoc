@@ -1,5 +1,3 @@
-
-
 = Colombia - 8c!
 :toc:
 :toc-title: Spis treści
