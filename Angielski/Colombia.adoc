@@ -12,22 +12,22 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-image::colombia.png[archeopteryks,150]
+image::colombia.png[Colombia_flag,150]
 
 == Come and visit us!
 
 === About project.
 
 * This is an fantastic English lesson project about Colombia.
-* We prepeared information and desserts from this South American country.
-** for example: you can watch colompian dances or amazing wild annimals.
+* We have prepared information and desserts from this South American country:
+** you can watch Colombian dances or amazing wild animals, but the most fascinating is one of the most powerful criminal in history.
 
 === What do we offer?
 
-. Interesting presentation in wich you lern about:
+. Interesting presentation in witch you learn about:
 .. pink dolphins,
-.. South America’s longest bicycle route,
-.. weird, unusuall sport,
+.. south-american longest bicycle route,
+.. weird, unusual sport,
 .. the most famous footballer in Colombia,
 .. an example of colombian film.
 
