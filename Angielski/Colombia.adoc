@@ -1,1 +1,4 @@
-== Project Colombia
+= Project Colombia
+:toc: auto
+
+== Brief
