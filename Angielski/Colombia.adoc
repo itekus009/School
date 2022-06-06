@@ -1,4 +1,44 @@
-= Project Colombia
-:toc: auto
 
-== Brief
+
+= Colombia - 8c!
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+image::colombia.png[archeopteryks,150]
+
+== Come and visit us!
+
+=== About project.
+
+* This is an fantastic English lesson project about Colombia.
+* We prepeared information and desserts from this South American country.
+** for example: you can watch colompian dances or amazing wild annimals.
+
+
+=== What do we offer?
+
+. Interesting presentation in wich you lern about:
+.. pink dolphins,
+.. South America’s longest bicycle route,
+.. weird, unusuall sport,
+.. the most famous footballer in Colombia,
+.. an example of colombian film.
+
+=== Do you want a sweet surprise?
+
+TIP: *All you have to do is bring a customer who buys something from us and you both receive free, sweet prizes.*
+
+---
+If you have any questions, please contact us!
+
+*We are waiting for you!* 😎
