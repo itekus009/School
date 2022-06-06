@@ -1,4 +1,4 @@
-= Colombia - 8c!
+= Colombia.
 :toc:
 :toc-title: Spis treści
 :sectnums:
