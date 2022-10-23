@@ -1,1 +1,53 @@
-azdad
+= Lepsze debaty
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:imagesdir: obrazki
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Zgranie drużyny.
+
+IMPORTANT: Przed zapoznaniem się z tezą ważne jest omówienie stylu pracy (kto zadaje pytania, zgłasza advocem).
+
+* *I Etap:* Praca indiwidualna. Każda osoba zbiera według niej wartościowe i przydatne argumenty na temat propozycji i opozycji.
+* *II Etap:* Omówienie zebranych argumentów, werygikacja i kwalifikacja.
+
+== Czytanie tezy.
+
+Nie kierować się dosłownym, "słownikowym" znaczeniem.
+Zastanowić się nad problemem debaty,
+co zespół mertoryczny miał na myśli ważny jest konkretny układ słów w tezie.
+Zastanowić się nad rodzajem tezy.
+
+== Przygotowanie/rozkładanie tezy.
+
+=====
+Znaleźć i omówić:
+
+  problem debaty (problem główny)
+  proplemy poboczne
+=====
+
+NOTE: Gdy tezy są nie jasne problem debaty jest bardzo ważny!
+
+== Ciężar dowodu.
+
+IMPORTANT: *Uważać na łatwe do wychwycenia luki logiczne*
+
+* Jak argumentować?
+** nie zasypywać sędziów zbędnymi informacjami, nie dawać za dużo numerków,
+** sędzia nie ufa statystykom (numerkom),
+** znaleźć źrudło problemu i od razu przejść do konkretów.
+** drużyna musi wszystko pokazać, uargumentować - "Zaprowadzić siędziego za rączkę".
+** ustalić problem debaty i omówić/rozpisać ciężar dowodu.
+
+*_Bezpośrednio w argumentacji wszystkie rzeczy w mowie muszą czemuś służyć, mamy ograniczony czas._*
+
+TIP: Stworzyć najbardziej intuicyjne argumenty i uzasadnić je źródłami (research).
