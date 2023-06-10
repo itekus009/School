@@ -21,7 +21,7 @@ Aby używać HTML, wystarczy otworzyć plik tekstowy w edytorze kodu i zacząć 
 
 === Podstawowoa struktura dokumentu.
 
-====
+----
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,5 +31,5 @@ Aby używać HTML, wystarczy otworzyć plik tekstowy w edytorze kodu i zacząć 
     Treść Twojej strony.
   </body>
 </html>
-====
+----
 
