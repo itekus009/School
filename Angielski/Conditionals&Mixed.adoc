@@ -1,0 +1,62 @@
+= Conditionals
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:stem:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== 0 Conditional
+NOTE: *Real events/situations, things wchich are always true.*
+
+NOTE: *If = When*
+
+*PRESENT + PRESENT*
+
+* _If/when I *work* late, I always *get* home tired._
+
+*PAST + PAST*
+
+* _If/when the weather *was* bad, we *used* to stay indoors._
+
+== 1st Conditional
+
+NOTE: *Possible or likely events/situations (future)*
+
+*IF + PRESENT + MODAL VERB/PRESENT CONTINOUS (future meaning)/GOING TO/IMPERATIVE*
+
+* _If it *snows* tomorrow, the match *will/may/could* be cancelled._
+
+* _If it snows tomorrow, I *'m staying* at home._
+
+== 2nd Conditional
+
+NOTE: *Unlikely or unreal situations (present or future).*
+
+*IF + WOULD/COULD/MIGHT + INFINITIVE*
+
+* _If you *met* your favourite actor on the street_ (unlikely)_, what *would* you do?_
+
+* _If I *become* president_ (but I won't)_, I *'d build* more hospitals_ (in the future)
+
+* _If I *were* you (but I'm not), I *'d take* warm clothes._ (= advice)
+
+== 3rd Conditional
+
+NOTE: *Unreal/impossible past situations.*
+
+*IF +  PAST PERFECT = WOULD/COULD/MIGHT + HAVE + PAST PARTICIPLE*
+
+* _If we *had known* about the blizzard, we *wouldn't have set out*_ (but we didn't know)
+
+* _If you *had listened* more carefully_ (but you didn't)_, you *would have understood.* (= criticism)
+
+== Mixed Conditionals
+
+IMPORTANT: *Nie chce mi się - zrobię później!*
