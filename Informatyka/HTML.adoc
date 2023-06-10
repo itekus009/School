@@ -37,4 +37,34 @@ Aby używać HTML, wystarczy otworzyć plik tekstowy w edytorze kodu i zacząć 
 
 === Znaczniki w HTMLu.
 
+.<h1> do <h6> (Nagłówki):
+Służą do oznaczania nagłówków na stronie. <h1> to najważniejszy nagłówek, a <h6> to najmniej istotny. Nagłówki są używane do hierarchicznego organizowania treści i nadawania im znaczenia.
 
+.<p> (Paragraf):
+Używany do oznaczania akapitów tekstu. Wykorzystywany do strukturyzowania i formatowania treści tekstowych.
+
+<a> (Link):
+Służy do tworzenia hiperłączy (linków) do innych stron internetowych, dokumentów lub lokalizacji na tej samej stronie. Atrybut href określa adres URL docelowej strony.
+
+<img> (Obrazek):
+Umożliwia wstawienie obrazka na stronie. Atrybut src określa ścieżkę do obrazka, a alt zapewnia tekst zastępczy, który jest wyświetlany, gdy obrazek nie może być załadowany.
+
+<ul> (Lista nieuporządkowana):
+Służy do tworzenia listy nieuporządkowanej, gdzie elementy nie mają określonego porządku. Każdy element listy jest zazwyczaj oznaczony kropką, kółkiem lub innym symbolem.
+
+<ol> (Lista uporządkowana):
+Umożliwia tworzenie listy uporządkowanej, w której elementy są numerowane lub zastosowana jest inna sekwencja znaków oznaczająca porządek.
+
+<table> (Tabela):
+Służy do tworzenia tabel. Składa się z <table>, <thead>, <tbody>, <tr>, <th> i <td>. Pozwala na organizowanie danych w wiersze i kolumny, przydaje się do prezentacji informacji w sposób uporządkowany.
+
+<form> (Formularz):
+Używany do tworzenia formularzy, które pozwalają użytkownikom wprowadzać dane. Atrybuty action i method określają adres URL, do którego zostaną przesłane dane formularza oraz metoda wysyłki tych danych (np. POST lub GET).
+
+<div> (Pojemnik):
+Jest to kontener lub pojemnik, który służy do grupowania elementów na stronie. Często używany do stylizacji i zarządzania układem strony.
+
+<!-- --> (Komentarz):
+Służy do dodawania komentarzy w kodzie HTML. Komentarze są ignorowane przez przeglądarki internetowe i służą do umieszczania informacji dla innych programistów lub do tymczasowego wyłączania pewnych części kodu.
+
+Te to tylko niektóre z podstawowych znaczników HTMLu, których jest bardzo dużo.
