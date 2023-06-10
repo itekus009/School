@@ -1,1 +1,35 @@
+= Podstawy HTML, kurs (Wiktor Grabowski Id LO)
+:toc:
+:toc-title: Spis treści
+:sectnums:
+:icons: font
+:stem:
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Informacje ogólne
+NOTE: Krótko o HTML.
+
+HTML (HyperText Markup Language) jest językiem znaczników używanym do tworzenia struktur i prezentacji stron internetowych. HTML definiuje strukturę semantyczną zawartości strony, która składa się z różnych elementów, takich jak nagłówki, akapity, linki, obrazy, tabele itp. Przeglądarki internetowe interpretują kod HTML i wyświetlają go w formie graficznej dla użytkownika.
+
+Aby używać HTML, wystarczy otworzyć plik tekstowy w edytorze kodu i zacząć pisać kod HTML. Kod HTML składa się z zestawu znaczników, które określają strukturę i formatowanie różnych elementów strony. Każdy znacznik HTML zaczyna się od znaku "<" i kończy się znakiem ">". Na przykład, <h1> to znacznik nagłówka pierwszego poziomu, <p> to znacznik paragrafu, <a> to znacznik linku, itd.
+
+=== Podstawowoa struktura dokumentu.
+
+====
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tytuł Twojej strony</title>
+  </head>
+  <body>
+    Treść Twojej strony.
+  </body>
+</html>
+====
 
