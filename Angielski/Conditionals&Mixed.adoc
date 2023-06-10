@@ -70,6 +70,11 @@ NOTE: *Unreal/impossible past situations.*
 |===
 
 == Alternatives to _If_
+. *_unless_* (= if ... not or only if)
+.. *_Unless* the weather improves, we will have to cancel the game. (*If the weather doesn't improve ...*)_
+.. _She wan't go to sleep *unless* you tell her a story. (*She will only go to sleep if you ...*)_
+. *_providing/provided (that), on condition that, as/so long as_* (= only if)
+
 
 WARNING: *These conjunctions are not used with 3rd conditional!*
 
@@ -105,4 +110,4 @@ WARNING: *These conjunctions are not used with 3rd conditional!*
 
 == Omission of _if_
 
-IMPORTANT: ZARAZ WRACAM!
+IMPORTANT: ZNOWU MI SIĘ NIE CHCE....
