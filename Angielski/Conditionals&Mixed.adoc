@@ -109,5 +109,18 @@ WARNING: *These conjunctions are not used with 3rd conditional!*
 ** _Let's hope the weather improves. *Otherwise* (= if it doesn't), we'll have to cancel the picnic._
 
 == Omission of _if_
+_If_ can be omitted and the auxiliary verb moved in front of the subject (inversion). This structure is formal.
 
-IMPORTANT: ZNOWU MI SIĘ NIE CHCE....
+* *_should_* suggests that the condition is unlikely:
+
+** *_Should* you ever find yourself in Oxford, we would be glad to see you. (If you should ever ...)_
+
+* *_were_* suggests that the condition is unlikely:
+
+** *_Were* the company to collapse, many people would lose their savings (If the company collapsed ...)_
+
+* *_had_*
+
+** *_Had* I known earlier that you wanted to join the team, I'd have put your name on the list. (If I had known ...)_
+
+** _My horse would have won *had* he not fallen at the final fence. (... if he had not fallen ...)_
