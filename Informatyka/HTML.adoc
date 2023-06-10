@@ -33,3 +33,8 @@ Aby używać HTML, wystarczy otworzyć plik tekstowy w edytorze kodu i zacząć 
 </html>
 ----
 
+== Pisanie językiem HTML
+
+=== Znaczniki w HTMLu.
+
+
