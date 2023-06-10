@@ -105,4 +105,4 @@ WARNING: *These conjunctions are not used with 3rd conditional!*
 
 == Omission of _if_
 
-IMPORTANT: ZA RAZ WRACAM!
+IMPORTANT: ZARAZ WRACAM!
