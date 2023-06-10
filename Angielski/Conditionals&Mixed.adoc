@@ -59,4 +59,50 @@ NOTE: *Unreal/impossible past situations.*
 
 == Mixed Conditionals
 
-IMPORTANT: *Nie chce mi się - zrobię później!*
+[cols="2*<"]
+|===
+|*3rd* conditional + *2nd* conditional
+|*2nd* conditional + *3rd* conditional
+|unreal past + unreal present 
+|unreal present + unreal past
+|_If we *hadn't got lost*, we *'d be* there by now._
+|_If I *were* a more ambitious person_ (but I'm not)_, I *'d have* become a politician._
+|===
+
+== Alternatives to _If_
+
+WARNING: *These conjunctions are not used with 3rd conditional!*
+
+* _I'll lend you money *providing (that)* you pay it back._
+
+* _I'd lend the money *as long as* you paid it back._
+
+* *_but for_* (= if it had not been for, if ...not)
+
+** *_But for* your warning, we wouldn't have realised the danger. (If it had not been for your warning,/If you had not warned us, ...)_
+
+* *_whether... or not_* (= it doesn't matter which of these situations)
+
+** *_Whether* the governments like it *or not*, they have to give more aid to the developing world._
+
+* *_Suppose/supposing, what if_* (used to talk about imaginary situations)
+
+** *[Present tense:] _What if* your plan fails, what then?_
+
+** *[Past tense:] _Suppose* you won the lottery, what would you do?_
+
+* *_assuming that_* (= in the possible situation that)
+
+** *_Assuming (that)* you're right, we should turn left here._
+
+* *_in case_* (as a way of being safe from something that might happen)
+
+** _Take your umbrella *in case* it rains._
+
+* *_otherwise_* (= if not)
+
+** _Let's hope the weather improves. *Otherwise* (= if it doesn't), we'll have to cancel the picnic._
+
+== Omission of _if_
+
+IMPORTANT: ZA RAZ WRACAM!
