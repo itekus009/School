@@ -144,3 +144,21 @@ TIP: *Wymienione z naczniki to tylko niektóre z podstawowych znaczników HTMLu,
 </body>
 </html>
 ----
+
+== Wrzucanie zdjęć na swoją stronę internetową.
+
+WARNING: *Prawa autorskie i RODO*
+
+====
+*Ważne jest, abyś zawsze przestrzegał praw autorskich i przepisów RODO przy publikacji stron internetowych. Oto kilka ogólnych zasad, które warto pamiętać, aby uniknąć naruszania tych praw:
+
+Zdjęcia: Jeśli chcesz użyć zdjęć na swojej stronie, upewnij się, że masz odpowiednie uprawnienia do ich wykorzystania. Jeżeli nie jesteś autorem zdjęcia, upewnij się, że posiadasz zgodę autora na ich publikację lub skorzystaj z legalnie dostępnych źródeł, takich jak banki zdjęć, które oferują licencje na używanie obrazów.
+
+Prawa autorskie: Upewnij się, że nie naruszysz praw autorskich autorów, którzy mają prawa do twórczości zamieszczonej na swojej stronie. Jeśli korzystasz z cudzych treści, takich jak teksty, grafiki czy multimedia, uzyskaj zgodę od właściciela praw autorskich lub wykorzystaj materiały objęte licencjami, które pozwalają na ich użycie.
+
+RODO: Rozporządzenie Ogólne o Ochronie Danych Osobowych (RODO) określa zasady dotyczące przetwarzania danych osobowych. Jeśli zamieszczasz zdjęcia osób, pamiętaj o ich prywatności i uzyskaj wyraźną zgodę od tych osób na publikację ich wizerunku.
+
+Źródła i odwołania: Gdy korzystasz z treści, zdjęć lub informacji z innych stron internetowych, pamiętaj o ich źródłach. Podawaj odpowiednie odwołania, linki lub zezwolenia, aby uczciwie zidentyfikować i docenić autorów lub źródła treści.
+
+Zachowanie uczciwości i szacunku wobec praw autorskich oraz przepisów RODO jest kluczowe dla budowania prawidłowej i etycznej obecności w internecie. W razie wątpliwości lub pytań, zawsze warto skonsultować się z prawnikiem lub specjalistą ds. ochrony danych osobowych, aby zapewnić zgodność z obowiązującymi przepisami.*
+====
