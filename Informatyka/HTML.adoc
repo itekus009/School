@@ -19,7 +19,7 @@ HTML (HyperText Markup Language) jest językiem znaczników używanym do tworzen
 
 Aby używać HTML, wystarczy otworzyć plik tekstowy w edytorze kodu i zacząć pisać kod HTML. Kod HTML składa się z zestawu znaczników, które określają strukturę i formatowanie różnych elementów strony. Każdy znacznik HTML zaczyna się od znaku "<" i kończy się znakiem ">". Na przykład, <h1> to znacznik nagłówka pierwszego poziomu, <p> to znacznik paragrafu, <a> to znacznik linku, itd.
 
-=== Podstawowoa struktura dokumentu.
+=== Podstawowa struktura dokumentu.
 
 ----
 <!DOCTYPE html>
