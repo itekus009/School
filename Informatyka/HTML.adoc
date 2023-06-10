@@ -78,6 +78,69 @@ Jest to kontener lub pojemnik, który służy do grupowania elementów na stroni
 // To jest komentarz jednolinijkowy
 ----
 
-
-
 TIP: *Wymienione z naczniki to tylko niektóre z podstawowych znaczników HTMLu, których jest bardzo dużo.*
+
+== Przykładowy kod HTML, z wykorzystaniem wymienionych powyżej znaczników.
+
+----
+<html>
+<head>
+  <title>Przykładowa strona</title>
+</head>
+<body>
+  <h1>To jest nagłówek pierwszego poziomu</h1>
+  <h2>To jest nagłówek drugiego poziomu</h2>
+  <h3>To jest nagłówek trzeciego poziomu</h3>
+
+  <p>To jest przykładowy paragraf tekstu.</p>
+  <p>To jest inny paragraf.</p>
+
+  <a href="https://www.example.com">To jest link do strony zewnętrznej</a>
+
+  <img src="sciezka/do/obrazka.jpg" alt="Opis obrazka">
+
+  <h3>Lista uporządkowana:</h3>
+  <ol>
+    <li>Pierwszy element</li>
+    <li>Drugi element</li>
+    <li>Trzeci element</li>
+  </ol>
+
+  <h3>Lista nieuporządkowana:</h3>
+  <ul>
+    <li>Punkt pierwszy</li>
+    <li>Punkt drugi</li>
+    <li>Punkt trzeci</li>
+  </ul>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Nagłówek kolumny 1</th>
+        <th>Nagłówek kolumny 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Dane 1</td>
+        <td>Dane 2</td>
+      </tr>
+      <tr>
+        <td>Dane 3</td>
+        <td>Dane 4</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <form action="przetwarzanie.php" method="POST">
+    <label for="name">Imię:</label>
+    <input type="text" id="name" name="name" required>
+    <br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    <br>
+    <input type="submit" value="Wyślij">
+  </form>
+</body>
+</html>
+----
