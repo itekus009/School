@@ -66,17 +66,7 @@ Jest to kontener lub pojemnik, który służy do grupowania elementów na stroni
 
 . Komentarze:
 
-* "// treść komentarza" (wielolinijkowy):
-
-----
-/* To jest komentarz wielolinijkowy
-   który rozciąga się na kilka linii */
-----
-* Oraz komentarz jednolinijkowy
-** "/* treść komentarza */"
-----
-// To jest komentarz jednolinijkowy
-----
+* Każdy język programowania ma swoją składnię, w języku HTML komentarze zapisujemy pomiędzy znacznikami <! – oraz –>. Wszystko co zostanie zapisane pomiędzy tymi znacznikami zostanie pominięte przez przeglądarkę przy wyświetlaniu treści. Będą one jedynie widoczne dla osób przeglądających kod strony internetowej.
 
 TIP: *Wymienione z naczniki to tylko niektóre z podstawowych znaczników HTMLu, których jest bardzo dużo.*
 
