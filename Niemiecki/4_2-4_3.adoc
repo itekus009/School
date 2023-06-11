@@ -15,7 +15,7 @@ endif::[]
 == Rodzaje szyków zdań w języku niemieckim.
 
 ====
-W języku niemieckim wyróżnia się trzy rodzaje szyku zdania: *prosty*, *przestawny* i *końcowy*. Szyk prosty to szyk, w którym na pierwszym miejscu w zdaniu jest podmiot (osoba), a na drugim orzeczenie (czasownik). Szyk przestawny to odwrotność szyku prostego, czyli najpierw orzeczenie, a potem podmiot. Szyk końcowy oznacza, że czasownik stoi na końcu zdania
+W języku niemieckim wyróżnia się trzy rodzaje szyku zdania: *prosty*, *przestawny* i *końcowy*. Szyk prosty to szyk, w którym *na pierwszym miejscu w zdaniu jest podmiot* (osoba) *, a na drugim orzeczenie* (czasownik). Szyk przestawny to *odwrotność szyku prostego*, czyli najpierw *orzeczenie, a potem podmiot*. Szyk końcowy oznacza, że *czasownik stoi na końcu zdania*.
 ====
 
 == Obwohl
