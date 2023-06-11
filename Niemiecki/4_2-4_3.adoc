@@ -1,5 +1,4 @@
 = Gramatyka (tematy: 4.2-4.3)
-
 :toc:
 :toc-title: Spis treści
 :sectnums:
@@ -16,4 +15,16 @@ endif::[]
 == Obwohl
 Spójnik *_bwohl* (_chociaż, mimo że_) rozpoczyna zdanie okolicznikowe przyzwolenia w zdaniach tgo typu występuje *szyk końowy*.
 
-* Mia hat den Chemietest mitgeschrieben, *obwohl* sie krank war.
+* Mia hat den Chemietest mitgeschrieben, *obwohl* sie krank *war*.
+
+NITE: Jeżeli zdanie poboczne występuje jako pierwsze, w zdaniu głównym stosujemy *szyk przestawny*.
+
+* *Obwohl* Mia krank *war*, *hat* sie den Chemietest *motgeschriebien*.
+
+== Deshalb i trotzdem
+
+W zdaniach z *deshalb* (_dlatego_) i trotzdem (_mimo to_) stosujemy *szyk przestawny*.
+
+* Ich möchte fit bleiben, *deshalb* mache ich Sport.
+
+* Er hat viel gelernt, *trotzdem* hat er eine Sechs bekommen.
