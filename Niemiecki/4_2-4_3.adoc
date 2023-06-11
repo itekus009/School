@@ -19,11 +19,11 @@ W języku niemieckim wyróżnia się trzy rodzaje szyku zdania: *prosty*, *przes
 ====
 
 == Obwohl
-Spójnik *_obwohl* (_chociaż, mimo że_) rozpoczyna zdanie okolicznikowe przyzwolenia w zdaniach tgo typu występuje *szyk końowy*.
+Spójnik *_obwohl* (_chociaż_, mimo że_) rozpoczyna zdanie okolicznikowe przyzwolenia w zdaniach tgo typu występuje *szyk końowy*.
 
 * Mia hat den Chemietest mitgeschrieben, *obwohl* sie krank *war*.
 
-NITE: Jeżeli zdanie poboczne występuje jako pierwsze, w zdaniu głównym stosujemy *szyk przestawny*.
+NOTE: Jeżeli zdanie poboczne występuje jako pierwsze, w zdaniu głównym stosujemy *szyk przestawny*.
 
 * *Obwohl* Mia krank *war*, *hat* sie den Chemietest *mitgeschriebien*.
 
